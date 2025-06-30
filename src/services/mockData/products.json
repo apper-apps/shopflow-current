@@ -3386,8 +3386,2241 @@
       "format": "Paperbook",
       "pages": "344",
       "language": "English",
-      "publisher": "Sustainable Business Press"
+"publisher": "Sustainable Business Press"
     },
     "createdAt": "2023-06-17T00:00:00Z"
+  },
+  {
+    "Id": 153,
+    "title": "Classic White Button-Down Shirt",
+    "price": 45.99,
+    "originalPrice": 55.99,
+    "discount": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Timeless white button-down shirt made from premium cotton. Essential wardrobe staple with clean lines and versatile styling options for work or casual wear.",
+    "category": "Clothing",
+    "rating": 4.5,
+    "reviewCount": 298,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Cotton",
+      "fit": "Regular",
+      "care": "Machine wash cold",
+      "sizes": "XS-XXL"
+    },
+    "createdAt": "2024-01-25T00:00:00Z"
+  },
+  {
+    "Id": 154,
+    "title": "Vintage High-Waisted Jeans",
+    "price": 79.99,
+    "originalPrice": 99.99,
+    "discount": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5c?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=500&h=500&fit=crop"
+    ],
+    "description": "Vintage-inspired high-waisted jeans with authentic wash and perfect fit. Made from sustainable denim with stretch for comfort and style.",
+    "category": "Clothing",
+    "rating": 4.6,
+    "reviewCount": 421,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "material": "98% Cotton, 2% Elastane",
+      "wash": "Medium blue",
+      "fit": "High-waisted skinny",
+      "sustainability": "Eco-friendly denim"
+    },
+    "createdAt": "2024-01-24T00:00:00Z"
+  },
+  {
+    "Id": 155,
+    "title": "Silk Midi Dress",
+    "price": 89.99,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Elegant silk midi dress with flowing silhouette. Perfect for special occasions or elevated everyday wear. Features subtle print and feminine cut.",
+    "category": "Clothing",
+    "rating": 4.4,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Silk",
+      "length": "Midi",
+      "style": "A-line",
+      "care": "Dry clean only"
+    },
+    "createdAt": "2024-01-23T00:00:00Z"
+  },
+  {
+    "Id": 156,
+    "title": "Wool Blend Blazer",
+    "price": 119.99,
+    "originalPrice": 149.99,
+    "discount": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop"
+    ],
+    "description": "Professional wool blend blazer with tailored fit. Versatile piece for business attire or smart casual looks. Features classic lapels and button closure.",
+    "category": "Clothing",
+    "rating": 4.7,
+    "reviewCount": 267,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "material": "70% Wool, 30% Polyester",
+      "fit": "Tailored",
+      "style": "Single-breasted",
+      "lining": "Fully lined"
+    },
+    "createdAt": "2024-01-22T00:00:00Z"
+  },
+  {
+    "Id": 157,
+    "title": "Striped Long-Sleeve Tee",
+    "price": 29.99,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Classic striped long-sleeve tee in soft cotton blend. Timeless pattern and comfortable fit make this a wardrobe essential for casual styling.",
+    "category": "Clothing",
+    "rating": 4.2,
+    "reviewCount": 156,
+    "inStock": true,
+    "specifications": {
+      "material": "95% Cotton, 5% Spandex",
+      "pattern": "Navy and white stripes",
+      "fit": "Relaxed",
+      "sleeves": "Long sleeve"
+    },
+    "createdAt": "2024-01-21T00:00:00Z"
+  },
+  {
+    "Id": 158,
+    "title": "Black Leather Jacket",
+    "price": 199.99,
+    "originalPrice": 249.99,
+    "discount": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5c?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=500&h=500&fit=crop"
+    ],
+    "description": "Genuine leather jacket with classic moto styling. Premium leather construction with multiple pockets and asymmetrical zip closure.",
+    "category": "Clothing",
+    "rating": 4.8,
+    "reviewCount": 342,
+    "inStock": false,
+    "specifications": {
+      "material": "100% Genuine Leather",
+      "style": "Moto jacket",
+      "closure": "Asymmetrical zip",
+      "features": "Multiple pockets"
+    },
+    "createdAt": "2024-01-20T00:00:00Z"
+  },
+  {
+    "Id": 159,
+    "title": "Floral Print Blouse",
+    "price": 52.99,
+    "originalPrice": 69.99,
+    "discount": 24,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Feminine floral print blouse with delicate button details. Flowing fabric and romantic print perfect for spring and summer styling.",
+    "category": "Clothing",
+    "rating": 4.3,
+    "reviewCount": 198,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Polyester",
+      "print": "Floral",
+      "neckline": "V-neck",
+      "sleeves": "3/4 sleeve"
+    },
+    "createdAt": "2024-01-19T00:00:00Z"
+  },
+  {
+    "Id": 160,
+    "title": "Dark Wash Slim Jeans",
+    "price": 65.99,
+    "images": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5c?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=500&h=500&fit=crop"
+    ],
+    "description": "Contemporary slim-fit jeans in dark indigo wash. Modern cut with slight stretch for comfort and mobility. Perfect for everyday wear.",
+    "category": "Clothing",
+    "rating": 4.4,
+    "reviewCount": 234,
+    "inStock": true,
+    "specifications": {
+      "material": "99% Cotton, 1% Elastane",
+      "wash": "Dark indigo",
+      "fit": "Slim",
+      "rise": "Mid-rise"
+    },
+    "createdAt": "2024-01-18T00:00:00Z"
+  },
+  {
+    "Id": 161,
+    "title": "Cozy Knit Sweater",
+    "price": 69.99,
+    "originalPrice": 85.99,
+    "discount": 19,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Soft and cozy knit sweater perfect for cooler weather. Relaxed fit with ribbed cuffs and hem. Available in multiple colors.",
+    "category": "Clothing",
+    "rating": 4.6,
+    "reviewCount": 178,
+    "inStock": true,
+    "specifications": {
+      "material": "60% Cotton, 40% Acrylic",
+      "style": "Crew neck",
+      "fit": "Relaxed",
+      "features": "Ribbed details"
+    },
+    "createdAt": "2024-01-17T00:00:00Z"
+  },
+  {
+    "Id": 162,
+    "title": "Pleated Mini Skirt",
+    "price": 39.99,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Playful pleated mini skirt with classic schoolgirl charm. High-waisted design with hidden side zip. Perfect for casual or dressy occasions.",
+    "category": "Clothing",
+    "rating": 4.1,
+    "reviewCount": 145,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Polyester",
+      "length": "Mini",
+      "waist": "High-waisted",
+      "closure": "Side zip"
+    },
+    "createdAt": "2024-01-16T00:00:00Z"
+  },
+  {
+    "Id": 163,
+    "title": "Linen Summer Pants",
+    "price": 58.99,
+    "originalPrice": 74.99,
+    "discount": 21,
+    "images": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5c?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=500&h=500&fit=crop"
+    ],
+    "description": "Breathable linen pants perfect for summer. Relaxed wide-leg cut with elastic waistband for comfort. Natural fabric keeps you cool.",
+    "category": "Clothing",
+    "rating": 4.3,
+    "reviewCount": 167,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Linen",
+      "fit": "Wide-leg",
+      "waist": "Elastic",
+      "season": "Summer"
+    },
+    "createdAt": "2024-01-15T00:00:00Z"
+  },
+  {
+    "Id": 164,
+    "title": "Cable Knit Cardigan",
+    "price": 79.99,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Classic cable knit cardigan with button-front closure. Timeless design perfect for layering. Features front pockets and ribbed trim.",
+    "category": "Clothing",
+    "rating": 4.5,
+    "reviewCount": 234,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "material": "100% Wool",
+      "pattern": "Cable knit",
+      "closure": "Button-front",
+      "features": "Front pockets"
+    },
+    "createdAt": "2024-01-14T00:00:00Z"
+  },
+  {
+    "Id": 165,
+    "title": "Graphic Print T-Shirt",
+    "price": 24.99,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Trendy graphic print t-shirt with artistic design. Soft cotton blend fabric with vintage-inspired print. Perfect for casual everyday wear.",
+    "category": "Clothing",
+    "rating": 4.2,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Cotton",
+      "print": "Graphic design",
+      "fit": "Regular",
+      "neckline": "Crew neck"
+    },
+    "createdAt": "2024-01-13T00:00:00Z"
+  },
+  {
+    "Id": 166,
+    "title": "Maxi Wrap Dress",
+    "price": 94.99,
+    "originalPrice": 119.99,
+    "discount": 21,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Elegant maxi wrap dress with flowing silhouette. Flattering wrap design with tie waist and long sleeves. Perfect for special occasions.",
+    "category": "Clothing",
+    "rating": 4.7,
+    "reviewCount": 298,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Viscose",
+      "style": "Wrap dress",
+      "length": "Maxi",
+      "sleeves": "Long sleeve"
+    },
+    "createdAt": "2024-01-12T00:00:00Z"
+  },
+  {
+    "Id": 167,
+    "title": "Denim Overalls",
+    "price": 72.99,
+    "originalPrice": 89.99,
+    "discount": 19,
+    "images": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5c?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=500&h=500&fit=crop"
+    ],
+    "description": "Vintage-style denim overalls with adjustable straps. Classic blue wash with multiple pockets and relaxed fit. Perfect for casual styling.",
+    "category": "Clothing",
+    "rating": 4.4,
+    "reviewCount": 156,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Cotton Denim",
+      "style": "Overalls",
+      "straps": "Adjustable",
+      "pockets": "Multiple"
+    },
+    "createdAt": "2024-01-11T00:00:00Z"
+  },
+  {
+    "Id": 168,
+    "title": "Turtleneck Sweater",
+    "price": 49.99,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Classic turtleneck sweater in soft merino wool blend. Timeless silhouette perfect for layering or wearing alone. Available in multiple colors.",
+    "category": "Clothing",
+    "rating": 4.3,
+    "reviewCount": 213,
+    "inStock": false,
+    "specifications": {
+      "material": "80% Merino Wool, 20% Cashmere",
+      "neckline": "Turtleneck",
+      "fit": "Fitted",
+      "weight": "Lightweight"
+    },
+    "createdAt": "2024-01-10T00:00:00Z"
+  },
+  {
+    "Id": 169,
+    "title": "Wide-Leg Trousers",
+    "price": 68.99,
+    "originalPrice": 85.99,
+    "discount": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5c?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=500&h=500&fit=crop"
+    ],
+    "description": "Sophisticated wide-leg trousers with high waist. Professional yet comfortable with clean lines and tailored construction.",
+    "category": "Clothing",
+    "rating": 4.6,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "material": "95% Polyester, 5% Elastane",
+      "fit": "Wide-leg",
+      "waist": "High-waisted",
+      "style": "Tailored"
+    },
+    "createdAt": "2024-01-09T00:00:00Z"
+  },
+  {
+    "Id": 170,
+    "title": "Cropped Hoodie",
+    "price": 42.99,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Trendy cropped hoodie with kangaroo pocket. Soft fleece interior and relaxed fit. Perfect for athleisure and casual styling.",
+    "category": "Clothing",
+    "rating": 4.1,
+    "reviewCount": 167,
+    "inStock": true,
+    "specifications": {
+      "material": "80% Cotton, 20% Polyester",
+      "style": "Cropped",
+      "hood": "Drawstring",
+      "pocket": "Kangaroo pocket"
+    },
+    "createdAt": "2024-01-08T00:00:00Z"
+  },
+  {
+    "Id": 171,
+    "title": "Pencil Skirt",
+    "price": 45.99,
+    "originalPrice": 59.99,
+    "discount": 23,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Classic pencil skirt in stretch fabric. Professional silhouette with back slit for movement. Essential piece for work wardrobe.",
+    "category": "Clothing",
+    "rating": 4.4,
+    "reviewCount": 234,
+    "inStock": true,
+    "specifications": {
+      "material": "95% Polyester, 5% Spandex",
+      "style": "Pencil",
+      "length": "Knee-length",
+      "features": "Back slit"
+    },
+    "createdAt": "2024-01-07T00:00:00Z"
+  },
+  {
+    "Id": 172,
+    "title": "Bohemian Kimono",
+    "price": 56.99,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Flowy bohemian kimono with intricate print. Open-front design perfect for layering over tanks and dresses. Festival and vacation ready.",
+    "category": "Clothing",
+    "rating": 4.2,
+    "reviewCount": 178,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Viscose",
+      "style": "Kimono",
+      "print": "Bohemian",
+      "closure": "Open-front"
+    },
+    "createdAt": "2024-01-06T00:00:00Z"
+  },
+  {
+    "Id": 173,
+    "title": "Skinny Black Jeans",
+    "price": 59.99,
+    "originalPrice": 79.99,
+    "discount": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5c?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=500&h=500&fit=crop"
+    ],
+    "description": "Essential black skinny jeans with stretch fit. Versatile piece that pairs with everything. Premium denim with fade-resistant color.",
+    "category": "Clothing",
+    "rating": 4.5,
+    "reviewCount": 312,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "material": "98% Cotton, 2% Elastane",
+      "color": "Black",
+      "fit": "Skinny",
+      "features": "Stretch, fade-resistant"
+    },
+    "createdAt": "2024-01-05T00:00:00Z"
+  },
+  {
+    "Id": 174,
+    "title": "Cashmere Blend Scarf",
+    "price": 68.99,
+    "images": [
+      "https://images.unsplash.com/photo-1520903920243-00d872a2d1c9?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1566479179817-c3868c0f6df5?w=500&h=500&fit=crop"
+    ],
+    "description": "Luxurious cashmere blend scarf with soft texture. Large size perfect for wrapping or draping. Essential accessory for cool weather.",
+    "category": "Clothing",
+    "rating": 4.6,
+    "reviewCount": 145,
+    "inStock": true,
+    "specifications": {
+      "material": "70% Cashmere, 30% Silk",
+      "size": "70 x 200cm",
+      "weight": "Lightweight",
+      "care": "Dry clean"
+    },
+    "createdAt": "2024-01-04T00:00:00Z"
+  },
+  {
+    "Id": 175,
+    "title": "Mesh Athletic Top",
+    "price": 32.99,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Breathable mesh athletic top with moisture-wicking technology. Perfect for workouts or active lifestyle. Flattering cut with built-in support.",
+    "category": "Clothing",
+    "rating": 4.3,
+    "reviewCount": 198,
+    "inStock": true,
+    "specifications": {
+      "material": "90% Polyester, 10% Spandex",
+      "features": "Moisture-wicking, mesh panels",
+      "support": "Built-in bra",
+      "activity": "Athletic"
+    },
+    "createdAt": "2024-01-03T00:00:00Z"
+  },
+  {
+    "Id": 176,
+    "title": "Plaid Flannel Shirt",
+    "price": 38.99,
+    "originalPrice": 49.99,
+    "discount": 22,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Classic plaid flannel shirt in soft brushed cotton. Perfect for layering or wearing alone. Comfortable relaxed fit with button-front closure.",
+    "category": "Clothing",
+    "rating": 4.4,
+    "reviewCount": 223,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Cotton Flannel",
+      "pattern": "Plaid",
+      "fit": "Relaxed",
+      "closure": "Button-front"
+    },
+    "createdAt": "2024-01-02T00:00:00Z"
+  },
+  {
+    "Id": 177,
+    "title": "High-Low Tunic",
+    "price": 47.99,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Trendy high-low tunic with asymmetrical hem. Flowy design perfect for pairing with leggings or skinny jeans. Comfortable and stylish.",
+    "category": "Clothing",
+    "rating": 4.1,
+    "reviewCount": 156,
+    "inStock": false,
+    "specifications": {
+      "material": "95% Rayon, 5% Spandex",
+      "style": "High-low hem",
+      "fit": "Flowing",
+      "sleeves": "3/4 sleeve"
+    },
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": 178,
+    "title": "Corduroy Jacket",
+    "price": 84.99,
+    "originalPrice": 109.99,
+    "discount": 23,
+    "images": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5c?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=500&h=500&fit=crop"
+    ],
+    "description": "Vintage-inspired corduroy jacket with classic styling. Perfect layering piece for fall and winter. Features button closure and chest pockets.",
+    "category": "Clothing",
+    "rating": 4.5,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Cotton Corduroy",
+      "style": "Classic jacket",
+      "closure": "Button-front",
+      "pockets": "Chest and side pockets"
+    },
+    "createdAt": "2023-12-31T00:00:00Z"
+  },
+  {
+    "Id": 179,
+    "title": "Legging Set",
+    "price": 54.99,
+    "originalPrice": 69.99,
+    "discount": 21,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Matching legging and top set for athleisure wear. High-waisted leggings with compression fit and coordinating crop top.",
+    "category": "Clothing",
+    "rating": 4.2,
+    "reviewCount": 267,
+    "inStock": true,
+    "specifications": {
+      "material": "87% Nylon, 13% Spandex",
+      "includes": "Leggings and crop top",
+      "fit": "Compression",
+      "waist": "High-waisted"
+    },
+    "createdAt": "2023-12-30T00:00:00Z"
+  },
+  {
+    "Id": 180,
+    "title": "Embroidered Peasant Blouse",
+    "price": 62.99,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Beautiful embroidered peasant blouse with bohemian flair. Intricate stitching details and flowing silhouette. Perfect for festival season.",
+    "category": "Clothing",
+    "rating": 4.3,
+    "reviewCount": 134,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Cotton",
+      "details": "Hand embroidery",
+      "style": "Peasant blouse",
+      "neckline": "Off-shoulder"
+    },
+    "createdAt": "2023-12-29T00:00:00Z"
+  },
+  {
+    "Id": 181,
+    "title": "Distressed Boyfriend Jeans",
+    "price": 76.99,
+    "originalPrice": 95.99,
+    "discount": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5c?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=500&h=500&fit=crop"
+    ],
+    "description": "Relaxed boyfriend jeans with authentic distressing. Comfortable loose fit with rolled cuffs and vintage wash.",
+    "category": "Clothing",
+    "rating": 4.4,
+    "reviewCount": 198,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Cotton Denim",
+      "fit": "Boyfriend",
+      "details": "Distressed",
+      "wash": "Light blue"
+    },
+    "createdAt": "2023-12-28T00:00:00Z"
+  },
+  {
+    "Id": 182,
+    "title": "Velvet Blazer",
+    "price": 109.99,
+    "images": [
+      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop"
+    ],
+    "description": "Luxurious velvet blazer perfect for evening occasions. Rich texture and sophisticated silhouette with satin lining.",
+    "category": "Clothing",
+    "rating": 4.6,
+    "reviewCount": 156,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "material": "100% Cotton Velvet",
+      "lining": "Satin",
+      "style": "Evening blazer",
+      "closure": "Single button"
+    },
+    "createdAt": "2023-12-27T00:00:00Z"
+  },
+  {
+    "Id": 183,
+    "title": "Thermal Long Johns",
+    "price": 28.99,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Warm thermal long johns for cold weather. Moisture-wicking fabric keeps you dry and comfortable. Perfect base layer for winter activities.",
+    "category": "Clothing",
+    "rating": 4.2,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "material": "60% Cotton, 40% Polyester",
+      "features": "Moisture-wicking, thermal",
+      "fit": "Slim",
+      "season": "Winter"
+    },
+    "createdAt": "2023-12-26T00:00:00Z"
+  },
+  {
+    "Id": 184,
+    "title": "Tiered Maxi Skirt",
+    "price": 58.99,
+    "originalPrice": 74.99,
+    "discount": 21,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Flowing tiered maxi skirt with bohemian vibe. Multiple layers create beautiful movement. Perfect for vacation or summer styling.",
+    "category": "Clothing",
+    "rating": 4.3,
+    "reviewCount": 167,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Viscose",
+      "style": "Tiered",
+      "length": "Maxi",
+      "waist": "Elastic"
+    },
+    "createdAt": "2023-12-25T00:00:00Z"
+  },
+  {
+    "Id": 185,
+    "title": "Statement Sleeve Blouse",
+    "price": 49.99,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Dramatic statement sleeve blouse with modern silhouette. Balloon sleeves create a fashion-forward look. Perfect for special occasions.",
+    "category": "Clothing",
+    "rating": 4.1,
+    "reviewCount": 134,
+    "inStock": false,
+    "specifications": {
+      "material": "100% Polyester",
+      "sleeves": "Balloon sleeves",
+      "style": "Statement",
+      "fit": "Regular"
+    },
+    "createdAt": "2023-12-24T00:00:00Z"
+  },
+  {
+    "Id": 186,
+    "title": "Cargo Pants",
+    "price": 64.99,
+    "originalPrice": 79.99,
+    "discount": 19,
+    "images": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5c?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=500&h=500&fit=crop"
+    ],
+    "description": "Utility-inspired cargo pants with multiple pockets. Durable construction and relaxed fit. Perfect for casual and outdoor activities.",
+    "category": "Clothing",
+    "rating": 4.4,
+    "reviewCount": 223,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Cotton Twill",
+      "style": "Cargo",
+      "pockets": "6 pockets",
+      "fit": "Relaxed"
+    },
+    "createdAt": "2023-12-23T00:00:00Z"
+  },
+  {
+    "Id": 187,
+    "title": "Sequin Party Dress",
+    "price": 119.99,
+    "originalPrice": 149.99,
+    "discount": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Glamorous sequin dress perfect for parties and special events. Body-hugging silhouette with all-over sequin detail that catches the light.",
+    "category": "Clothing",
+    "rating": 4.5,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "material": "95% Polyester, 5% Spandex",
+      "details": "All-over sequins",
+      "fit": "Bodycon",
+      "occasion": "Party/Evening"
+    },
+    "createdAt": "2023-12-22T00:00:00Z"
+  },
+  {
+    "Id": 188,
+    "title": "Henley Long Sleeve",
+    "price": 34.99,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Classic henley long sleeve in soft cotton. Three-button placket and comfortable fit. Essential for casual layering and everyday wear.",
+    "category": "Clothing",
+    "rating": 4.2,
+    "reviewCount": 167,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Cotton",
+      "style": "Henley",
+      "buttons": "3-button placket",
+      "sleeves": "Long sleeve"
+    },
+    "createdAt": "2023-12-21T00:00:00Z"
+  },
+  {
+    "Id": 189,
+    "title": "Chiffon Maxi Dress",
+    "price": 89.99,
+    "originalPrice": 119.99,
+    "discount": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Ethereal chiffon maxi dress with flowing silhouette. Delicate fabric and romantic design perfect for summer weddings and special occasions.",
+    "category": "Clothing",
+    "rating": 4.6,
+    "reviewCount": 234,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Chiffon",
+      "length": "Maxi",
+      "style": "Flowing",
+      "lining": "Slip included"
+    },
+    "createdAt": "2023-12-20T00:00:00Z"
+  },
+  {
+    "Id": 190,
+    "title": "Faux Fur Coat",
+    "price": 149.99,
+    "originalPrice": 189.99,
+    "discount": 21,
+    "images": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5c?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=500&h=500&fit=crop"
+    ],
+    "description": "Luxurious faux fur coat with dramatic silhouette. Cruelty-free alternative with plush texture and sophisticated style.",
+    "category": "Clothing",
+    "rating": 4.7,
+    "reviewCount": 178,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "material": "100% Faux Fur",
+      "lining": "Satin lining",
+      "style": "Long coat",
+      "closure": "Hook closure"
+    },
+    "createdAt": "2023-12-19T00:00:00Z"
+  },
+  {
+    "Id": 191,
+    "title": "Yoga Leggings",
+    "price": 44.99,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=500&h=500&fit=crop"
+    ],
+    "description": "High-performance yoga leggings with four-way stretch. Moisture-wicking fabric and high waistband for comfort during exercise.",
+    "category": "Clothing",
+    "rating": 4.4,
+    "reviewCount": 312,
+    "inStock": true,
+    "specifications": {
+      "material": "88% Polyester, 12% Spandex",
+      "features": "Four-way stretch, moisture-wicking",
+      "waist": "High-waisted",
+      "activity": "Yoga/Fitness"
+    },
+    "createdAt": "2023-12-18T00:00:00Z"
+  },
+  {
+    "Id": 192,
+    "title": "Chambray Shirt Dress",
+    "price": 67.99,
+    "originalPrice": 84.99,
+    "discount": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Versatile chambray shirt dress with button-front design. Relaxed fit perfect for weekend wear. Can be dressed up or down.",
+    "category": "Clothing",
+    "rating": 4.3,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Cotton Chambray",
+      "style": "Shirt dress",
+      "closure": "Button-front",
+      "length": "Knee-length"
+    },
+    "createdAt": "2023-12-17T00:00:00Z"
+  },
+  {
+    "Id": 193,
+    "title": "Cashmere Beanie",
+    "price": 45.99,
+    "images": [
+      "https://images.unsplash.com/photo-1520903920243-00d872a2d1c9?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1566479179817-c3868c0f6df5?w=500&h=500&fit=crop"
+    ],
+    "description": "Soft cashmere beanie for cold weather. Luxurious feel and classic styling. Perfect accessory for winter outfits.",
+    "category": "Clothing",
+    "rating": 4.5,
+    "reviewCount": 145,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Cashmere",
+      "style": "Beanie",
+      "fit": "One size",
+      "care": "Hand wash"
+    },
+    "createdAt": "2023-12-16T00:00:00Z"
+  },
+  {
+    "Id": 194,
+    "title": "Distressed Denim Shorts",
+    "price": 39.99,
+    "originalPrice": 52.99,
+    "discount": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5c?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=500&h=500&fit=crop"
+    ],
+    "description": "Trendy distressed denim shorts with frayed hem. Perfect for summer styling with casual and edgy details.",
+    "category": "Clothing",
+    "rating": 4.1,
+    "reviewCount": 167,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Cotton Denim",
+      "style": "High-waisted shorts",
+      "details": "Distressed, frayed hem",
+      "season": "Summer"
+    },
+    "createdAt": "2023-12-15T00:00:00Z"
+  },
+  {
+    "Id": 195,
+    "title": "Silk Camisole",
+    "price": 52.99,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Elegant silk camisole with delicate straps. Luxurious fabric perfect for layering or wearing alone. Timeless feminine piece.",
+    "category": "Clothing",
+    "rating": 4.4,
+    "reviewCount": 134,
+    "inStock": false,
+    "specifications": {
+      "material": "100% Silk",
+      "style": "Camisole",
+      "straps": "Adjustable",
+      "care": "Dry clean"
+    },
+    "createdAt": "2023-12-14T00:00:00Z"
+  },
+  {
+    "Id": 196,
+    "title": "Bomber Jacket",
+    "price": 74.99,
+    "originalPrice": 94.99,
+    "discount": 21,
+    "images": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5c?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=500&h=500&fit=crop"
+    ],
+    "description": "Classic bomber jacket with ribbed trim. Versatile outerwear piece perfect for transitional weather. Features zip closure and side pockets.",
+    "category": "Clothing",
+    "rating": 4.5,
+    "reviewCount": 223,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Polyester",
+      "style": "Bomber",
+      "closure": "Zip front",
+      "trim": "Ribbed cuffs and hem"
+    },
+    "createdAt": "2023-12-13T00:00:00Z"
+  },
+  {
+    "Id": 197,
+    "title": "Palazzo Pants",
+    "price": 49.99,
+    "images": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5c?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=500&h=500&fit=crop"
+    ],
+    "description": "Flowing palazzo pants with ultra-wide legs. Comfortable elastic waist and dramatic silhouette. Perfect for vacation or resort wear.",
+    "category": "Clothing",
+    "rating": 4.2,
+    "reviewCount": 156,
+    "inStock": true,
+    "specifications": {
+      "material": "95% Viscose, 5% Spandex",
+      "style": "Palazzo",
+      "waist": "Elastic",
+      "fit": "Flowing"
+    },
+    "createdAt": "2023-12-12T00:00:00Z"
+  },
+  {
+    "Id": 198,
+    "title": "Crop Top Set",
+    "price": 34.99,
+    "originalPrice": 44.99,
+    "discount": 22,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Matching crop top and shorts set perfect for summer. Comfortable ribbed fabric and coordinating pieces for effortless styling.",
+    "category": "Clothing",
+    "rating": 4.1,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "material": "95% Cotton, 5% Spandex",
+      "includes": "Crop top and shorts",
+      "texture": "Ribbed",
+      "season": "Summer"
+    },
+    "createdAt": "2023-12-11T00:00:00Z"
+  },
+  {
+    "Id": 199,
+    "title": "Oversized Blazer",
+    "price": 94.99,
+    "originalPrice": 124.99,
+    "discount": 24,
+    "images": [
+      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop"
+    ],
+    "description": "Trendy oversized blazer with contemporary styling. Relaxed fit perfect for modern professional looks or elevated casual wear.",
+    "category": "Clothing",
+    "rating": 4.6,
+    "reviewCount": 234,
+    "inStock": true,
+    "specifications": {
+      "material": "95% Polyester, 5% Elastane",
+      "fit": "Oversized",
+      "style": "Contemporary",
+      "closure": "Single button"
+    },
+    "createdAt": "2023-12-10T00:00:00Z"
+  },
+  {
+    "Id": 200,
+    "title": "Knit Midi Dress",
+    "price": 64.99,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Comfortable knit midi dress with fitted silhouette. Soft stretchy fabric and flattering length. Perfect for day-to-night styling.",
+    "category": "Clothing",
+    "rating": 4.3,
+    "reviewCount": 178,
+    "inStock": true,
+    "specifications": {
+      "material": "95% Viscose, 5% Spandex",
+      "length": "Midi",
+      "fit": "Fitted",
+      "texture": "Ribbed knit"
+    },
+    "createdAt": "2023-12-09T00:00:00Z"
+  },
+  {
+    "Id": 201,
+    "title": "Puffer Vest",
+    "price": 59.99,
+    "originalPrice": 74.99,
+    "discount": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5c?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=500&h=500&fit=crop"
+    ],
+    "description": "Warm puffer vest perfect for layering. Down alternative fill provides warmth without bulk. Great for outdoor activities.",
+    "category": "Clothing",
+    "rating": 4.4,
+    "reviewCount": 167,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Nylon with down alternative fill",
+      "style": "Puffer vest",
+      "closure": "Zip front",
+      "pockets": "Side zip pockets"
+    },
+    "createdAt": "2023-12-08T00:00:00Z"
+  },
+  {
+    "Id": 202,
+    "title": "Jersey Wrap Top",
+    "price": 36.99,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Versatile jersey wrap top with tie closure. Flattering silhouette and soft fabric. Perfect for layering or wearing alone.",
+    "category": "Clothing",
+    "rating": 4.2,
+    "reviewCount": 145,
+    "inStock": true,
+    "specifications": {
+      "material": "95% Modal, 5% Spandex",
+      "style": "Wrap top",
+      "closure": "Tie",
+      "sleeves": "3/4 sleeve"
+    },
+    "createdAt": "2023-12-07T00:00:00Z"
+  },
+  {
+    "Id": 203,
+    "title": "Straight Leg Jeans",
+    "price": 69.99,
+    "originalPrice": 89.99,
+    "discount": 22,
+    "images": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5c?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=500&h=500&fit=crop"
+    ],
+    "description": "Classic straight leg jeans with medium wash. Timeless fit that works for all body types. Quality denim construction.",
+    "category": "Clothing",
+    "rating": 4.5,
+    "reviewCount": 298,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "material": "100% Cotton Denim",
+      "fit": "Straight leg",
+      "wash": "Medium blue",
+      "rise": "Mid-rise"
+    },
+    "createdAt": "2023-12-06T00:00:00Z"
+  },
+  {
+    "Id": 204,
+    "title": "Satin Slip Dress",
+    "price": 78.99,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Luxurious satin slip dress with bias cut. Elegant draping and vintage-inspired silhouette. Perfect for special occasions.",
+    "category": "Clothing",
+    "rating": 4.4,
+    "reviewCount": 189,
+    "inStock": false,
+    "specifications": {
+      "material": "100% Satin",
+      "cut": "Bias cut",
+      "style": "Slip dress",
+      "straps": "Adjustable"
+    },
+    "createdAt": "2023-12-05T00:00:00Z"
+  },
+  {
+    "Id": 205,
+    "title": "Fleece Pullover",
+    "price": 42.99,
+    "originalPrice": 54.99,
+    "discount": 22,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Cozy fleece pullover for casual comfort. Quarter-zip design with stand collar. Perfect for outdoor activities and lounging.",
+    "category": "Clothing",
+    "rating": 4.3,
+    "reviewCount": 167,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Polyester Fleece",
+      "style": "Quarter-zip",
+      "collar": "Stand collar",
+      "weight": "Midweight"
+    },
+    "createdAt": "2023-12-04T00:00:00Z"
+  },
+  {
+    "Id": 206,
+    "title": "A-Line Mini Dress",
+    "price": 54.99,
+    "originalPrice": 69.99,
+    "discount": 21,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Flirty A-line mini dress with playful silhouette. Perfect for date nights and summer parties. Features back zip closure.",
+    "category": "Clothing",
+    "rating": 4.2,
+    "reviewCount": 134,
+    "inStock": true,
+    "specifications": {
+      "material": "95% Cotton, 5% Spandex",
+      "style": "A-line",
+      "length": "Mini",
+      "closure": "Back zip"
+    },
+    "createdAt": "2023-12-03T00:00:00Z"
+  },
+  {
+    "Id": 207,
+    "title": "Wool Peacoat",
+    "price": 159.99,
+    "originalPrice": 199.99,
+    "discount": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5c?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=500&h=500&fit=crop"
+    ],
+    "description": "Classic wool peacoat with double-breasted design. Timeless outerwear piece with nautical-inspired styling and warm wool construction.",
+    "category": "Clothing",
+    "rating": 4.7,
+    "reviewCount": 245,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "material": "90% Wool, 10% Nylon",
+      "style": "Peacoat",
+      "closure": "Double-breasted",
+      "length": "Hip length"
+    },
+    "createdAt": "2023-12-02T00:00:00Z"
+  },
+  {
+    "Id": 208,
+    "title": "Cotton Tank Top",
+    "price": 18.99,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Basic cotton tank top in soft jersey. Essential layering piece available in multiple colors. Comfortable and versatile.",
+    "category": "Clothing",
+    "rating": 4.1,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Cotton Jersey",
+      "style": "Tank top",
+      "fit": "Regular",
+      "neckline": "Scoop neck"
+    },
+    "createdAt": "2023-12-01T00:00:00Z"
+  },
+  {
+    "Id": 209,
+    "title": "Midi Pencil Skirt",
+    "price": 52.99,
+    "originalPrice": 67.99,
+    "discount": 22,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Sophisticated midi pencil skirt with stretch fabric. Professional silhouette perfect for work or formal occasions.",
+    "category": "Clothing",
+    "rating": 4.4,
+    "reviewCount": 167,
+    "inStock": true,
+    "specifications": {
+      "material": "95% Polyester, 5% Spandex",
+      "style": "Pencil",
+      "length": "Midi",
+      "waist": "High-waisted"
+    },
+    "createdAt": "2023-11-30T00:00:00Z"
+  },
+  {
+    "Id": 210,
+    "title": "Hooded Sweatshirt",
+    "price": 48.99,
+    "originalPrice": 62.99,
+    "discount": 22,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Classic hooded sweatshirt with kangaroo pocket. Soft fleece interior and relaxed fit. Perfect for casual comfort.",
+    "category": "Clothing",
+    "rating": 4.3,
+    "reviewCount": 234,
+    "inStock": true,
+    "specifications": {
+      "material": "80% Cotton, 20% Polyester",
+      "style": "Hoodie",
+      "pocket": "Kangaroo pocket",
+      "interior": "Fleece lined"
+    },
+    "createdAt": "2023-11-29T00:00:00Z"
+  },
+  {
+    "Id": 211,
+    "title": "Lace Bodysuit",
+    "price": 44.99,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Delicate lace bodysuit with snap closure. Romantic and feminine design perfect for layering or wearing alone for special occasions.",
+    "category": "Clothing",
+    "rating": 4.2,
+    "reviewCount": 145,
+    "inStock": false,
+    "specifications": {
+      "material": "90% Nylon, 10% Spandex",
+      "style": "Bodysuit",
+      "details": "Lace overlay",
+      "closure": "Snap bottom"
+    },
+    "createdAt": "2023-11-28T00:00:00Z"
+  },
+  {
+    "Id": 212,
+    "title": "Boot Cut Jeans",
+    "price": 72.99,
+    "originalPrice": 94.99,
+    "discount": 23,
+    "images": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5c?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=500&h=500&fit=crop"
+    ],
+    "description": "Classic boot cut jeans with slight flare. Flattering fit that works well with boots. Premium denim construction.",
+    "category": "Clothing",
+    "rating": 4.4,
+    "reviewCount": 198,
+    "inStock": true,
+    "specifications": {
+      "material": "99% Cotton, 1% Elastane",
+      "fit": "Boot cut",
+      "wash": "Dark indigo",
+      "rise": "Mid-rise"
+    },
+    "createdAt": "2023-11-27T00:00:00Z"
+  },
+  {
+    "Id": 213,
+    "title": "Blazer Dress",
+    "price": 89.99,
+    "originalPrice": 114.99,
+    "discount": 22,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Sophisticated blazer dress with tailored silhouette. Professional yet feminine design perfect for work or formal events.",
+    "category": "Clothing",
+    "rating": 4.5,
+    "reviewCount": 167,
+    "inStock": true,
+    "specifications": {
+      "material": "95% Polyester, 5% Spandex",
+      "style": "Blazer dress",
+      "length": "Mini",
+      "closure": "Button front"
+    },
+    "createdAt": "2023-11-26T00:00:00Z"
+  },
+  {
+    "Id": 214,
+    "title": "Ribbed Cardigan",
+    "price": 56.99,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Soft ribbed cardigan with open front design. Perfect layering piece for transitional weather. Lightweight and comfortable.",
+    "category": "Clothing",
+    "rating": 4.3,
+    "reviewCount": 134,
+    "inStock": true,
+    "specifications": {
+      "material": "60% Cotton, 40% Acrylic",
+      "style": "Open cardigan",
+      "texture": "Ribbed",
+      "weight": "Lightweight"
+    },
+    "createdAt": "2023-11-25T00:00:00Z"
+  },
+  {
+    "Id": 215,
+    "title": "High-Rise Shorts",
+    "price": 34.99,
+    "originalPrice": 44.99,
+    "discount": 22,
+    "images": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5c?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=500&h=500&fit=crop"
+    ],
+    "description": "High-rise denim shorts with classic styling. Perfect length and comfortable fit. Essential for summer wardrobe.",
+    "category": "Clothing",
+    "rating": 4.2,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Cotton Denim",
+      "rise": "High-rise",
+      "length": "5-inch inseam",
+      "style": "Classic shorts"
+    },
+    "createdAt": "2023-11-24T00:00:00Z"
+  },
+  {
+    "Id": 216,
+    "title": "Sheer Blouse",
+    "price": 41.99,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Elegant sheer blouse with delicate texture. Perfect for layering over camisoles. Sophisticated and feminine styling.",
+    "category": "Clothing",
+    "rating": 4.1,
+    "reviewCount": 156,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Polyester Chiffon",
+      "transparency": "Sheer",
+      "style": "Button-front blouse",
+      "sleeves": "Long sleeve"
+    },
+    "createdAt": "2023-11-23T00:00:00Z"
+  },
+  {
+    "Id": 217,
+    "title": "Sweatpants",
+    "price": 38.99,
+    "originalPrice": 49.99,
+    "discount": 22,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Comfortable sweatpants with elastic waistband. Soft fleece interior and relaxed fit. Perfect for lounging and casual wear.",
+    "category": "Clothing",
+    "rating": 4.3,
+    "reviewCount": 223,
+    "inStock": true,
+    "specifications": {
+      "material": "80% Cotton, 20% Polyester",
+      "waist": "Elastic with drawstring",
+      "interior": "Fleece lined",
+      "fit": "Relaxed"
+    },
+    "createdAt": "2023-11-22T00:00:00Z"
+  },
+  {
+    "Id": 218,
+    "title": "Backless Halter Top",
+    "price": 29.99,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Sexy backless halter top with tie closure. Perfect for summer parties and beach vacations. Flattering and feminine design.",
+    "category": "Clothing",
+    "rating": 4.0,
+    "reviewCount": 167,
+    "inStock": true,
+    "specifications": {
+      "material": "95% Cotton, 5% Spandex",
+      "style": "Halter top",
+      "back": "Backless",
+      "closure": "Tie at neck"
+    },
+    "createdAt": "2023-11-21T00:00:00Z"
+  },
+  {
+    "Id": 219,
+    "title": "Tapered Trousers",
+    "price": 62.99,
+    "originalPrice": 79.99,
+    "discount": 21,
+    "images": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5c?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=500&h=500&fit=crop"
+    ],
+    "description": "Modern tapered trousers with ankle length. Contemporary silhouette perfect for professional and casual styling.",
+    "category": "Clothing",
+    "rating": 4.4,
+    "reviewCount": 145,
+    "inStock": true,
+    "specifications": {
+      "material": "95% Polyester, 5% Elastane",
+      "fit": "Tapered",
+      "length": "Ankle length",
+      "waist": "Mid-rise"
+    },
+    "createdAt": "2023-11-20T00:00:00Z"
+  },
+  {
+    "Id": 220,
+    "title": "Crochet Vest",
+    "price": 46.99,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Handcrafted crochet vest with intricate pattern. Boho-inspired design perfect for festival season and layering.",
+    "category": "Clothing",
+    "rating": 4.2,
+    "reviewCount": 134,
+    "inStock": false,
+    "specifications": {
+      "material": "100% Cotton",
+      "style": "Crochet vest",
+      "pattern": "Handcrafted",
+      "closure": "Open front"
+    },
+    "createdAt": "2023-11-19T00:00:00Z"
+  },
+  {
+    "Id": 221,
+    "title": "Mom Jeans",
+    "price": 67.99,
+    "originalPrice": 84.99,
+    "discount": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5c?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=500&h=500&fit=crop"
+    ],
+    "description": "Vintage-inspired mom jeans with relaxed fit. High waist and tapered legs create a retro silhouette. Trendy and comfortable.",
+    "category": "Clothing",
+    "rating": 4.5,
+    "reviewCount": 267,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "material": "100% Cotton Denim",
+      "fit": "Mom jeans",
+      "waist": "High-waisted",
+      "style": "Vintage-inspired"
+    },
+    "createdAt": "2023-11-18T00:00:00Z"
+  },
+  {
+    "Id": 222,
+    "title": "Ruffle Midi Skirt",
+    "price": 49.99,
+    "originalPrice": 64.99,
+    "discount": 23,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Romantic ruffle midi skirt with tiered design. Feminine and flowy with beautiful movement. Perfect for date nights and special occasions.",
+    "category": "Clothing",
+    "rating": 4.3,
+    "reviewCount": 178,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Viscose",
+      "style": "Ruffle midi",
+      "details": "Tiered ruffles",
+      "waist": "Elastic"
+    },
+    "createdAt": "2023-11-17T00:00:00Z"
+  },
+  {
+    "Id": 223,
+    "title": "Basic V-Neck Tee",
+    "price": 22.99,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Essential v-neck tee in soft cotton. Classic fit and versatile styling. Available in multiple colors for everyday wear.",
+    "category": "Clothing",
+    "rating": 4.1,
+    "reviewCount": 298,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Cotton",
+      "neckline": "V-neck",
+      "fit": "Regular",
+      "sleeves": "Short sleeve"
+    },
+    "createdAt": "2023-11-16T00:00:00Z"
+  },
+  {
+    "Id": 224,
+    "title": "Faux Leather Leggings",
+    "price": 44.99,
+    "originalPrice": 57.99,
+    "discount": 22,
+    "images": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5c?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=500&h=500&fit=crop"
+    ],
+    "description": "Edgy faux leather leggings with high waist. Stretch fabric provides comfort while maintaining sleek appearance. Perfect for night out styling.",
+    "category": "Clothing",
+    "rating": 4.2,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "material": "90% Polyester, 10% Spandex",
+      "finish": "Faux leather",
+      "waist": "High-waisted",
+      "fit": "Stretch"
+    },
+    "createdAt": "2023-11-15T00:00:00Z"
+  },
+  {
+    "Id": 225,
+    "title": "Alpaca Wool Sweater",
+    "price": 94.99,
+    "originalPrice": 124.99,
+    "discount": 24,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Luxurious alpaca wool sweater with incredibly soft texture. Sustainable and warm with elegant drape. Perfect for cold weather styling.",
+    "category": "Clothing",
+    "rating": 4.7,
+    "reviewCount": 156,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Alpaca Wool",
+      "texture": "Ultra-soft",
+      "sustainability": "Eco-friendly",
+      "weight": "Midweight"
+    },
+    "createdAt": "2023-11-14T00:00:00Z"
+  },
+  {
+    "Id": 226,
+    "title": "Wrap Skirt",
+    "price": 39.99,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Versatile wrap skirt with tie closure. Adjustable fit and flattering silhouette. Perfect for vacation and summer styling.",
+    "category": "Clothing",
+    "rating": 4.2,
+    "reviewCount": 167,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Viscose",
+      "style": "Wrap skirt",
+      "closure": "Tie",
+      "length": "Knee-length"
+    },
+    "createdAt": "2023-11-13T00:00:00Z"
+  },
+  {
+    "Id": 227,
+    "title": "Baseball Tee",
+    "price": 26.99,
+    "originalPrice": 34.99,
+    "discount": 23,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Classic baseball tee with contrast sleeves. Sporty and casual design perfect for weekend wear. Soft cotton blend fabric.",
+    "category": "Clothing",
+    "rating": 4.1,
+    "reviewCount": 134,
+    "inStock": true,
+    "specifications": {
+      "material": "95% Cotton, 5% Spandex",
+      "style": "Baseball tee",
+      "sleeves": "3/4 contrast sleeves",
+      "neckline": "Crew neck"
+    },
+    "createdAt": "2023-11-12T00:00:00Z"
+  },
+  {
+    "Id": 228,
+    "title": "Maxi Cardigan",
+    "price": 74.99,
+    "originalPrice": 94.99,
+    "discount": 21,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Long maxi cardigan perfect for layering. Flowy design and open front styling. Cozy and elegant for transitional weather.",
+    "category": "Clothing",
+    "rating": 4.4,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "material": "70% Acrylic, 30% Wool",
+      "length": "Maxi",
+      "style": "Open cardigan",
+      "pockets": "Side pockets"
+    },
+    "createdAt": "2023-11-11T00:00:00Z"
+  },
+  {
+    "Id": 229,
+    "title": "Utility Jumpsuit",
+    "price": 84.99,
+    "originalPrice": 109.99,
+    "discount": 23,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Trendy utility jumpsuit with multiple pockets. One-piece styling with belt for definition. Modern and functional design.",
+    "category": "Clothing",
+    "rating": 4.3,
+    "reviewCount": 145,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Cotton Twill",
+      "style": "Utility jumpsuit",
+      "pockets": "Multiple cargo pockets",
+      "closure": "Front zip"
+    },
+    "createdAt": "2023-11-10T00:00:00Z"
+  },
+  {
+    "Id": 230,
+    "title": "Mesh Long Sleeve",
+    "price": 32.99,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Trendy mesh long sleeve for layering. Semi-sheer fabric perfect for creating dimension in outfits. Modern and edgy styling.",
+    "category": "Clothing",
+    "rating": 4.0,
+    "reviewCount": 123,
+    "inStock": false,
+    "specifications": {
+      "material": "100% Polyester Mesh",
+      "transparency": "Semi-sheer",
+      "style": "Fitted long sleeve",
+      "neckline": "Crew neck"
+    },
+    "createdAt": "2023-11-09T00:00:00Z"
+  },
+  {
+    "Id": 231,
+    "title": "Pleated Trousers",
+    "price": 69.99,
+    "originalPrice": 89.99,
+    "discount": 22,
+    "images": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5c?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=500&h=500&fit=crop"
+    ],
+    "description": "Classic pleated trousers with tailored fit. Professional styling with comfortable waistband. Perfect for work and formal occasions.",
+    "category": "Clothing",
+    "rating": 4.5,
+    "reviewCount": 167,
+    "inStock": true,
+    "specifications": {
+      "material": "95% Wool, 5% Elastane",
+      "style": "Pleated front",
+      "fit": "Tailored",
+      "length": "Full length"
+    },
+    "createdAt": "2023-11-08T00:00:00Z"
+  },
+  {
+    "Id": 232,
+    "title": "Off-Shoulder Sweater",
+    "price": 56.99,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Romantic off-shoulder sweater with slouchy fit. Soft knit fabric and feminine silhouette. Perfect for date nights and casual elegance.",
+    "category": "Clothing",
+    "rating": 4.3,
+    "reviewCount": 198,
+    "inStock": true,
+    "specifications": {
+      "material": "60% Cotton, 40% Acrylic",
+      "neckline": "Off-shoulder",
+      "fit": "Slouchy",
+      "weight": "Lightweight"
+    },
+    "createdAt": "2023-11-07T00:00:00Z"
+  },
+  {
+    "Id": 233,
+    "title": "Denim Mini Skirt",
+    "price": 42.99,
+    "originalPrice": 54.99,
+    "discount": 22,
+    "images": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5c?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=500&h=500&fit=crop"
+    ],
+    "description": "Classic denim mini skirt with button front. Vintage-inspired styling with modern fit. Perfect for casual summer styling.",
+    "category": "Clothing",
+    "rating": 4.2,
+    "reviewCount": 145,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Cotton Denim",
+      "style": "A-line mini",
+      "closure": "Button front",
+      "wash": "Medium blue"
+    },
+    "createdAt": "2023-11-06T00:00:00Z"
+  },
+  {
+    "Id": 234,
+    "title": "Teddy Bear Coat",
+    "price": 129.99,
+    "originalPrice": 164.99,
+    "discount": 21,
+    "images": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5c?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=500&h=500&fit=crop"
+    ],
+    "description": "Cozy teddy bear coat with plush texture. Oversized fit and warm construction. Perfect for cold weather with a trendy aesthetic.",
+    "category": "Clothing",
+    "rating": 4.6,
+    "reviewCount": 189,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "material": "100% Polyester Sherpa",
+      "texture": "Teddy bear",
+      "fit": "Oversized",
+      "warmth": "Very warm"
+    },
+    "createdAt": "2023-11-05T00:00:00Z"
+  },
+  {
+    "Id": 235,
+    "title": "Cropped Blazer",
+    "price": 79.99,
+    "originalPrice": 99.99,
+    "discount": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop"
+    ],
+    "description": "Modern cropped blazer with contemporary styling. Perfect length for high-waisted bottoms. Professional yet trendy design.",
+    "category": "Clothing",
+    "rating": 4.4,
+    "reviewCount": 167,
+    "inStock": true,
+    "specifications": {
+      "material": "95% Polyester, 5% Spandex",
+      "style": "Cropped blazer",
+      "length": "Cropped",
+      "closure": "Single button"
+    },
+    "createdAt": "2023-11-04T00:00:00Z"
+  },
+  {
+    "Id": 236,
+    "title": "Slip Midi Skirt",
+    "price": 47.99,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Elegant slip midi skirt in satin fabric. Bias cut creates beautiful drape and movement. Perfect for evening occasions.",
+    "category": "Clothing",
+    "rating": 4.3,
+    "reviewCount": 134,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Polyester Satin",
+      "cut": "Bias cut",
+      "style": "Slip skirt",
+      "length": "Midi"
+    },
+    "createdAt": "2023-11-03T00:00:00Z"
+  },
+  {
+    "Id": 237,
+    "title": "Boyfriend Cardigan",
+    "price": 62.99,
+    "originalPrice": 79.99,
+    "discount": 21,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Relaxed boyfriend cardigan with oversized fit. Cozy and comfortable with button front closure. Perfect for layering and casual wear.",
+    "category": "Clothing",
+    "rating": 4.4,
+    "reviewCount": 198,
+    "inStock": true,
+    "specifications": {
+      "material": "80% Cotton, 20% Polyester",
+      "fit": "Boyfriend/Oversized",
+      "closure": "Button front",
+      "pockets": "Front pockets"
+    },
+    "createdAt": "2023-11-02T00:00:00Z"
+  },
+  {
+    "Id": 238,
+    "title": "Track Pants",
+    "price": 44.99,
+    "originalPrice": 57.99,
+    "discount": 22,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Athletic track pants with side stripe detail. Comfortable and stylish for active lifestyle or athleisure wear.",
+    "category": "Clothing",
+    "rating": 4.2,
+    "reviewCount": 156,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Polyester",
+      "style": "Track pants",
+      "details": "Side stripes",
+      "closure": "Elastic waist"
+    },
+    "createdAt": "2023-11-01T00:00:00Z"
+  },
+  {
+    "Id": 239,
+    "title": "Cutout Bodysuit",
+    "price": 36.99,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Edgy cutout bodysuit with strategic openings. Form-fitting design perfect for layering or wearing alone for night out styling.",
+    "category": "Clothing",
+    "rating": 4.0,
+    "reviewCount": 123,
+    "inStock": false,
+    "specifications": {
+      "material": "95% Cotton, 5% Spandex",
+      "style": "Cutout bodysuit",
+      "fit": "Form-fitting",
+      "closure": "Snap bottom"
+    },
+    "createdAt": "2023-10-31T00:00:00Z"
+  },
+  {
+    "Id": 240,
+    "title": "Cropped Wide-Leg Jeans",
+    "price": 73.99,
+    "originalPrice": 94.99,
+    "discount": 22,
+    "images": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5c?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=500&h=500&fit=crop"
+    ],
+    "description": "Trendy cropped wide-leg jeans with modern silhouette. High waist and cropped length create contemporary styling.",
+    "category": "Clothing",
+    "rating": 4.5,
+    "reviewCount": 234,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Cotton Denim",
+      "fit": "Wide-leg cropped",
+      "waist": "High-waisted",
+      "wash": "Light blue"
+    },
+    "createdAt": "2023-10-30T00:00:00Z"
+  },
+  {
+    "Id": 241,
+    "title": "Ruched Midi Dress",
+    "price": 67.99,
+    "originalPrice": 84.99,
+    "discount": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Flattering ruched midi dress with body-hugging silhouette. Strategic ruching creates a slimming effect. Perfect for special occasions.",
+    "category": "Clothing",
+    "rating": 4.4,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "material": "95% Polyester, 5% Spandex",
+      "style": "Ruched bodycon",
+      "length": "Midi",
+      "details": "Side ruching"
+    },
+    "createdAt": "2023-10-29T00:00:00Z"
+  },
+  {
+    "Id": 242,
+    "title": "Fisherman Sweater",
+    "price": 84.99,
+    "originalPrice": 109.99,
+    "discount": 23,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Classic fisherman sweater with cable knit pattern. Traditional Irish styling in chunky wool blend. Timeless and cozy.",
+    "category": "Clothing",
+    "rating": 4.6,
+    "reviewCount": 167,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Wool",
+      "pattern": "Cable knit",
+      "style": "Fisherman sweater",
+      "weight": "Chunky"
+    },
+    "createdAt": "2023-10-28T00:00:00Z"
+  },
+  {
+    "Id": 243,
+    "title": "Paperbag Waist Shorts",
+    "price": 38.99,
+    "originalPrice": 49.99,
+    "discount": 22,
+    "images": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5c?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=500&h=500&fit=crop"
+    ],
+    "description": "Trendy paperbag waist shorts with tie belt. Relaxed fit and high waist create flattering silhouette. Perfect for summer styling.",
+    "category": "Clothing",
+    "rating": 4.2,
+    "reviewCount": 145,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Cotton",
+      "waist": "Paperbag with tie",
+      "fit": "Relaxed",
+      "length": "Mid-thigh"
+    },
+    "createdAt": "2023-10-27T00:00:00Z"
+  },
+  {
+    "Id": 244,
+    "title": "Asymmetric Hem Top",
+    "price": 41.99,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Modern asymmetric hem top with contemporary design. Unique silhouette creates visual interest. Perfect for fashion-forward styling.",
+    "category": "Clothing",
+    "rating": 4.1,
+    "reviewCount": 134,
+    "inStock": true,
+    "specifications": {
+      "material": "95% Viscose, 5% Spandex",
+      "style": "Asymmetric hem",
+      "fit": "Relaxed",
+      "sleeves": "Short sleeve"
+    },
+    "createdAt": "2023-10-26T00:00:00Z"
+  },
+  {
+    "Id": 245,
+    "title": "Corset Top",
+    "price": 52.99,
+    "originalPrice": 67.99,
+    "discount": 22,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Structured corset top with lace-up back. Fitted silhouette creates dramatic shape. Perfect for evening occasions and special events.",
+    "category": "Clothing",
+    "rating": 4.3,
+    "reviewCount": 167,
+    "inStock": true,
+    "specifications": {
+      "material": "95% Polyester, 5% Spandex",
+      "style": "Corset",
+      "closure": "Lace-up back",
+      "fit": "Structured"
+    },
+    "createdAt": "2023-10-25T00:00:00Z"
+  },
+  {
+    "Id": 246,
+    "title": "Flare Leggings",
+    "price": 39.99,
+    "originalPrice": 51.99,
+    "discount": 23,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Retro flare leggings with bell-bottom silhouette. Stretch fabric and high waist for comfort. Perfect for yoga and athleisure wear.",
+    "category": "Clothing",
+    "rating": 4.2,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "material": "87% Nylon, 13% Spandex",
+      "style": "Flare leggings",
+      "waist": "High-waisted",
+      "fit": "Compression"
+    },
+    "createdAt": "2023-10-24T00:00:00Z"
+  },
+  {
+    "Id": 247,
+    "title": "Bucket Hat",
+    "price": 24.99,
+    "images": [
+      "https://images.unsplash.com/photo-1520903920243-00d872a2d1c9?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1566479179817-c3868c0f6df5?w=500&h=500&fit=crop"
+    ],
+    "description": "Trendy bucket hat perfect for summer. Lightweight cotton construction with wide brim for sun protection. Casual and stylish accessory.",
+    "category": "Clothing",
+    "rating": 4.1,
+    "reviewCount": 156,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Cotton",
+      "style": "Bucket hat",
+      "brim": "Wide brim",
+      "season": "Summer"
+    },
+    "createdAt": "2023-10-23T00:00:00Z"
+  },
+  {
+    "Id": 248,
+    "title": "Bardot Midi Dress",
+    "price": 71.99,
+    "originalPrice": 89.99,
+    "discount": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Romantic Bardot midi dress with off-shoulder neckline. Feminine silhouette perfect for date nights and special occasions.",
+    "category": "Clothing",
+    "rating": 4.5,
+    "reviewCount": 178,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Viscose",
+      "neckline": "Off-shoulder Bardot",
+      "length": "Midi",
+      "style": "Romantic"
+    },
+    "createdAt": "2023-10-22T00:00:00Z"
+  },
+  {
+    "Id": 249,
+    "title": "Cropped Puffer Jacket",
+    "price": 89.99,
+    "originalPrice": 114.99,
+    "discount": 22,
+    "images": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5c?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=500&h=500&fit=crop"
+    ],
+    "description": "Stylish cropped puffer jacket with modern silhouette. Warm down alternative fill in trendy cropped length. Perfect for transitional weather.",
+    "category": "Clothing",
+    "rating": 4.4,
+    "reviewCount": 203,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Nylon with down alternative",
+      "style": "Cropped puffer",
+      "warmth": "Medium warmth",
+      "closure": "Zip front"
+    },
+    "createdAt": "2023-10-21T00:00:00Z"
+  },
+  {
+    "Id": 250,
+    "title": "Wide Leg Culottes",
+    "price": 54.99,
+    "originalPrice": 69.99,
+    "discount": 21,
+    "images": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5c?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=500&h=500&fit=crop"
+    ],
+    "description": "Sophisticated wide leg culottes with cropped length. Professional yet comfortable styling perfect for work and weekend wear.",
+    "category": "Clothing",
+    "rating": 4.3,
+    "reviewCount": 145,
+    "inStock": true,
+    "specifications": {
+      "material": "95% Polyester, 5% Spandex",
+      "style": "Wide leg culottes",
+      "length": "Cropped",
+      "waist": "High-waisted"
+    },
+    "createdAt": "2023-10-20T00:00:00Z"
+  },
+  {
+    "Id": 251,
+    "title": "Statement Earrings",
+    "price": 28.99,
+    "images": [
+      "https://images.unsplash.com/photo-1520903920243-00d872a2d1c9?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1566479179817-c3868c0f6df5?w=500&h=500&fit=crop"
+    ],
+    "description": "Bold statement earrings with geometric design. Gold-tone finish and lightweight construction. Perfect for elevating any outfit.",
+    "category": "Clothing",
+    "rating": 4.2,
+    "reviewCount": 167,
+    "inStock": false,
+    "specifications": {
+      "material": "Gold-plated alloy",
+      "style": "Statement earrings",
+      "design": "Geometric",
+      "weight": "Lightweight"
+    },
+    "createdAt": "2023-10-19T00:00:00Z"
+  },
+  {
+    "Id": 252,
+    "title": "Reversible Tote Bag",
+    "price": 45.99,
+    "originalPrice": 58.99,
+    "discount": 22,
+    "images": [
+      "https://images.unsplash.com/photo-1520903920243-00d872a2d1c9?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1566479179817-c3868c0f6df5?w=500&h=500&fit=crop"
+    ],
+    "description": "Versatile reversible tote bag with two looks in one. Spacious interior and comfortable handles. Perfect for work, shopping, and travel.",
+    "category": "Clothing",
+    "rating": 4.4,
+    "reviewCount": 198,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "material": "Vegan leather",
+      "style": "Reversible tote",
+      "capacity": "Large",
+      "features": "Interior pockets"
+    },
+    "createdAt": "2023-10-18T00:00:00Z"
   }
 ]
