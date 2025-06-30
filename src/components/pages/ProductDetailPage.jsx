@@ -13,14 +13,14 @@ import ProductGrid from '@/components/organisms/ProductGrid'
 
 const ProductDetailPage = () => {
   const { productId } = useParams()
-  const [product, setProduct] = useState(null)
+const [product, setProduct] = useState(null)
   const [relatedProducts, setRelatedProducts] = useState([])
   const [selectedImage, setSelectedImage] = useState(0)
   const [quantity, setQuantity] = useState(1)
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState('')
   const [addingToCart, setAddingToCart] = useState(false)
-
+  const [imageErrors, setImageErrors] = useState({})
   useEffect(() => {
     loadProduct()
   }, [productId])
@@ -59,6 +59,28 @@ const ProductDetailPage = () => {
     } finally {
       setAddingToCart(false)
     }
+}
+
+  const handleImageError = (imageIndex) => {
+    setImageErrors(prev => ({
+      ...prev,
+      [imageIndex]: true
+    }))
+  }
+
+  const getImageSrc = (image, index) => {
+    if (imageErrors[index]) {
+      return `data:image/svg+xml;base64,${btoa(`
+        <svg width="500" height="500" xmlns="http://www.w3.org/2000/svg">
+          <rect width="100%" height="100%" fill="#f3f4f6"/>
+          <rect x="200" y="200" width="100" height="100" fill="#d1d5db" rx="8"/>
+          <path d="M220 240 L240 220 L280 260 L260 280 Z" fill="#9ca3af"/>
+          <circle cx="260" cy="230" r="8" fill="#9ca3af"/>
+          <text x="250" y="330" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="16">Image not available</text>
+        </svg>
+      `)}`
+    }
+    return image
   }
 
   const formatPrice = (price) => {
@@ -119,11 +141,13 @@ const ProductDetailPage = () => {
             animate={{ opacity: 1, x: 0 }}
             className="space-y-4"
           >
-            <div className="aspect-square bg-white rounded-lg shadow-sm border border-gray-100 overflow-hidden">
+<div className="aspect-square bg-white rounded-lg shadow-sm border border-gray-100 overflow-hidden">
               <img
-                src={product.images[selectedImage]}
+                src={getImageSrc(product.images[selectedImage], selectedImage)}
                 alt={product.title}
                 className="w-full h-full object-cover"
+                onError={() => handleImageError(selectedImage)}
+                loading="lazy"
               />
             </div>
             
@@ -138,11 +162,13 @@ const ProductDetailPage = () => {
                         ? 'border-primary-500 ring-2 ring-primary-500 ring-opacity-20' 
                         : 'border-gray-200 hover:border-gray-300'
                     }`}
-                  >
+>
                     <img
-                      src={image}
+                      src={getImageSrc(image, index)}
                       alt={`${product.title} ${index + 1}`}
                       className="w-full h-full object-cover"
+                      onError={() => handleImageError(index)}
+                      loading="lazy"
                     />
                   </button>
                 ))}

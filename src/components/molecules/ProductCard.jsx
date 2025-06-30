@@ -1,13 +1,16 @@
-import React from 'react'
-import { Link } from 'react-router-dom'
-import { motion } from 'framer-motion'
-import { toast } from 'react-toastify'
-import Button from '@/components/atoms/Button'
-import StarRating from '@/components/atoms/StarRating'
-import ApperIcon from '@/components/ApperIcon'
-import { addToCart } from '@/services/api/cartService'
+import React, { useState } from "react";
+import { Link } from "react-router-dom";
+import { motion } from "framer-motion";
+import { toast } from "react-toastify";
+import { formatPrice } from "@/utils/formatters";
+import ApperIcon from "@/components/ApperIcon";
+import StarRating from "@/components/atoms/StarRating";
+import Button from "@/components/atoms/Button";
+import { addToCart } from "@/services/api/cartService";
 
 const ProductCard = ({ product, index = 0 }) => {
+  const [imageError, setImageError] = useState(false)
+
   const handleAddToCart = async (e) => {
     e.preventDefault()
     e.stopPropagation()
@@ -22,12 +25,33 @@ const ProductCard = ({ product, index = 0 }) => {
     }
   }
 
-  const formatPrice = (price) => {
+const formatPriceLocal = (price) => {
     return new Intl.NumberFormat('en-US', {
       style: 'currency',
       currency: 'USD'
     }).format(price)
   }
+
+  const handleImageError = () => {
+    setImageError(true)
+  }
+
+  const getImageSrc = () => {
+    if (imageError || !product.images?.[0]) {
+      return `data:image/svg+xml;base64,${btoa(`
+        <svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+          <rect width="100%" height="100%" fill="#f9fafb"/>
+          <rect x="150" y="150" width="100" height="100" fill="#e5e7eb" rx="8"/>
+          <path d="M170 190 L190 170 L230 210 L210 230 Z" fill="#9ca3af"/>
+          <circle cx="210" cy="180" r="6" fill="#9ca3af"/>
+          <text x="200" y="280" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="14">No image</text>
+        </svg>
+      `)}`
+    }
+    return product.images[0]
+  }
+
+  if (!product) return null
 
   return (
     <motion.div
@@ -37,16 +61,17 @@ const ProductCard = ({ product, index = 0 }) => {
       whileHover={{ y: -4, scale: 1.02 }}
       className="product-card bg-white rounded-lg shadow-sm border border-gray-100 overflow-hidden group"
     >
-      <Link to={`/product/${product.Id}`} className="block">
+<Link to={`/product/${product.Id}`} className="block">
         <div className="relative aspect-square overflow-hidden bg-gray-50">
           <img
-            src={product.images[0]}
+            src={getImageSrc()}
             alt={product.title}
-            className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
+            className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+            onError={handleImageError}
             loading="lazy"
           />
           {!product.inStock && (
-            <div className="absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center">
+            <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center">
               <span className="bg-red-500 text-white px-3 py-1 rounded-full text-sm font-medium">
                 Out of Stock
               </span>
@@ -77,7 +102,7 @@ const ProductCard = ({ product, index = 0 }) => {
           
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-2">
-              <span className="text-lg font-bold text-gray-900">
+<span className="text-lg font-bold text-gray-900">
                 {formatPrice(product.price)}
               </span>
               {product.originalPrice && (
