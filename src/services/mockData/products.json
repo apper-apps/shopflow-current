@@ -1137,6 +1137,2257 @@
       "language": "English",
       "publisher": "Poetry Corner"
     },
-    "createdAt": "2024-01-04T00:00:00Z"
+"createdAt": "2024-01-04T00:00:00Z"
+  },
+  {
+    "Id": 53,
+    "title": "Modern Data Science",
+    "price": 32.99,
+    "originalPrice": 39.99,
+    "discount": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop"
+    ],
+    "description": "Comprehensive guide to modern data science techniques, machine learning algorithms, and statistical analysis. Perfect for beginners and professionals looking to advance their skills.",
+    "category": "Books",
+    "rating": 4.6,
+    "reviewCount": 342,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "456",
+      "language": "English",
+      "publisher": "Tech Learning Press"
+    },
+    "createdAt": "2024-01-02T00:00:00Z"
+  },
+  {
+    "Id": 54,
+    "title": "The Art of War",
+    "price": 13.99,
+    "images": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop"
+    ],
+    "description": "Ancient Chinese military treatise by Sun Tzu. Timeless strategies for leadership, business, and personal development that remain relevant today.",
+    "category": "Books",
+    "rating": 4.4,
+    "reviewCount": 567,
+    "inStock": true,
+    "specifications": {
+      "format": "Hardcover",
+      "pages": "192",
+      "language": "English",
+      "publisher": "Classic Literature House"
+    },
+    "createdAt": "2023-12-30T00:00:00Z"
+  },
+  {
+    "Id": 55,
+    "title": "Digital Marketing Mastery",
+    "price": 28.99,
+    "originalPrice": 34.99,
+    "discount": 17,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop"
+    ],
+    "description": "Complete guide to digital marketing strategies including SEO, social media, content marketing, and analytics. Essential for modern marketers.",
+    "category": "Books",
+    "rating": 4.3,
+    "reviewCount": 298,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "368",
+      "language": "English",
+      "publisher": "Business Success Publishing"
+    },
+    "createdAt": "2023-12-28T00:00:00Z"
+  },
+  {
+    "Id": 56,
+    "title": "Space Odyssey Chronicles",
+    "price": 21.99,
+    "images": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "Epic science fiction trilogy following humanity's first journey to distant galaxies. Adventure, discovery, and the future of human civilization.",
+    "category": "Books",
+    "rating": 4.7,
+    "reviewCount": 423,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "512",
+      "language": "English",
+      "publisher": "Stellar Fiction"
+    },
+    "createdAt": "2023-12-26T00:00:00Z"
+  },
+  {
+    "Id": 57,
+    "title": "Investment Fundamentals",
+    "price": 24.99,
+    "originalPrice": 29.99,
+    "discount": 17,
+    "images": [
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "Learn the basics of investing in stocks, bonds, and mutual funds. Written for beginners who want to build wealth through smart financial decisions.",
+    "category": "Books",
+    "rating": 4.2,
+    "reviewCount": 234,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "288",
+      "language": "English",
+      "publisher": "Financial Wisdom Press"
+    },
+    "createdAt": "2023-12-24T00:00:00Z"
+  },
+  {
+    "Id": 58,
+    "title": "The Magic Kingdom Tales",
+    "price": 16.99,
+    "images": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop"
+    ],
+    "description": "Enchanting collection of fairy tales and magical adventures. Perfect bedtime stories that spark imagination in children and adults alike.",
+    "category": "Books",
+    "rating": 4.5,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "format": "Hardcover",
+      "pages": "224",
+      "language": "English",
+      "publisher": "Wonder Tales Publishing"
+    },
+    "createdAt": "2023-12-22T00:00:00Z"
+  },
+  {
+    "Id": 59,
+    "title": "Photography Essentials",
+    "price": 26.99,
+    "originalPrice": 31.99,
+    "discount": 16,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop"
+    ],
+    "description": "Master the art of photography with this comprehensive guide covering composition, lighting, editing, and professional techniques.",
+    "category": "Books",
+    "rating": 4.4,
+    "reviewCount": 312,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "340",
+      "language": "English",
+      "publisher": "Visual Arts Academy"
+    },
+    "createdAt": "2023-12-20T00:00:00Z"
+  },
+  {
+    "Id": 60,
+    "title": "The Silent Ocean",
+    "price": 18.99,
+    "images": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop"
+    ],
+    "description": "Gripping thriller set on a remote island where nothing is as it seems. A psychological masterpiece that will keep you guessing until the final page.",
+    "category": "Books",
+    "rating": 4.6,
+    "reviewCount": 278,
+    "inStock": false,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "356",
+      "language": "English",
+      "publisher": "Thriller House"
+    },
+    "createdAt": "2023-12-18T00:00:00Z"
+  },
+  {
+    "Id": 61,
+    "title": "Python Programming Bible",
+    "price": 35.99,
+    "originalPrice": 42.99,
+    "discount": 16,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop"
+    ],
+    "description": "Complete Python programming guide from basics to advanced topics. Includes web development, data analysis, and machine learning applications.",
+    "category": "Books",
+    "rating": 4.8,
+    "reviewCount": 456,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "624",
+      "language": "English",
+      "publisher": "Code Masters Publishing"
+    },
+    "createdAt": "2023-12-16T00:00:00Z"
+  },
+  {
+    "Id": 62,
+    "title": "Zen and the Art of Living",
+    "price": 15.99,
+    "images": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "Ancient wisdom for modern life. Practical philosophy and meditation techniques for finding peace and purpose in everyday existence.",
+    "category": "Books",
+    "rating": 4.3,
+    "reviewCount": 203,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "256",
+      "language": "English",
+      "publisher": "Mindful Living Press"
+    },
+    "createdAt": "2023-12-14T00:00:00Z"
+  },
+  {
+    "Id": 63,
+    "title": "The Climate Crisis Guide",
+    "price": 22.99,
+    "originalPrice": 27.99,
+    "discount": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "Comprehensive look at climate change science, impacts, and solutions. Essential reading for understanding our planet's future.",
+    "category": "Books",
+    "rating": 4.5,
+    "reviewCount": 289,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "384",
+      "language": "English",
+      "publisher": "Environmental Science Press"
+    },
+    "createdAt": "2023-12-12T00:00:00Z"
+  },
+  {
+    "Id": 64,
+    "title": "Shakespeare's Greatest Works",
+    "price": 19.99,
+    "images": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop"
+    ],
+    "description": "Complete collection of Shakespeare's most famous plays and sonnets. Beautiful hardcover edition with detailed annotations and historical context.",
+    "category": "Books",
+    "rating": 4.7,
+    "reviewCount": 378,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "format": "Hardcover",
+      "pages": "896",
+      "language": "English",
+      "publisher": "Classic Literature House"
+    },
+    "createdAt": "2023-12-10T00:00:00Z"
+  },
+  {
+    "Id": 65,
+    "title": "The Entrepreneur's Playbook",
+    "price": 27.99,
+    "originalPrice": 33.99,
+    "discount": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop"
+    ],
+    "description": "Step-by-step guide to starting and scaling a successful business. Real-world strategies from successful entrepreneurs and business leaders.",
+    "category": "Books",
+    "rating": 4.4,
+    "reviewCount": 267,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "412",
+      "language": "English",
+      "publisher": "Business Success Publishing"
+    },
+    "createdAt": "2023-12-08T00:00:00Z"
+  },
+  {
+    "Id": 66,
+    "title": "Lost Civilizations",
+    "price": 24.99,
+    "images": [
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop"
+    ],
+    "description": "Explore ancient civilizations that shaped human history. Archaeological discoveries and mysteries from around the world revealed.",
+    "category": "Books",
+    "rating": 4.2,
+    "reviewCount": 234,
+    "inStock": true,
+    "specifications": {
+      "format": "Hardcover",
+      "pages": "368",
+      "language": "English",
+      "publisher": "Historical Discovery Press"
+    },
+    "createdAt": "2023-12-06T00:00:00Z"
+  },
+  {
+    "Id": 67,
+    "title": "The Quantum Universe",
+    "price": 29.99,
+    "originalPrice": 36.99,
+    "discount": 19,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop"
+    ],
+    "description": "Journey into the strange world of quantum physics. Complex concepts explained in accessible language for curious minds.",
+    "category": "Books",
+    "rating": 4.6,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "432",
+      "language": "English",
+      "publisher": "Science Frontiers Publishing"
+    },
+    "createdAt": "2023-12-04T00:00:00Z"
+  },
+  {
+    "Id": 68,
+    "title": "Mediterranean Cooking",
+    "price": 21.99,
+    "originalPrice": 26.99,
+    "discount": 19,
+    "images": [
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "Authentic Mediterranean recipes for healthy and delicious meals. Over 150 traditional dishes from Greece, Italy, Spain, and Turkey.",
+    "category": "Books",
+    "rating": 4.5,
+    "reviewCount": 312,
+    "inStock": true,
+    "specifications": {
+      "format": "Hardcover",
+      "pages": "296",
+      "language": "English",
+      "publisher": "Culinary Traditions"
+    },
+    "createdAt": "2023-12-02T00:00:00Z"
+  },
+  {
+    "Id": 69,
+    "title": "The Midnight Detective",
+    "price": 17.99,
+    "images": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop"
+    ],
+    "description": "Noir mystery set in 1940s New York. Follow detective Sam Morgan as he unravels a case that threatens to destroy everything he holds dear.",
+    "category": "Books",
+    "rating": 4.3,
+    "reviewCount": 178,
+    "inStock": false,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "324",
+      "language": "English",
+      "publisher": "Mystery House"
+    },
+    "createdAt": "2023-11-30T00:00:00Z"
+  },
+  {
+    "Id": 70,
+    "title": "Artificial Intelligence Ethics",
+    "price": 31.99,
+    "originalPrice": 38.99,
+    "discount": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop"
+    ],
+    "description": "Critical examination of AI's impact on society, privacy, and human values. Essential reading for the digital age.",
+    "category": "Books",
+    "rating": 4.4,
+    "reviewCount": 156,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "368",
+      "language": "English",
+      "publisher": "Future Tech Publishing"
+    },
+    "createdAt": "2023-11-28T00:00:00Z"
+  },
+  {
+    "Id": 71,
+    "title": "The Healing Garden",
+    "price": 19.99,
+    "images": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "Heartwarming story about love, loss, and the power of community. A beautiful tale that will touch your heart and inspire hope.",
+    "category": "Books",
+    "rating": 4.6,
+    "reviewCount": 289,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "312",
+      "language": "English",
+      "publisher": "Heartland Stories"
+    },
+    "createdAt": "2023-11-26T00:00:00Z"
+  },
+  {
+    "Id": 72,
+    "title": "Web Development Bootcamp",
+    "price": 33.99,
+    "originalPrice": 41.99,
+    "discount": 19,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop"
+    ],
+    "description": "Complete web development course covering HTML, CSS, JavaScript, React, and Node.js. Build real projects while learning.",
+    "category": "Books",
+    "rating": 4.7,
+    "reviewCount": 423,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "568",
+      "language": "English",
+      "publisher": "Code Academy Press"
+    },
+    "createdAt": "2023-11-24T00:00:00Z"
+  },
+  {
+    "Id": 73,
+    "title": "The Psychology of Happiness",
+    "price": 20.99,
+    "originalPrice": 25.99,
+    "discount": 19,
+    "images": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "Scientific insights into what makes us happy and how to cultivate well-being. Research-backed strategies for a fulfilling life.",
+    "category": "Books",
+    "rating": 4.3,
+    "reviewCount": 234,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "288",
+      "language": "English",
+      "publisher": "Wellness Publications"
+    },
+    "createdAt": "2023-11-22T00:00:00Z"
+  },
+  {
+    "Id": 74,
+    "title": "Mountain Adventures",
+    "price": 23.99,
+    "images": [
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop"
+    ],
+    "description": "Epic true stories of mountain climbing expeditions around the world. Adventure, survival, and the human spirit at extreme altitudes.",
+    "category": "Books",
+    "rating": 4.5,
+    "reviewCount": 167,
+    "inStock": true,
+    "specifications": {
+      "format": "Hardcover",
+      "pages": "384",
+      "language": "English",
+      "publisher": "Adventure Press"
+    },
+    "createdAt": "2023-11-20T00:00:00Z"
+  },
+  {
+    "Id": 75,
+    "title": "The Samurai Code",
+    "price": 16.99,
+    "originalPrice": 21.99,
+    "discount": 23,
+    "images": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop"
+    ],
+    "description": "Ancient Japanese philosophy and the way of the warrior. Honor, discipline, and spiritual development through martial arts.",
+    "category": "Books",
+    "rating": 4.4,
+    "reviewCount": 198,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "256",
+      "language": "English",
+      "publisher": "Eastern Philosophy Press"
+    },
+    "createdAt": "2023-11-18T00:00:00Z"
+  },
+  {
+    "Id": 76,
+    "title": "Modern Architecture Guide",
+    "price": 28.99,
+    "originalPrice": 34.99,
+    "discount": 17,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop"
+    ],
+    "description": "Comprehensive guide to 20th and 21st century architecture. Stunning photography and analysis of iconic buildings worldwide.",
+    "category": "Books",
+    "rating": 4.6,
+    "reviewCount": 145,
+    "inStock": true,
+    "specifications": {
+      "format": "Hardcover",
+      "pages": "456",
+      "language": "English",
+      "publisher": "Design & Architecture Press"
+    },
+    "createdAt": "2023-11-16T00:00:00Z"
+  },
+  {
+    "Id": 77,
+    "title": "The Ocean's Secret",
+    "price": 18.99,
+    "images": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop"
+    ],
+    "description": "Romantic adventure set on a tropical island. Love, mystery, and self-discovery in a paradise that holds dangerous secrets.",
+    "category": "Books",
+    "rating": 4.2,
+    "reviewCount": 223,
+    "inStock": false,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "328",
+      "language": "English",
+      "publisher": "Romance Adventures"
+    },
+    "createdAt": "2023-11-14T00:00:00Z"
+  },
+  {
+    "Id": 78,
+    "title": "Blockchain Revolution",
+    "price": 30.99,
+    "originalPrice": 37.99,
+    "discount": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop"
+    ],
+    "description": "How blockchain technology is transforming industries from finance to healthcare. The future of decentralized systems explained.",
+    "category": "Books",
+    "rating": 4.3,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "392",
+      "language": "English",
+      "publisher": "Future Tech Publishing"
+    },
+    "createdAt": "2023-11-12T00:00:00Z"
+  },
+  {
+    "Id": 79,
+    "title": "Urban Gardening Made Easy",
+    "price": 17.99,
+    "originalPrice": 22.99,
+    "discount": 22,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop"
+    ],
+    "description": "Grow your own food in small spaces. Practical tips for balcony gardens, window boxes, and indoor growing systems.",
+    "category": "Books",
+    "rating": 4.4,
+    "reviewCount": 267,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "224",
+      "language": "English",
+      "publisher": "Green Living Press"
+    },
+    "createdAt": "2023-11-10T00:00:00Z"
+  },
+  {
+    "Id": 80,
+    "title": "The Starlight Express",
+    "price": 20.99,
+    "images": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "Magical realism novel about a train that travels between worlds. A journey of self-discovery across parallel dimensions.",
+    "category": "Books",
+    "rating": 4.5,
+    "reviewCount": 156,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "368",
+      "language": "English",
+      "publisher": "Mystical Fiction House"
+    },
+    "createdAt": "2023-11-08T00:00:00Z"
+  },
+  {
+    "Id": 81,
+    "title": "Financial Freedom Formula",
+    "price": 25.99,
+    "originalPrice": 31.99,
+    "discount": 19,
+    "images": [
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "Proven strategies for achieving financial independence. Budget planning, investing, and wealth-building techniques that actually work.",
+    "category": "Books",
+    "rating": 4.2,
+    "reviewCount": 298,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "312",
+      "language": "English",
+      "publisher": "Financial Wisdom Press"
+    },
+    "createdAt": "2023-11-06T00:00:00Z"
+  },
+  {
+    "Id": 82,
+    "title": "Ancient Myths Retold",
+    "price": 22.99,
+    "images": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop"
+    ],
+    "description": "Classic mythology from around the world retold for modern readers. Greek, Norse, Egyptian, and Celtic legends brought to life.",
+    "category": "Books",
+    "rating": 4.6,
+    "reviewCount": 234,
+    "inStock": true,
+    "specifications": {
+      "format": "Hardcover",
+      "pages": "424",
+      "language": "English",
+      "publisher": "Mythological Press"
+    },
+    "createdAt": "2023-11-04T00:00:00Z"
+  },
+  {
+    "Id": 83,
+    "title": "The Innovation Mindset",
+    "price": 24.99,
+    "originalPrice": 29.99,
+    "discount": 17,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop"
+    ],
+    "description": "How to think like an innovator and create breakthrough solutions. Creativity techniques used by top companies and inventors.",
+    "category": "Books",
+    "rating": 4.3,
+    "reviewCount": 178,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "296",
+      "language": "English",
+      "publisher": "Innovation Institute Press"
+    },
+    "createdAt": "2023-11-02T00:00:00Z"
+  },
+  {
+    "Id": 84,
+    "title": "Wilderness Survival Guide",
+    "price": 19.99,
+    "originalPrice": 24.99,
+    "discount": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop"
+    ],
+    "description": "Essential skills for surviving in the wilderness. Navigation, shelter building, fire making, and emergency first aid techniques.",
+    "category": "Books",
+    "rating": 4.5,
+    "reviewCount": 345,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "268",
+      "language": "English",
+      "publisher": "Outdoor Skills Press"
+    },
+    "createdAt": "2023-10-31T00:00:00Z"
+  },
+  {
+    "Id": 85,
+    "title": "The Crystal Prophecy",
+    "price": 21.99,
+    "images": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "Epic fantasy adventure in a world where magic crystals hold the power to shape reality. A young mage must save her kingdom from darkness.",
+    "category": "Books",
+    "rating": 4.4,
+    "reviewCount": 289,
+    "inStock": false,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "456",
+      "language": "English",
+      "publisher": "Fantasy Realm Books"
+    },
+    "createdAt": "2023-10-29T00:00:00Z"
+  },
+  {
+    "Id": 86,
+    "title": "Machine Learning Algorithms",
+    "price": 36.99,
+    "originalPrice": 44.99,
+    "discount": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop"
+    ],
+    "description": "Comprehensive guide to machine learning algorithms and their applications. From basics to advanced neural networks and deep learning.",
+    "category": "Books",
+    "rating": 4.7,
+    "reviewCount": 378,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "672",
+      "language": "English",
+      "publisher": "AI Research Press"
+    },
+    "createdAt": "2023-10-27T00:00:00Z"
+  },
+  {
+    "Id": 87,
+    "title": "The Midnight Baker",
+    "price": 16.99,
+    "images": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop"
+    ],
+    "description": "Heartwarming story about a small-town bakery that brings a community together. Love, friendship, and the magic of freshly baked bread.",
+    "category": "Books",
+    "rating": 4.3,
+    "reviewCount": 167,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "284",
+      "language": "English",
+      "publisher": "Heartland Stories"
+    },
+    "createdAt": "2023-10-25T00:00:00Z"
+  },
+  {
+    "Id": 88,
+    "title": "Space Exploration History",
+    "price": 27.99,
+    "originalPrice": 33.99,
+    "discount": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "Complete history of human space exploration from Sputnik to Mars missions. Stunning photographs and detailed mission accounts.",
+    "category": "Books",
+    "rating": 4.6,
+    "reviewCount": 234,
+    "inStock": true,
+    "specifications": {
+      "format": "Hardcover",
+      "pages": "512",
+      "language": "English",
+      "publisher": "Space History Press"
+    },
+    "createdAt": "2023-10-23T00:00:00Z"
+  },
+  {
+    "Id": 89,
+    "title": "The Meditation Path",
+    "price": 18.99,
+    "originalPrice": 23.99,
+    "discount": 21,
+    "images": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "Complete guide to meditation practices from around the world. Techniques for stress reduction, mindfulness, and spiritual growth.",
+    "category": "Books",
+    "rating": 4.4,
+    "reviewCount": 298,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "256",
+      "language": "English",
+      "publisher": "Mindful Living Press"
+    },
+    "createdAt": "2023-10-21T00:00:00Z"
+  },
+  {
+    "Id": 90,
+    "title": "The Last Library",
+    "price": 19.99,
+    "images": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop"
+    ],
+    "description": "Post-apocalyptic tale about the importance of preserving knowledge. A librarian's quest to save the world's last collection of books.",
+    "category": "Books",
+    "rating": 4.5,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "396",
+      "language": "English",
+      "publisher": "Dystopian Fiction Press"
+    },
+    "createdAt": "2023-10-19T00:00:00Z"
+  },
+  {
+    "Id": 91,
+    "title": "Creative Writing Workshop",
+    "price": 23.99,
+    "originalPrice": 28.99,
+    "discount": 17,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop"
+    ],
+    "description": "Master the craft of creative writing with exercises, prompts, and techniques used by professional authors and writing instructors.",
+    "category": "Books",
+    "rating": 4.2,
+    "reviewCount": 156,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "328",
+      "language": "English",
+      "publisher": "Writer's Academy Press"
+    },
+    "createdAt": "2023-10-17T00:00:00Z"
+  },
+  {
+    "Id": 92,
+    "title": "The Viking Saga",
+    "price": 20.99,
+    "originalPrice": 25.99,
+    "discount": 19,
+    "images": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop"
+    ],
+    "description": "Epic historical fiction following a Viking warrior's journey across medieval Europe. Adventure, honor, and the clash of civilizations.",
+    "category": "Books",
+    "rating": 4.6,
+    "reviewCount": 267,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "424",
+      "language": "English",
+      "publisher": "Historical Adventure Press"
+    },
+    "createdAt": "2023-10-15T00:00:00Z"
+  },
+  {
+    "Id": 93,
+    "title": "Renewable Energy Solutions",
+    "price": 26.99,
+    "originalPrice": 32.99,
+    "discount": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "Comprehensive guide to renewable energy technologies. Solar, wind, hydro, and emerging technologies for a sustainable future.",
+    "category": "Books",
+    "rating": 4.3,
+    "reviewCount": 198,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "384",
+      "language": "English",
+      "publisher": "Green Technology Press"
+    },
+    "createdAt": "2023-10-13T00:00:00Z"
+  },
+  {
+    "Id": 94,
+    "title": "The Forest Guardian",
+    "price": 17.99,
+    "images": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "Fantasy adventure about a young druid who must protect an ancient forest from dark forces. Magic, nature, and the balance of life.",
+    "category": "Books",
+    "rating": 4.4,
+    "reviewCount": 223,
+    "inStock": false,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "368",
+      "language": "English",
+      "publisher": "Nature Fantasy Books"
+    },
+    "createdAt": "2023-10-11T00:00:00Z"
+  },
+  {
+    "Id": 95,
+    "title": "Leadership in Crisis",
+    "price": 24.99,
+    "originalPrice": 30.99,
+    "discount": 19,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop"
+    ],
+    "description": "How great leaders navigate uncertainty and make difficult decisions. Case studies from business, politics, and military history.",
+    "category": "Books",
+    "rating": 4.5,
+    "reviewCount": 178,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "312",
+      "language": "English",
+      "publisher": "Leadership Institute Press"
+    },
+    "createdAt": "2023-10-09T00:00:00Z"
+  },
+  {
+    "Id": 96,
+    "title": "The Memory Keeper",
+    "price": 18.99,
+    "originalPrice": 23.99,
+    "discount": 21,
+    "images": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop"
+    ],
+    "description": "Moving story about family, memory, and the power of storytelling. A grandmother's tales reveal secrets that span generations.",
+    "category": "Books",
+    "rating": 4.6,
+    "reviewCount": 234,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "296",
+      "language": "English",
+      "publisher": "Family Stories Press"
+    },
+    "createdAt": "2023-10-07T00:00:00Z"
+  },
+  {
+    "Id": 97,
+    "title": "Cybersecurity Fundamentals",
+    "price": 29.99,
+    "originalPrice": 36.99,
+    "discount": 19,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop"
+    ],
+    "description": "Essential cybersecurity knowledge for the digital age. Protect yourself and your organization from cyber threats and data breaches.",
+    "category": "Books",
+    "rating": 4.4,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "424",
+      "language": "English",
+      "publisher": "Security Tech Press"
+    },
+    "createdAt": "2023-10-05T00:00:00Z"
+  },
+  {
+    "Id": 98,
+    "title": "The Astronomer's Tale",
+    "price": 21.99,
+    "images": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "Science fiction romance set among the stars. An astronomer's discovery leads to an interstellar adventure and unexpected love.",
+    "category": "Books",
+    "rating": 4.3,
+    "reviewCount": 156,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "342",
+      "language": "English",
+      "publisher": "Cosmic Romance Books"
+    },
+    "createdAt": "2023-10-03T00:00:00Z"
+  },
+  {
+    "Id": 99,
+    "title": "Sustainable Living Guide",
+    "price": 22.99,
+    "originalPrice": 27.99,
+    "discount": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop"
+    ],
+    "description": "Practical tips for reducing your environmental impact. Zero waste, renewable energy, and sustainable choices for everyday life.",
+    "category": "Books",
+    "rating": 4.5,
+    "reviewCount": 267,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "288",
+      "language": "English",
+      "publisher": "Eco Living Press"
+    },
+    "createdAt": "2023-10-01T00:00:00Z"
+  },
+  {
+    "Id": 100,
+    "title": "The Shadow Realm",
+    "price": 19.99,
+    "originalPrice": 24.99,
+    "discount": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop"
+    ],
+    "description": "Dark fantasy novel about a world where shadows come alive. A shadow mage must choose between power and redemption.",
+    "category": "Books",
+    "rating": 4.4,
+    "reviewCount": 198,
+    "inStock": false,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "412",
+      "language": "English",
+      "publisher": "Dark Fantasy Press"
+    },
+    "createdAt": "2023-09-29T00:00:00Z"
+  },
+  {
+    "Id": 101,
+    "title": "Data Visualization Mastery",
+    "price": 31.99,
+    "originalPrice": 38.99,
+    "discount": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop"
+    ],
+    "description": "Create compelling data visualizations that tell stories. Tools, techniques, and best practices for effective data communication.",
+    "category": "Books",
+    "rating": 4.6,
+    "reviewCount": 178,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "368",
+      "language": "English",
+      "publisher": "Data Science Press"
+    },
+    "createdAt": "2023-09-27T00:00:00Z"
+  },
+  {
+    "Id": 102,
+    "title": "The Lighthouse Keeper",
+    "price": 16.99,
+    "images": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop"
+    ],
+    "description": "Atmospheric mystery set on a remote lighthouse. A keeper's journal reveals dark secrets about the island's past.",
+    "category": "Books",
+    "rating": 4.3,
+    "reviewCount": 223,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "324",
+      "language": "English",
+      "publisher": "Coastal Mystery Press"
+    },
+    "createdAt": "2023-09-25T00:00:00Z"
+  },
+  {
+    "Id": 103,
+    "title": "Urban Planning Revolution",
+    "price": 28.99,
+    "originalPrice": 34.99,
+    "discount": 17,
+    "images": [
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "How cities are adapting to climate change and population growth. Innovative solutions for sustainable urban development.",
+    "category": "Books",
+    "rating": 4.2,
+    "reviewCount": 145,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "396",
+      "language": "English",
+      "publisher": "Urban Studies Press"
+    },
+    "createdAt": "2023-09-23T00:00:00Z"
+  },
+  {
+    "Id": 104,
+    "title": "The Time Collector",
+    "price": 20.99,
+    "originalPrice": 25.99,
+    "discount": 19,
+    "images": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "Fascinating story about a man who collects moments in time. Magical realism exploring memory, regret, and second chances.",
+    "category": "Books",
+    "rating": 4.5,
+    "reviewCount": 189,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "356",
+      "language": "English",
+      "publisher": "Mystical Fiction House"
+    },
+    "createdAt": "2023-09-21T00:00:00Z"
+  },
+  {
+    "Id": 105,
+    "title": "Biotechnology Frontiers",
+    "price": 33.99,
+    "originalPrice": 41.99,
+    "discount": 19,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop"
+    ],
+    "description": "Cutting-edge developments in biotechnology and genetic engineering. The future of medicine, agriculture, and environmental science.",
+    "category": "Books",
+    "rating": 4.4,
+    "reviewCount": 156,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "456",
+      "language": "English",
+      "publisher": "Biotech Research Press"
+    },
+    "createdAt": "2023-09-19T00:00:00Z"
+  },
+  {
+    "Id": 106,
+    "title": "The Desert Rose",
+    "price": 18.99,
+    "images": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop"
+    ],
+    "description": "Epic romance set in the Arabian desert. A princess must choose between duty and love in this sweeping historical adventure.",
+    "category": "Books",
+    "rating": 4.3,
+    "reviewCount": 267,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "384",
+      "language": "English",
+      "publisher": "Historical Romance Press"
+    },
+    "createdAt": "2023-09-17T00:00:00Z"
+  },
+  {
+    "Id": 107,
+    "title": "Social Media Psychology",
+    "price": 23.99,
+    "originalPrice": 28.99,
+    "discount": 17,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop"
+    ],
+    "description": "How social media affects our minds and behavior. Research-based insights into digital addiction and online relationships.",
+    "category": "Books",
+    "rating": 4.2,
+    "reviewCount": 198,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "312",
+      "language": "English",
+      "publisher": "Digital Psychology Press"
+    },
+    "createdAt": "2023-09-15T00:00:00Z"
+  },
+  {
+    "Id": 108,
+    "title": "The Storm Chaser",
+    "price": 19.99,
+    "originalPrice": 24.99,
+    "discount": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "Thrilling adventure following a meteorologist who tracks deadly storms. Science, danger, and the power of nature collide.",
+    "category": "Books",
+    "rating": 4.4,
+    "reviewCount": 234,
+    "inStock": false,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "368",
+      "language": "English",
+      "publisher": "Adventure Thrillers"
+    },
+    "createdAt": "2023-09-13T00:00:00Z"
+  },
+  {
+    "Id": 109,
+    "title": "Graphic Design Principles",
+    "price": 26.99,
+    "originalPrice": 32.99,
+    "discount": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop"
+    ],
+    "description": "Fundamentals of graphic design including color theory, typography, and layout. Essential knowledge for visual communicators.",
+    "category": "Books",
+    "rating": 4.5,
+    "reviewCount": 178,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "328",
+      "language": "English",
+      "publisher": "Design Academy Press"
+    },
+    "createdAt": "2023-09-11T00:00:00Z"
+  },
+  {
+    "Id": 110,
+    "title": "The Painter's Secret",
+    "price": 17.99,
+    "images": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop"
+    ],
+    "description": "Art historical mystery involving a lost Renaissance masterpiece. An art historian's quest reveals dangerous secrets from the past.",
+    "category": "Books",
+    "rating": 4.3,
+    "reviewCount": 156,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "342",
+      "language": "English",
+      "publisher": "Art Mystery Press"
+    },
+    "createdAt": "2023-09-09T00:00:00Z"
+  },
+  {
+    "Id": 111,
+    "title": "Quantum Computing Explained",
+    "price": 34.99,
+    "originalPrice": 42.99,
+    "discount": 19,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop"
+    ],
+    "description": "Introduction to quantum computing concepts and applications. The future of computation explained for non-physicists.",
+    "category": "Books",
+    "rating": 4.6,
+    "reviewCount": 123,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "424",
+      "language": "English",
+      "publisher": "Quantum Science Press"
+    },
+    "createdAt": "2023-09-07T00:00:00Z"
+  },
+  {
+    "Id": 112,
+    "title": "The Music Box Mystery",
+    "price": 15.99,
+    "originalPrice": 19.99,
+    "discount": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop"
+    ],
+    "description": "Cozy mystery centered around an antique music box. A small-town sleuth uncovers family secrets and hidden treasures.",
+    "category": "Books",
+    "rating": 4.2,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "268",
+      "language": "English",
+      "publisher": "Cozy Mystery House"
+    },
+    "createdAt": "2023-09-05T00:00:00Z"
+  },
+  {
+    "Id": 113,
+    "title": "Robotics and Automation",
+    "price": 30.99,
+    "originalPrice": 37.99,
+    "discount": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop"
+    ],
+    "description": "How robots are transforming industries and daily life. Engineering principles and societal implications of automation.",
+    "category": "Books",
+    "rating": 4.4,
+    "reviewCount": 167,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "396",
+      "language": "English",
+      "publisher": "Robotics Engineering Press"
+    },
+    "createdAt": "2023-09-03T00:00:00Z"
+  },
+  {
+    "Id": 114,
+    "title": "The Whispering Woods",
+    "price": 18.99,
+    "images": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "Supernatural thriller about a haunted forest that holds ancient secrets. A paranormal investigator faces her darkest fears.",
+    "category": "Books",
+    "rating": 4.3,
+    "reviewCount": 212,
+    "inStock": false,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "356",
+      "language": "English",
+      "publisher": "Supernatural Thrillers"
+    },
+    "createdAt": "2023-09-01T00:00:00Z"
+  },
+  {
+    "Id": 115,
+    "title": "Nutrition Science Guide",
+    "price": 24.99,
+    "originalPrice": 29.99,
+    "discount": 17,
+    "images": [
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "Evidence-based nutrition information for optimal health. Debunk diet myths and learn what really fuels your body.",
+    "category": "Books",
+    "rating": 4.5,
+    "reviewCount": 234,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "368",
+      "language": "English",
+      "publisher": "Health Science Press"
+    },
+    "createdAt": "2023-08-30T00:00:00Z"
+  },
+  {
+    "Id": 116,
+    "title": "The Clockmaker's Daughter",
+    "price": 19.99,
+    "originalPrice": 24.99,
+    "discount": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop"
+    ],
+    "description": "Victorian-era mystery about a clockmaker's missing daughter. Time, secrets, and mechanical wonders in gaslit London.",
+    "category": "Books",
+    "rating": 4.4,
+    "reviewCount": 178,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "392",
+      "language": "English",
+      "publisher": "Victorian Mystery Press"
+    },
+    "createdAt": "2023-08-28T00:00:00Z"
+  },
+  {
+    "Id": 117,
+    "title": "Game Development Basics",
+    "price": 28.99,
+    "originalPrice": 34.99,
+    "discount": 17,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop"
+    ],
+    "description": "Learn to create video games from concept to completion. Programming, art, design, and business aspects of game development.",
+    "category": "Books",
+    "rating": 4.3,
+    "reviewCount": 198,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "456",
+      "language": "English",
+      "publisher": "Game Dev Academy"
+    },
+    "createdAt": "2023-08-26T00:00:00Z"
+  },
+  {
+    "Id": 118,
+    "title": "The Night Gardener",
+    "price": 16.99,
+    "images": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop"
+    ],
+    "description": "Magical story about a mysterious gardener who tends to dreams. Beautiful tale of wonder and the magic that surrounds us.",
+    "category": "Books",
+    "rating": 4.6,
+    "reviewCount": 156,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "284",
+      "language": "English",
+      "publisher": "Wonder Tales Publishing"
+    },
+    "createdAt": "2023-08-24T00:00:00Z"
+  },
+  {
+    "Id": 119,
+    "title": "Environmental Economics",
+    "price": 27.99,
+    "originalPrice": 33.99,
+    "discount": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "How economic principles can address environmental challenges. Market solutions for climate change and resource management.",
+    "category": "Books",
+    "rating": 4.2,
+    "reviewCount": 134,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "384",
+      "language": "English",
+      "publisher": "Environmental Economics Press"
+    },
+    "createdAt": "2023-08-22T00:00:00Z"
+  },
+  {
+    "Id": 120,
+    "title": "The Digital Nomad's Handbook",
+    "price": 21.99,
+    "originalPrice": 26.99,
+    "discount": 19,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop"
+    ],
+    "description": "Complete guide to working remotely while traveling the world. Practical tips for location independence and remote work success.",
+    "category": "Books",
+    "rating": 4.4,
+    "reviewCount": 267,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "312",
+      "language": "English",
+      "publisher": "Remote Work Press"
+    },
+    "createdAt": "2023-08-20T00:00:00Z"
+  },
+  {
+    "Id": 121,
+    "title": "The Constellation Map",
+    "price": 20.99,
+    "images": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "Science fiction adventure about mapping unknown star systems. Exploration, discovery, and the vastness of space await.",
+    "category": "Books",
+    "rating": 4.5,
+    "reviewCount": 189,
+    "inStock": false,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "424",
+      "language": "English",
+      "publisher": "Stellar Fiction"
+    },
+    "createdAt": "2023-08-18T00:00:00Z"
+  },
+  {
+    "Id": 122,
+    "title": "Mindful Parenting",
+    "price": 18.99,
+    "originalPrice": 23.99,
+    "discount": 21,
+    "images": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "Raising children with awareness and compassion. Practical mindfulness techniques for parents and families.",
+    "category": "Books",
+    "rating": 4.3,
+    "reviewCount": 223,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "268",
+      "language": "English",
+      "publisher": "Family Wellness Press"
+    },
+    "createdAt": "2023-08-16T00:00:00Z"
+  },
+  {
+    "Id": 123,
+    "title": "The Chemistry of Cooking",
+    "price": 25.99,
+    "originalPrice": 31.99,
+    "discount": 19,
+    "images": [
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "Science behind cooking techniques and flavor development. Understand the chemistry that makes food delicious.",
+    "category": "Books",
+    "rating": 4.6,
+    "reviewCount": 178,
+    "inStock": true,
+    "specifications": {
+      "format": "Hardcover",
+      "pages": "356",
+      "language": "English",
+      "publisher": "Culinary Science Press"
+    },
+    "createdAt": "2023-08-14T00:00:00Z"
+  },
+  {
+    "Id": 124,
+    "title": "The River's Edge",
+    "price": 17.99,
+    "images": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop"
+    ],
+    "description": "Literary fiction about a small town changed by a mysterious stranger. Secrets, redemption, and the power of human connection.",
+    "category": "Books",
+    "rating": 4.4,
+    "reviewCount": 156,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "328",
+      "language": "English",
+      "publisher": "Literary Fiction Press"
+    },
+    "createdAt": "2023-08-12T00:00:00Z"
+  },
+  {
+    "Id": 125,
+    "title": "Product Management Excellence",
+    "price": 29.99,
+    "originalPrice": 36.99,
+    "discount": 19,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop"
+    ],
+    "description": "Master the art and science of product management. From strategy to execution, build products that customers love.",
+    "category": "Books",
+    "rating": 4.5,
+    "reviewCount": 198,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "412",
+      "language": "English",
+      "publisher": "Product Excellence Press"
+    },
+    "createdAt": "2023-08-10T00:00:00Z"
+  },
+  {
+    "Id": 126,
+    "title": "The Wandering Star",
+    "price": 19.99,
+    "originalPrice": 24.99,
+    "discount": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "Space opera about a rogue planet that threatens inhabited worlds. Epic battles and moral dilemmas among the stars.",
+    "category": "Books",
+    "rating": 4.3,
+    "reviewCount": 234,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "468",
+      "language": "English",
+      "publisher": "Epic Sci-Fi Press"
+    },
+    "createdAt": "2023-08-08T00:00:00Z"
+  },
+  {
+    "Id": 127,
+    "title": "Ancient Philosophy Guide",
+    "price": 22.99,
+    "originalPrice": 27.99,
+    "discount": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop"
+    ],
+    "description": "Wisdom from ancient philosophers that remains relevant today. Stoicism, ethics, and the good life explored.",
+    "category": "Books",
+    "rating": 4.4,
+    "reviewCount": 167,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "344",
+      "language": "English",
+      "publisher": "Philosophy Classics"
+    },
+    "createdAt": "2023-08-06T00:00:00Z"
+  },
+  {
+    "Id": 128,
+    "title": "The Mapmaker's Quest",
+    "price": 18.99,
+    "images": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop"
+    ],
+    "description": "Historical adventure following a cartographer exploring uncharted territories. Discovery, danger, and the edge of the known world.",
+    "category": "Books",
+    "rating": 4.2,
+    "reviewCount": 189,
+    "inStock": false,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "376",
+      "language": "English",
+      "publisher": "Historical Adventure Press"
+    },
+    "createdAt": "2023-08-04T00:00:00Z"
+  },
+  {
+    "Id": 129,
+    "title": "Digital Ethics Handbook",
+    "price": 26.99,
+    "originalPrice": 32.99,
+    "discount": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop"
+    ],
+    "description": "Navigating moral questions in the digital age. Privacy, AI ethics, and responsible technology development.",
+    "category": "Books",
+    "rating": 4.3,
+    "reviewCount": 145,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "368",
+      "language": "English",
+      "publisher": "Digital Ethics Press"
+    },
+    "createdAt": "2023-08-02T00:00:00Z"
+  },
+  {
+    "Id": 130,
+    "title": "The Storyteller's Art",
+    "price": 20.99,
+    "originalPrice": 25.99,
+    "discount": 19,
+    "images": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop"
+    ],
+    "description": "Master the craft of storytelling across all mediums. From novels to screenplays to digital narratives.",
+    "category": "Books",
+    "rating": 4.5,
+    "reviewCount": 212,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "324",
+      "language": "English",
+      "publisher": "Narrative Craft Press"
+    },
+    "createdAt": "2023-07-31T00:00:00Z"
+  },
+  {
+    "Id": 131,
+    "title": "The Quantum Garden",
+    "price": 21.99,
+    "images": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "Mind-bending science fiction about a garden that exists in multiple realities. Quantum physics meets botanical wonder.",
+    "category": "Books",
+    "rating": 4.6,
+    "reviewCount": 178,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "392",
+      "language": "English",
+      "publisher": "Quantum Fiction Press"
+    },
+    "createdAt": "2023-07-29T00:00:00Z"
+  },
+  {
+    "Id": 132,
+    "title": "Behavioral Economics Guide",
+    "price": 28.99,
+    "originalPrice": 34.99,
+    "discount": 17,
+    "images": [
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "How psychology influences economic decisions. Understanding human behavior in markets and financial choices.",
+    "category": "Books",
+    "rating": 4.4,
+    "reviewCount": 156,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "384",
+      "language": "English",
+      "publisher": "Behavioral Science Press"
+    },
+    "createdAt": "2023-07-27T00:00:00Z"
+  },
+  {
+    "Id": 133,
+    "title": "The Echo Chamber",
+    "price": 17.99,
+    "originalPrice": 22.99,
+    "discount": 22,
+    "images": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop"
+    ],
+    "description": "Dystopian thriller about a world where information is strictly controlled. A journalist's fight for truth in an age of propaganda.",
+    "category": "Books",
+    "rating": 4.3,
+    "reviewCount": 234,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "356",
+      "language": "English",
+      "publisher": "Dystopian Thrillers"
+    },
+    "createdAt": "2023-07-25T00:00:00Z"
+  },
+  {
+    "Id": 134,
+    "title": "Organic Chemistry Simplified",
+    "price": 32.99,
+    "originalPrice": 39.99,
+    "discount": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop"
+    ],
+    "description": "Make organic chemistry accessible with clear explanations and practical examples. Perfect for students and professionals.",
+    "category": "Books",
+    "rating": 4.5,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "468",
+      "language": "English",
+      "publisher": "Chemistry Education Press"
+    },
+    "createdAt": "2023-07-23T00:00:00Z"
+  },
+  {
+    "Id": 135,
+    "title": "The Healing Path",
+    "price": 19.99,
+    "images": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "Inspirational memoir about overcoming trauma and finding wholeness. A journey of healing, hope, and human resilience.",
+    "category": "Books",
+    "rating": 4.6,
+    "reviewCount": 267,
+    "inStock": false,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "312",
+      "language": "English",
+      "publisher": "Healing Journey Press"
+    },
+    "createdAt": "2023-07-21T00:00:00Z"
+  },
+  {
+    "Id": 136,
+    "title": "Future Cities Design",
+    "price": 30.99,
+    "originalPrice": 37.99,
+    "discount": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "Visionary approaches to urban planning and sustainable city design. Building livable cities for the 22nd century.",
+    "category": "Books",
+    "rating": 4.2,
+    "reviewCount": 134,
+    "inStock": true,
+    "specifications": {
+      "format": "Hardcover",
+      "pages": "424",
+      "language": "English",
+      "publisher": "Future Architecture Press"
+    },
+    "createdAt": "2023-07-19T00:00:00Z"
+  },
+  {
+    "Id": 137,
+    "title": "The Midnight Train",
+    "price": 18.99,
+    "originalPrice": 23.99,
+    "discount": 21,
+    "images": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop"
+    ],
+    "description": "Noir mystery set aboard a cross-country train. Murder, intrigue, and secrets revealed as the miles roll by.",
+    "category": "Books",
+    "rating": 4.4,
+    "reviewCount": 198,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "368",
+      "language": "English",
+      "publisher": "Railway Mystery Press"
+    },
+    "createdAt": "2023-07-17T00:00:00Z"
+  },
+  {
+    "Id": 138,
+    "title": "Cognitive Science Foundations",
+    "price": 33.99,
+    "originalPrice": 41.99,
+    "discount": 19,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop"
+    ],
+    "description": "Interdisciplinary approach to understanding the mind. Psychology, neuroscience, and AI perspectives on cognition.",
+    "category": "Books",
+    "rating": 4.3,
+    "reviewCount": 145,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "512",
+      "language": "English",
+      "publisher": "Cognitive Science Press"
+    },
+    "createdAt": "2023-07-15T00:00:00Z"
+  },
+  {
+    "Id": 139,
+    "title": "The Garden of Memories",
+    "price": 16.99,
+    "images": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop"
+    ],
+    "description": "Touching story about an elderly woman's garden that holds a lifetime of memories. Love, loss, and the passage of time.",
+    "category": "Books",
+    "rating": 4.5,
+    "reviewCount": 223,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "284",
+      "language": "English",
+      "publisher": "Heartwarming Stories"
+    },
+    "createdAt": "2023-07-13T00:00:00Z"
+  },
+  {
+    "Id": 140,
+    "title": "Network Security Essentials",
+    "price": 35.99,
+    "originalPrice": 43.99,
+    "discount": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop"
+    ],
+    "description": "Comprehensive guide to protecting networks from cyber threats. Practical security measures for IT professionals.",
+    "category": "Books",
+    "rating": 4.6,
+    "reviewCount": 167,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "456",
+      "language": "English",
+      "publisher": "Security Professional Press"
+    },
+    "createdAt": "2023-07-11T00:00:00Z"
+  },
+  {
+    "Id": 141,
+    "title": "The Crystal Caves",
+    "price": 20.99,
+    "originalPrice": 25.99,
+    "discount": 19,
+    "images": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "Young adult fantasy about a girl who discovers magical crystal caves. Friendship, courage, and elemental magic.",
+    "category": "Books",
+    "rating": 4.3,
+    "reviewCount": 189,
+    "inStock": false,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "356",
+      "language": "English",
+      "publisher": "Young Adult Fantasy"
+    },
+    "createdAt": "2023-07-09T00:00:00Z"
+  },
+  {
+    "Id": 142,
+    "title": "Statistical Analysis Made Easy",
+    "price": 29.99,
+    "originalPrice": 36.99,
+    "discount": 19,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop"
+    ],
+    "description": "Practical statistics for researchers and data analysts. From basics to advanced techniques with real-world examples.",
+    "category": "Books",
+    "rating": 4.4,
+    "reviewCount": 156,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "424",
+      "language": "English",
+      "publisher": "Statistical Methods Press"
+    },
+    "createdAt": "2023-07-07T00:00:00Z"
+  },
+  {
+    "Id": 143,
+    "title": "The Forgotten Kingdom",
+    "price": 19.99,
+    "images": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop"
+    ],
+    "description": "Epic fantasy about a lost civilization rediscovered. Ancient magic, political intrigue, and the cost of power.",
+    "category": "Books",
+    "rating": 4.5,
+    "reviewCount": 234,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "512",
+      "language": "English",
+      "publisher": "Epic Fantasy Press"
+    },
+    "createdAt": "2023-07-05T00:00:00Z"
+  },
+  {
+    "Id": 144,
+    "title": "Social Psychology Insights",
+    "price": 27.99,
+    "originalPrice": 33.99,
+    "discount": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "How we influence and are influenced by others. Group dynamics, persuasion, and social behavior explained.",
+    "category": "Books",
+    "rating": 4.2,
+    "reviewCount": 178,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "368",
+      "language": "English",
+      "publisher": "Social Science Press"
+    },
+    "createdAt": "2023-07-03T00:00:00Z"
+  },
+  {
+    "Id": 145,
+    "title": "The Alchemist's Code",
+    "price": 18.99,
+    "originalPrice": 23.99,
+    "discount": 21,
+    "images": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop"
+    ],
+    "description": "Historical mystery involving ancient alchemical secrets. A scholar's quest to decode manuscripts that could change history.",
+    "category": "Books",
+    "rating": 4.4,
+    "reviewCount": 167,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "384",
+      "language": "English",
+      "publisher": "Historical Mystery Press"
+    },
+    "createdAt": "2023-07-01T00:00:00Z"
+  },
+  {
+    "Id": 146,
+    "title": "Renewable Resources Management",
+    "price": 31.99,
+    "originalPrice": 38.99,
+    "discount": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "Sustainable management of natural resources for future generations. Forestry, fisheries, and water resource conservation.",
+    "category": "Books",
+    "rating": 4.3,
+    "reviewCount": 145,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "412",
+      "language": "English",
+      "publisher": "Environmental Management Press"
+    },
+    "createdAt": "2023-06-29T00:00:00Z"
+  },
+  {
+    "Id": 147,
+    "title": "The Lighthouse Letters",
+    "price": 17.99,
+    "images": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop"
+    ],
+    "description": "Romantic drama about love letters found in an old lighthouse. Past and present intertwine in this emotional tale.",
+    "category": "Books",
+    "rating": 4.5,
+    "reviewCount": 198,
+    "inStock": false,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "312",
+      "language": "English",
+      "publisher": "Romantic Drama Press"
+    },
+    "createdAt": "2023-06-27T00:00:00Z"
+  },
+  {
+    "Id": 148,
+    "title": "Advanced Database Design",
+    "price": 37.99,
+    "originalPrice": 46.99,
+    "discount": 19,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop"
+    ],
+    "description": "Professional database design principles and best practices. From normalization to performance optimization.",
+    "category": "Books",
+    "rating": 4.6,
+    "reviewCount": 123,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "568",
+      "language": "English",
+      "publisher": "Database Technology Press"
+    },
+    "createdAt": "2023-06-25T00:00:00Z"
+  },
+  {
+    "Id": 149,
+    "title": "The Phoenix Rising",
+    "price": 22.99,
+    "originalPrice": 27.99,
+    "discount": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "Urban fantasy about a city where mythical creatures hide in plain sight. A young woman discovers her supernatural heritage.",
+    "category": "Books",
+    "rating": 4.4,
+    "reviewCount": 189,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "396",
+      "language": "English",
+      "publisher": "Urban Fantasy Books"
+    },
+    "createdAt": "2023-06-23T00:00:00Z"
+  },
+  {
+    "Id": 150,
+    "title": "Microeconomics Principles",
+    "price": 34.99,
+    "originalPrice": 42.99,
+    "discount": 19,
+    "images": [
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "Essential microeconomic theory and applications. Supply and demand, market structures, and consumer behavior.",
+    "category": "Books",
+    "rating": 4.2,
+    "reviewCount": 156,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "468",
+      "language": "English",
+      "publisher": "Economics Education Press"
+    },
+    "createdAt": "2023-06-21T00:00:00Z"
+  },
+  {
+    "Id": 151,
+    "title": "The Dream Weaver",
+    "price": 19.99,
+    "originalPrice": 24.99,
+    "discount": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop"
+    ],
+    "description": "Fantasy adventure about a girl who can enter and manipulate dreams. The boundary between dreams and reality blurs.",
+    "category": "Books",
+    "rating": 4.5,
+    "reviewCount": 234,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "368",
+      "language": "English",
+      "publisher": "Dream Fantasy Press"
+    },
+    "createdAt": "2023-06-19T00:00:00Z"
+  },
+  {
+    "Id": 152,
+    "title": "Sustainable Business Practices",
+    "price": 26.99,
+    "originalPrice": 32.99,
+    "discount": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop"
+    ],
+    "description": "How companies can profit while protecting the planet. Corporate responsibility and sustainable development strategies.",
+    "category": "Books",
+    "rating": 4.3,
+    "reviewCount": 178,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperbook",
+      "pages": "344",
+      "language": "English",
+      "publisher": "Sustainable Business Press"
+    },
+    "createdAt": "2023-06-17T00:00:00Z"
   }
 ]
