@@ -521,8 +521,441 @@
       "volume": "250ml",
       "ingredients": "Sea Salt, Essential Oils",
       "effect": "Exfoliating and moisturizing",
-      "scent": "Refreshing citrus"
+"scent": "Refreshing citrus"
     },
     "createdAt": "2023-11-18T00:00:00Z"
+  },
+  {
+    "Id": 25,
+    "title": "Gentle Foaming Cleanser",
+    "price": 22.99,
+    "images": [
+      "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1571875257727-256c39da42af?w=500&h=500&fit=crop"
+    ],
+    "description": "Gentle daily foaming cleanser that removes makeup and impurities without stripping skin. Formulated with chamomile and aloe vera for sensitive skin.",
+    "category": "Beauty",
+    "rating": 4.3,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "volume": "150ml",
+      "ingredients": "Chamomile, Aloe Vera",
+      "skinType": "Sensitive skin",
+      "use": "Morning and evening"
+    },
+    "createdAt": "2023-11-15T00:00:00Z"
+  },
+  {
+    "Id": 26,
+    "title": "Vitamin C Brightening Serum",
+    "price": 54.99,
+    "originalPrice": 69.99,
+    "discount": 21,
+    "images": [
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1596755389378-c31d21fd1273?w=500&h=500&fit=crop"
+    ],
+    "description": "Powerful vitamin C serum that brightens skin tone and reduces dark spots. Contains 20% vitamin C with stabilizing ingredients for maximum effectiveness.",
+    "category": "Beauty",
+    "rating": 4.6,
+    "reviewCount": 267,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "volume": "30ml",
+      "concentration": "20% Vitamin C",
+      "ingredients": "L-Ascorbic Acid, Vitamin E",
+      "application": "Morning use with SPF"
+    },
+    "createdAt": "2023-11-12T00:00:00Z"
+  },
+  {
+    "Id": 27,
+    "title": "Full Coverage Foundation",
+    "price": 38.99,
+    "images": [
+      "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=500&h=500&fit=crop"
+    ],
+    "description": "Long-wearing liquid foundation with buildable full coverage. Available in 20 shades with a natural matte finish that lasts up to 16 hours.",
+    "category": "Beauty",
+    "rating": 4.4,
+    "reviewCount": 312,
+    "inStock": true,
+    "specifications": {
+      "volume": "30ml",
+      "coverage": "Full coverage",
+      "finish": "Natural matte",
+      "wear": "16 hours"
+    },
+    "createdAt": "2023-11-10T00:00:00Z"
+  },
+  {
+    "Id": 28,
+    "title": "Nourishing Shampoo",
+    "price": 19.99,
+    "images": [
+      "https://images.unsplash.com/photo-1571875257727-256c39da42af?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1608248542669-d4d4bb2b8c8e?w=500&h=500&fit=crop"
+    ],
+    "description": "Sulfate-free nourishing shampoo enriched with keratin and biotin. Gently cleanses while strengthening damaged hair and promoting healthy growth.",
+    "category": "Beauty",
+    "rating": 4.2,
+    "reviewCount": 198,
+    "inStock": true,
+    "specifications": {
+      "volume": "400ml",
+      "formula": "Sulfate-free",
+      "ingredients": "Keratin, Biotin",
+      "hairType": "Damaged hair"
+    },
+    "createdAt": "2023-11-08T00:00:00Z"
+  },
+  {
+    "Id": 29,
+    "title": "Eyeshadow Palette Nude",
+    "price": 49.99,
+    "originalPrice": 59.99,
+    "discount": 17,
+    "images": [
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=500&h=500&fit=crop"
+    ],
+    "description": "Professional 12-shade nude eyeshadow palette with matte and shimmer finishes. Highly pigmented and blendable formula for versatile eye looks.",
+    "category": "Beauty",
+    "rating": 4.7,
+    "reviewCount": 289,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "shades": "12 colors",
+      "finish": "Matte and shimmer",
+      "formula": "Highly pigmented",
+      "palette": "Nude tones"
+    },
+    "createdAt": "2023-11-05T00:00:00Z"
+  },
+  {
+    "Id": 30,
+    "title": "Hydrating Toner",
+    "price": 26.99,
+    "images": [
+      "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1612817288484-6f916006741a?w=500&h=500&fit=crop"
+    ],
+    "description": "Alcohol-free hydrating toner with rose water and glycerin. Balances skin pH while providing deep hydration and preparing skin for serums.",
+    "category": "Beauty",
+    "rating": 4.1,
+    "reviewCount": 156,
+    "inStock": true,
+    "specifications": {
+      "volume": "200ml",
+      "formula": "Alcohol-free",
+      "ingredients": "Rose Water, Glycerin",
+      "skinType": "All skin types"
+    },
+    "createdAt": "2023-11-03T00:00:00Z"
+  },
+  {
+    "Id": 31,
+    "title": "Curl Defining Cream",
+    "price": 32.99,
+    "images": [
+      "https://images.unsplash.com/photo-1608248542669-d4d4bb2b8c8e?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1571875257727-256c39da42af?w=500&h=500&fit=crop"
+    ],
+    "description": "Lightweight curl defining cream that enhances natural curls without weighing hair down. Provides frizz control and long-lasting curl definition.",
+    "category": "Beauty",
+    "rating": 4.5,
+    "reviewCount": 178,
+    "inStock": true,
+    "specifications": {
+      "volume": "150ml",
+      "hold": "Medium hold",
+      "formula": "Lightweight",
+      "hairType": "Curly hair"
+    },
+    "createdAt": "2023-11-01T00:00:00Z"
+  },
+  {
+    "Id": 32,
+    "title": "Matte Liquid Lipstick",
+    "price": 21.99,
+    "images": [
+      "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=500&h=500&fit=crop"
+    ],
+    "description": "Ultra-matte liquid lipstick with intense color payoff. Comfortable long-wearing formula that doesn't dry out lips, available in 15 stunning shades.",
+    "category": "Beauty",
+    "rating": 4.3,
+    "reviewCount": 234,
+    "inStock": true,
+    "specifications": {
+      "volume": "4ml",
+      "finish": "Ultra-matte",
+      "wear": "10+ hours",
+      "shades": "15 available"
+    },
+    "createdAt": "2023-10-30T00:00:00Z"
+  },
+  {
+    "Id": 33,
+    "title": "Eye Cream Anti-Puffiness",
+    "price": 44.99,
+    "images": [
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1596755389378-c31d21fd1273?w=500&h=500&fit=crop"
+    ],
+    "description": "Targeted eye cream that reduces puffiness and dark circles. Contains caffeine and peptides to brighten and firm the delicate eye area.",
+    "category": "Beauty",
+    "rating": 4.4,
+    "reviewCount": 167,
+    "inStock": true,
+    "specifications": {
+      "volume": "15ml",
+      "ingredients": "Caffeine, Peptides",
+      "area": "Eye contour",
+      "effect": "Anti-puffiness, brightening"
+    },
+    "createdAt": "2023-10-28T00:00:00Z"
+  },
+  {
+    "Id": 34,
+    "title": "Waterproof Eyeliner Pen",
+    "price": 16.99,
+    "images": [
+      "https://images.unsplash.com/photo-1631214540242-d0ca0c1d6d6b?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1583241800119-db7ba9d0e011?w=500&h=500&fit=crop"
+    ],
+    "description": "Precision waterproof eyeliner pen with ultra-fine tip for perfect lines. Smudge-proof formula that lasts all day without fading or flaking.",
+    "category": "Beauty",
+    "rating": 4.2,
+    "reviewCount": 145,
+    "inStock": true,
+    "specifications": {
+      "tip": "Ultra-fine precision",
+      "formula": "Waterproof",
+      "wear": "All day",
+      "color": "Intense black"
+    },
+    "createdAt": "2023-10-25T00:00:00Z"
+  },
+  {
+    "Id": 35,
+    "title": "Deep Conditioning Hair Mask",
+    "price": 28.99,
+    "originalPrice": 34.99,
+    "discount": 17,
+    "images": [
+      "https://images.unsplash.com/photo-1608248542669-d4d4bb2b8c8e?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1571875257727-256c39da42af?w=500&h=500&fit=crop"
+    ],
+    "description": "Intensive deep conditioning hair mask with coconut oil and shea butter. Repairs severely damaged hair and restores moisture for silky smooth results.",
+    "category": "Beauty",
+    "rating": 4.6,
+    "reviewCount": 298,
+    "inStock": true,
+    "specifications": {
+      "volume": "250ml",
+      "ingredients": "Coconut Oil, Shea Butter",
+      "treatment": "Weekly use",
+      "hairType": "Damaged, dry hair"
+    },
+    "createdAt": "2023-10-23T00:00:00Z"
+  },
+  {
+    "Id": 36,
+    "title": "Illuminating Highlighter",
+    "price": 33.99,
+    "images": [
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=500&h=500&fit=crop"
+    ],
+    "description": "Silky powder highlighter that creates a natural glow. Buildable formula with light-reflecting particles for a radiant, luminous finish.",
+    "category": "Beauty",
+    "rating": 4.5,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "finish": "Luminous glow",
+      "formula": "Buildable powder",
+      "effect": "Light-reflecting",
+      "shades": "4 available"
+    },
+    "createdAt": "2023-10-20T00:00:00Z"
+  },
+  {
+    "Id": 37,
+    "title": "Micellar Cleansing Water",
+    "price": 15.99,
+    "images": [
+      "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1571875257727-256c39da42af?w=500&h=500&fit=crop"
+    ],
+    "description": "Gentle micellar water that removes makeup and cleanses skin in one step. No-rinse formula suitable for all skin types including sensitive skin.",
+    "category": "Beauty",
+    "rating": 4.1,
+    "reviewCount": 234,
+    "inStock": true,
+    "specifications": {
+      "volume": "400ml",
+      "formula": "No-rinse",
+      "skinType": "All skin types",
+      "use": "Makeup removal, cleansing"
+    },
+    "createdAt": "2023-10-18T00:00:00Z"
+  },
+  {
+    "Id": 38,
+    "title": "Volumizing Dry Shampoo",
+    "price": 24.99,
+    "images": [
+      "https://images.unsplash.com/photo-1608248542669-d4d4bb2b8c8e?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1571875257727-256c39da42af?w=500&h=500&fit=crop"
+    ],
+    "description": "Invisible dry shampoo that absorbs oil and adds volume. Rice starch formula refreshes hair between washes without white residue.",
+    "category": "Beauty",
+    "rating": 4.3,
+    "reviewCount": 178,
+    "inStock": true,
+    "specifications": {
+      "volume": "200ml",
+      "formula": "Invisible, no residue",
+      "ingredients": "Rice Starch",
+      "effect": "Oil absorption, volume"
+    },
+    "createdAt": "2023-10-15T00:00:00Z"
+  },
+  {
+    "Id": 39,
+    "title": "Anti-Aging Retinol Serum",
+    "price": 62.99,
+    "originalPrice": 79.99,
+    "discount": 21,
+    "images": [
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1596755389378-c31d21fd1273?w=500&h=500&fit=crop"
+    ],
+    "description": "Advanced retinol serum for anti-aging and skin renewal. Gentle formula with encapsulated retinol minimizes irritation while maximizing results.",
+    "category": "Beauty",
+    "rating": 4.7,
+    "reviewCount": 356,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "volume": "30ml",
+      "concentration": "0.5% Encapsulated Retinol",
+      "application": "Evening use only",
+      "skinType": "Mature skin"
+    },
+    "createdAt": "2023-10-13T00:00:00Z"
+  },
+  {
+    "Id": 40,
+    "title": "Luxury Body Lotion",
+    "price": 39.99,
+    "images": [
+      "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1612817288484-6f916006741a?w=500&h=500&fit=crop"
+    ],
+    "description": "Rich, fast-absorbing body lotion with 24-hour hydration. Infused with jojoba oil and vitamin E for silky smooth, nourished skin.",
+    "category": "Beauty",
+    "rating": 4.4,
+    "reviewCount": 267,
+    "inStock": true,
+    "specifications": {
+      "volume": "300ml",
+      "hydration": "24-hour",
+      "ingredients": "Jojoba Oil, Vitamin E",
+      "texture": "Fast-absorbing"
+    },
+    "createdAt": "2023-10-11T00:00:00Z"
+  },
+  {
+    "Id": 41,
+    "title": "Waterproof Mascara Brown",
+    "price": 26.99,
+    "images": [
+      "https://images.unsplash.com/photo-1631214540242-d0ca0c1d6d6b?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1583241800119-db7ba9d0e011?w=500&h=500&fit=crop"
+    ],
+    "description": "Natural-looking brown waterproof mascara for everyday wear. Lengthening formula that separates and defines lashes without clumping.",
+    "category": "Beauty",
+    "rating": 4.2,
+    "reviewCount": 198,
+    "inStock": true,
+    "specifications": {
+      "volume": "8ml",
+      "color": "Natural brown",
+      "formula": "Waterproof, lengthening",
+      "effect": "Natural definition"
+    },
+    "createdAt": "2023-10-09T00:00:00Z"
+  },
+  {
+    "Id": 42,
+    "title": "Lip Scrub Exfoliating",
+    "price": 14.99,
+    "images": [
+      "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=500&h=500&fit=crop"
+    ],
+    "description": "Gentle sugar-based lip scrub that removes dead skin for smooth, soft lips. Enriched with coconut oil and vitamin E for added nourishment.",
+    "category": "Beauty",
+    "rating": 4.3,
+    "reviewCount": 134,
+    "inStock": true,
+    "specifications": {
+      "volume": "15ml",
+      "base": "Natural sugar",
+      "ingredients": "Coconut Oil, Vitamin E",
+      "use": "2-3 times per week"
+    },
+    "createdAt": "2023-10-07T00:00:00Z"
+  },
+  {
+    "Id": 43,
+    "title": "Sulfate-Free Conditioner",
+    "price": 22.99,
+    "images": [
+      "https://images.unsplash.com/photo-1608248542669-d4d4bb2b8c8e?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1571875257727-256c39da42af?w=500&h=500&fit=crop"
+    ],
+    "description": "Moisturizing sulfate-free conditioner that detangles and softens hair. Enriched with argan oil and protein for strength and shine.",
+    "category": "Beauty",
+    "rating": 4.1,
+    "reviewCount": 156,
+    "inStock": true,
+    "specifications": {
+      "volume": "400ml",
+      "formula": "Sulfate-free",
+      "ingredients": "Argan Oil, Protein",
+      "hairType": "All hair types"
+    },
+    "createdAt": "2023-10-05T00:00:00Z"
+  },
+  {
+    "Id": 44,
+    "title": "Setting Spray Makeup",
+    "price": 29.99,
+    "originalPrice": 34.99,
+    "discount": 14,
+    "images": [
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=500&h=500&fit=crop"
+    ],
+    "description": "Long-lasting makeup setting spray that locks makeup in place for up to 16 hours. Lightweight mist that doesn't disturb makeup application.",
+    "category": "Beauty",
+    "rating": 4.5,
+    "reviewCount": 289,
+    "inStock": true,
+    "specifications": {
+      "volume": "100ml",
+      "wear": "16+ hours",
+      "finish": "Natural",
+      "application": "Fine mist"
+    },
+    "createdAt": "2023-10-03T00:00:00Z"
   }
 ]
