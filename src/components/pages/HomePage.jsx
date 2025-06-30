@@ -67,28 +67,32 @@ const HomePage = () => {
             >
               Discover millions of products at unbeatable prices. Fast, secure shipping and hassle-free returns.
             </motion.p>
-            <motion.div
+<motion.div
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.4 }}
               className="flex flex-col sm:flex-row items-center justify-center gap-4"
             >
-              <Button
-                size="lg"
-                className="bg-white text-primary-600 hover:bg-gray-50 shadow-lg"
-                icon="ArrowRight"
-                iconPosition="right"
-              >
-                Start Shopping
-              </Button>
-              <Button
-                variant="outline"
-                size="lg"
-                className="border-white text-white hover:bg-white hover:text-primary-600"
-                icon="Gift"
-              >
-                View Deals
-              </Button>
+              <Link to="/category/all">
+                <Button
+                  size="lg"
+                  className="bg-white text-primary-600 hover:bg-gray-50 shadow-lg"
+                  icon="ArrowRight"
+                  iconPosition="right"
+                >
+                  Start Shopping
+                </Button>
+              </Link>
+              <Link to="/category/deals">
+                <Button
+                  variant="outline"
+                  size="lg"
+                  className="border-white text-white hover:bg-white hover:text-primary-600"
+                  icon="Gift"
+                >
+                  View Deals
+                </Button>
+              </Link>
             </motion.div>
           </div>
         </div>
