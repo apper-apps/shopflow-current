@@ -1,0 +1,354 @@
+[
+  {
+    "Id": 1,
+    "title": "Wireless Bluetooth Headphones",
+    "price": 89.99,
+    "originalPrice": 129.99,
+    "discount": 31,
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=500&h=500&fit=crop"
+    ],
+    "description": "Premium wireless Bluetooth headphones with active noise cancellation, 30-hour battery life, and superior sound quality. Perfect for music lovers and professionals who demand the best audio experience.",
+    "category": "Electronics",
+    "rating": 4.5,
+    "reviewCount": 324,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "batteryLife": "30 hours",
+      "connectivity": "Bluetooth 5.0",
+      "noiseReduction": "Active Noise Cancellation",
+      "weight": "250g"
+    },
+    "createdAt": "2024-01-15T00:00:00Z"
+  },
+  {
+    "Id": 2,
+    "title": "Organic Cotton T-Shirt",
+    "price": 24.99,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=500&h=500&fit=crop"
+    ],
+    "description": "Comfortable and sustainable organic cotton t-shirt. Made from 100% certified organic cotton with a soft, breathable fabric that gets better with every wash.",
+    "category": "Clothing",
+    "rating": 4.2,
+    "reviewCount": 187,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Organic Cotton",
+      "fit": "Regular",
+      "care": "Machine wash cold"
+    },
+    "createdAt": "2024-01-10T00:00:00Z"
+  },
+  {
+    "Id": 3,
+    "title": "Smart Fitness Watch",
+    "price": 199.99,
+    "originalPrice": 249.99,
+    "discount": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=500&h=500&fit=crop"
+    ],
+    "description": "Advanced fitness watch with heart rate monitoring, GPS tracking, sleep analysis, and 7-day battery life. Track your workouts and health metrics with precision.",
+    "category": "Electronics",
+    "rating": 4.7,
+    "reviewCount": 512,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "batteryLife": "7 days",
+      "waterResistance": "50m",
+      "sensors": "Heart Rate, GPS, Accelerometer",
+      "display": "1.4 inch AMOLED"
+    },
+    "createdAt": "2024-01-12T00:00:00Z"
+  },
+  {
+    "Id": 4,
+    "title": "Ceramic Coffee Mug Set",
+    "price": 34.99,
+    "images": [
+      "https://images.unsplash.com/photo-1514228742587-6b1558fcf93a?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1541167760496-1628856ab772?w=500&h=500&fit=crop"
+    ],
+    "description": "Beautiful set of 4 handcrafted ceramic coffee mugs. Perfect for your morning coffee or evening tea. Dishwasher and microwave safe.",
+    "category": "Home & Garden",
+    "rating": 4.4,
+    "reviewCount": 98,
+    "inStock": true,
+    "specifications": {
+      "material": "Ceramic",
+      "capacity": "12 oz",
+      "set": "4 pieces",
+      "care": "Dishwasher safe"
+    },
+    "createdAt": "2024-01-08T00:00:00Z"
+  },
+  {
+    "Id": 5,
+    "title": "Running Shoes",
+    "price": 79.99,
+    "originalPrice": 99.99,
+    "discount": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=500&h=500&fit=crop"
+    ],
+    "description": "Lightweight running shoes with superior cushioning and breathable mesh upper. Designed for comfort and performance during your daily runs.",
+    "category": "Sports",
+    "rating": 4.3,
+    "reviewCount": 267,
+    "inStock": true,
+    "specifications": {
+      "material": "Mesh and Synthetic",
+      "sole": "Rubber",
+      "cushioning": "EVA Foam",
+      "weight": "280g"
+    },
+    "createdAt": "2024-01-05T00:00:00Z"
+  },
+  {
+    "Id": 6,
+    "title": "Mystery Novel Collection",
+    "price": 19.99,
+    "images": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=500&h=500&fit=crop"
+    ],
+    "description": "Collection of bestselling mystery novels. Perfect for mystery enthusiasts who love suspenseful stories and plot twists.",
+    "category": "Books",
+    "rating": 4.6,
+    "reviewCount": 156,
+    "inStock": true,
+    "specifications": {
+      "format": "Paperback",
+      "pages": "320 average",
+      "language": "English",
+      "publisher": "Mystery House"
+    },
+    "createdAt": "2024-01-03T00:00:00Z"
+  },
+  {
+    "Id": 7,
+    "title": "Natural Face Serum",
+    "price": 45.99,
+    "images": [
+      "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1612817288484-6f916006741a?w=500&h=500&fit=crop"
+    ],
+    "description": "Rejuvenating face serum with natural ingredients including vitamin C, hyaluronic acid, and botanical extracts. Suitable for all skin types.",
+    "category": "Beauty",
+    "rating": 4.5,
+    "reviewCount": 203,
+    "inStock": true,
+    "specifications": {
+      "volume": "30ml",
+      "ingredients": "Vitamin C, Hyaluronic Acid",
+      "skinType": "All skin types",
+      "organic": "Yes"
+    },
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": 8,
+    "title": "Wireless Phone Charger",
+    "price": 29.99,
+    "images": [
+      "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=500&h=500&fit=crop"
+    ],
+    "description": "Fast wireless charging pad compatible with all Qi-enabled devices. Sleek design with LED indicator and over-charging protection.",
+    "category": "Electronics",
+    "rating": 4.1,
+    "reviewCount": 89,
+    "inStock": true,
+    "specifications": {
+      "power": "15W Fast Charging",
+      "compatibility": "Qi-enabled devices",
+      "features": "LED indicator, Over-charge protection",
+      "dimensions": "100mm x 100mm x 8mm"
+    },
+    "createdAt": "2023-12-28T00:00:00Z"
+  },
+  {
+    "Id": 9,
+    "title": "Denim Jacket",
+    "price": 59.99,
+    "originalPrice": 79.99,
+    "discount": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5c?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=500&h=500&fit=crop"
+    ],
+    "description": "Classic denim jacket with vintage wash. Perfect layering piece for any season. Made from durable cotton denim with comfortable fit.",
+    "category": "Clothing",
+    "rating": 4.4,
+    "reviewCount": 145,
+    "inStock": true,
+    "specifications": {
+      "material": "100% Cotton Denim",
+      "wash": "Vintage Blue",
+      "fit": "Regular",
+      "closure": "Button front"
+    },
+    "createdAt": "2023-12-25T00:00:00Z"
+  },
+  {
+    "Id": 10,
+    "title": "Indoor Plant Pot Set",
+    "price": 42.99,
+    "images": [
+      "https://images.unsplash.com/photo-1485955900006-10f4d324d411?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=500&h=500&fit=crop"
+    ],
+    "description": "Set of 3 modern ceramic planters perfect for indoor plants. Includes drainage holes and matching saucers. Great for succulents and small plants.",
+    "category": "Home & Garden",
+    "rating": 4.3,
+    "reviewCount": 76,
+    "inStock": true,
+    "specifications": {
+      "material": "Ceramic",
+      "set": "3 pieces",
+      "sizes": "Small, Medium, Large",
+      "drainage": "Yes, with saucers"
+    },
+    "createdAt": "2023-12-22T00:00:00Z"
+  },
+  {
+    "Id": 11,
+    "title": "Yoga Mat Premium",
+    "price": 39.99,
+    "images": [
+      "https://images.unsplash.com/photo-1506629905996-617b7e2991be?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1588286840104-8957b019727f?w=500&h=500&fit=crop"
+    ],
+    "description": "Extra thick premium yoga mat with superior grip and cushioning. Made from eco-friendly materials. Perfect for yoga, pilates, and fitness exercises.",
+    "category": "Sports",
+    "rating": 4.6,
+    "reviewCount": 234,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "thickness": "6mm",
+      "material": "Natural Rubber",
+      "size": "183cm x 61cm",
+      "weight": "1.2kg"
+    },
+    "createdAt": "2023-12-20T00:00:00Z"
+  },
+  {
+    "Id": 12,
+    "title": "Cookbook: Healthy Recipes",
+    "price": 24.99,
+    "images": [
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop"
+    ],
+    "description": "Comprehensive cookbook with over 100 healthy and delicious recipes. Includes nutritional information and cooking tips for a healthier lifestyle.",
+    "category": "Books",
+    "rating": 4.7,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "format": "Hardcover",
+      "pages": "250",
+      "recipes": "100+",
+      "features": "Nutritional info, Photos"
+    },
+    "createdAt": "2023-12-18T00:00:00Z"
+  },
+  {
+    "Id": 13,
+    "title": "Moisturizing Hand Cream",
+    "price": 12.99,
+    "images": [
+      "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1571875257727-256c39da42af?w=500&h=500&fit=crop"
+    ],
+    "description": "Deeply moisturizing hand cream with shea butter and vitamin E. Fast-absorbing formula that leaves hands soft and smooth without greasy residue.",
+    "category": "Beauty",
+    "rating": 4.2,
+    "reviewCount": 167,
+    "inStock": true,
+    "specifications": {
+      "volume": "75ml",
+      "ingredients": "Shea Butter, Vitamin E",
+      "texture": "Non-greasy",
+      "scent": "Unscented"
+    },
+    "createdAt": "2023-12-15T00:00:00Z"
+  },
+  {
+    "Id": 14,
+    "title": "Portable Bluetooth Speaker",
+    "price": 49.99,
+    "originalPrice": 69.99,
+    "discount": 29,
+    "images": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1518639192441-8fce0c43e80b?w=500&h=500&fit=crop"
+    ],
+    "description": "Compact portable Bluetooth speaker with powerful sound and deep bass. Waterproof design with 12-hour battery life, perfect for outdoor adventures.",
+    "category": "Electronics",
+    "rating": 4.4,
+    "reviewCount": 298,
+    "inStock": true,
+    "specifications": {
+      "batteryLife": "12 hours",
+      "waterproof": "IPX7",
+      "bluetooth": "5.0",
+      "power": "20W"
+    },
+    "createdAt": "2023-12-12T00:00:00Z"
+  },
+  {
+    "Id": 15,
+    "title": "Cashmere Scarf",
+    "price": 89.99,
+    "images": [
+      "https://images.unsplash.com/photo-1520903920243-00d872a2d1c9?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1566479179817-c3868c0f6df5?w=500&h=500&fit=crop"
+    ],
+    "description": "Luxurious 100% cashmere scarf with incredibly soft texture. Available in classic colors, perfect accessory for any outfit. Timeless elegance and warmth.",
+    "category": "Clothing",
+    "rating": 4.8,
+    "reviewCount": 124,
+    "inStock": false,
+    "specifications": {
+      "material": "100% Cashmere",
+      "size": "180cm x 65cm",
+      "care": "Dry clean only",
+      "origin": "Scotland"
+    },
+    "createdAt": "2023-12-10T00:00:00Z"
+  },
+  {
+    "Id": 16,
+    "title": "Kitchen Knife Set",
+    "price": 119.99,
+    "originalPrice": 149.99,
+    "discount": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1594736797933-d0ad6ba42cc4?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1574781330855-d0db0cc6a942?w=500&h=500&fit=crop"
+    ],
+    "description": "Professional kitchen knife set with high-carbon stainless steel blades. Includes chef's knife, paring knife, utility knife, and wooden block.",
+    "category": "Home & Garden",
+    "rating": 4.6,
+    "reviewCount": 178,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "material": "High-carbon stainless steel",
+      "set": "5 pieces + block",
+      "handle": "Ergonomic grip",
+      "maintenance": "Hand wash recommended"
+    },
+    "createdAt": "2023-12-08T00:00:00Z"
+  }
+]
