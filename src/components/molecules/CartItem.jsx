@@ -1,18 +1,22 @@
-import React from 'react'
-import { Link } from 'react-router-dom'
-import { motion } from 'framer-motion'
-import { toast } from 'react-toastify'
-import Button from '@/components/atoms/Button'
-import ApperIcon from '@/components/ApperIcon'
-import { updateCartItem, removeFromCart } from '@/services/api/cartService'
+import React from "react";
+import { Link } from "react-router-dom";
+import { motion } from "framer-motion";
+import { toast } from "react-toastify";
+import { formatPrice } from "@/utils/formatters";
+import ApperIcon from "@/components/ApperIcon";
+import Button from "@/components/atoms/Button";
+import { removeFromCart, updateCartItem } from "@/services/api/cartService";
 
-const CartItem = ({ item }) => {
+const CartItem = ({ item, onQuantityChange }) => {
   const handleQuantityChange = async (newQuantity) => {
     if (newQuantity < 1) return
     
     try {
       await updateCartItem(item.productId, newQuantity)
       toast.success('Cart updated')
+      if (onQuantityChange) {
+        await onQuantityChange()
+      }
     } catch (error) {
       toast.error('Failed to update cart')
     }
@@ -22,16 +26,12 @@ const CartItem = ({ item }) => {
     try {
       await removeFromCart(item.productId)
       toast.success('Item removed from cart')
+      if (onQuantityChange) {
+        await onQuantityChange()
+      }
     } catch (error) {
       toast.error('Failed to remove item')
     }
-  }
-
-  const formatPrice = (price) => {
-    return new Intl.NumberFormat('en-US', {
-      style: 'currency',
-      currency: 'USD'
-    }).format(price)
   }
 
   return (
@@ -81,7 +81,7 @@ const CartItem = ({ item }) => {
                 <ApperIcon name="Plus" size={16} className="text-gray-600" />
               </button>
             </div>
-            <div className="text-right">
+<div className="text-right">
               <div className="font-bold text-lg text-gray-900">
                 {formatPrice(item.price * item.quantity)}
               </div>

@@ -132,11 +132,15 @@ const CartPage = () => {
                   Clear Cart
                 </Button>
               )}
-            </div>
+</div>
 
             <div className="space-y-4">
               {cartItems.map((item) => (
-                <CartItem key={item.productId} item={item} />
+                <CartItem 
+                  key={item.productId} 
+                  item={item} 
+                  onQuantityChange={loadCart}
+                />
               ))}
             </div>
           </div>
