@@ -345,10 +345,184 @@
     "featured": true,
     "specifications": {
       "material": "High-carbon stainless steel",
-      "set": "5 pieces + block",
+"set": "5 pieces + block",
       "handle": "Ergonomic grip",
       "maintenance": "Hand wash recommended"
     },
     "createdAt": "2023-12-08T00:00:00Z"
+  },
+  {
+    "Id": 17,
+    "title": "Anti-Aging Night Cream",
+    "price": 68.99,
+    "originalPrice": 89.99,
+    "discount": 23,
+    "images": [
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1596755389378-c31d21fd1273?w=500&h=500&fit=crop"
+    ],
+    "description": "Luxurious anti-aging night cream with retinol, peptides, and hyaluronic acid. Reduces fine lines and wrinkles while you sleep, promoting skin renewal and hydration.",
+    "category": "Beauty",
+    "rating": 4.6,
+    "reviewCount": 289,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "volume": "50ml",
+      "ingredients": "Retinol, Peptides, Hyaluronic Acid",
+      "application": "Night use only",
+      "skinType": "Mature skin"
+    },
+    "createdAt": "2023-12-05T00:00:00Z"
+  },
+  {
+    "Id": 18,
+    "title": "Matte Lipstick Set",
+    "price": 42.99,
+    "images": [
+      "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=500&h=500&fit=crop"
+    ],
+    "description": "Collection of 6 long-lasting matte lipsticks in versatile shades. Highly pigmented formula provides full coverage with comfortable wear for up to 8 hours.",
+    "category": "Beauty",
+    "rating": 4.4,
+    "reviewCount": 156,
+    "inStock": true,
+    "specifications": {
+      "set": "6 lipsticks",
+      "finish": "Matte",
+      "wear": "8+ hours",
+      "formula": "Highly pigmented"
+    },
+    "createdAt": "2023-12-03T00:00:00Z"
+  },
+  {
+    "Id": 19,
+    "title": "Volumizing Mascara",
+    "price": 28.99,
+    "images": [
+      "https://images.unsplash.com/photo-1631214540242-d0ca0c1d6d6b?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1583241800119-db7ba9d0e011?w=500&h=500&fit=crop"
+    ],
+    "description": "Professional volumizing mascara that creates dramatic lashes without clumping. Waterproof formula with precision brush for maximum volume and length.",
+    "category": "Beauty",
+    "rating": 4.3,
+    "reviewCount": 312,
+    "inStock": true,
+    "specifications": {
+      "volume": "10ml",
+      "formula": "Waterproof",
+      "effect": "Volumizing and lengthening",
+      "brush": "Precision curved"
+    },
+    "createdAt": "2023-12-01T00:00:00Z"
+  },
+  {
+    "Id": 20,
+    "title": "Hydrating Face Mask",
+    "price": 18.99,
+    "images": [
+      "https://images.unsplash.com/photo-1570194065650-d99fb4bedf0a?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=500&h=500&fit=crop"
+    ],
+    "description": "Intensive hydrating sheet mask pack with aloe vera and cucumber extract. Provides instant moisture and soothes tired skin in just 15 minutes.",
+    "category": "Beauty",
+    "rating": 4.2,
+    "reviewCount": 98,
+    "inStock": true,
+    "specifications": {
+      "pack": "10 sheet masks",
+      "ingredients": "Aloe Vera, Cucumber Extract",
+      "time": "15 minutes",
+      "skinType": "All skin types"
+    },
+    "createdAt": "2023-11-28T00:00:00Z"
+  },
+  {
+    "Id": 21,
+    "title": "Premium Makeup Brush Set",
+    "price": 89.99,
+    "originalPrice": 119.99,
+    "discount": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=500&h=500&fit=crop"
+    ],
+    "description": "Professional makeup brush set with synthetic bristles and elegant rose gold handles. Includes 12 essential brushes for face and eye makeup application.",
+    "category": "Beauty",
+    "rating": 4.7,
+    "reviewCount": 234,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "set": "12 brushes",
+      "bristles": "Synthetic",
+      "handle": "Rose gold aluminum",
+      "case": "Included"
+    },
+    "createdAt": "2023-11-25T00:00:00Z"
+  },
+  {
+    "Id": 22,
+    "title": "Argan Hair Oil",
+    "price": 35.99,
+    "images": [
+      "https://images.unsplash.com/photo-1571875257727-256c39da42af?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1608248542669-d4d4bb2b8c8e?w=500&h=500&fit=crop"
+    ],
+    "description": "Pure organic argan oil for hair nourishment and shine. Repairs damaged hair, reduces frizz, and provides deep conditioning for all hair types.",
+    "category": "Beauty",
+    "rating": 4.5,
+    "reviewCount": 167,
+    "inStock": true,
+    "specifications": {
+      "volume": "100ml",
+      "origin": "Morocco",
+      "purity": "100% Organic",
+      "hairType": "All hair types"
+    },
+    "createdAt": "2023-11-22T00:00:00Z"
+  },
+  {
+    "Id": 23,
+    "title": "Luxury Perfume",
+    "price": 79.99,
+    "images": [
+      "https://images.unsplash.com/photo-1541643600914-78b084683601?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1588405748880-12d1d2a59c32?w=500&h=500&fit=crop"
+    ],
+    "description": "Elegant floral perfume with notes of jasmine, rose, and sandalwood. Long-lasting fragrance that evolves beautifully throughout the day.",
+    "category": "Beauty",
+    "rating": 4.6,
+    "reviewCount": 201,
+    "inStock": true,
+    "specifications": {
+      "volume": "50ml",
+      "concentration": "Eau de Parfum",
+      "notes": "Jasmine, Rose, Sandalwood",
+      "longevity": "8+ hours"
+    },
+    "createdAt": "2023-11-20T00:00:00Z"
+  },
+  {
+    "Id": 24,
+    "title": "Exfoliating Body Scrub",
+    "price": 24.99,
+    "images": [
+      "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1612817288484-6f916006741a?w=500&h=500&fit=crop"
+    ],
+    "description": "Invigorating body scrub with sea salt and essential oils. Gently exfoliates dead skin cells while moisturizing, leaving skin smooth and radiant.",
+    "category": "Beauty",
+    "rating": 4.4,
+    "reviewCount": 143,
+    "inStock": true,
+    "specifications": {
+      "volume": "250ml",
+      "ingredients": "Sea Salt, Essential Oils",
+      "effect": "Exfoliating and moisturizing",
+      "scent": "Refreshing citrus"
+    },
+    "createdAt": "2023-11-18T00:00:00Z"
   }
 ]
