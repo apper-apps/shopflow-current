@@ -5620,7 +5620,2312 @@
       "style": "Reversible tote",
       "capacity": "Large",
       "features": "Interior pockets"
-    },
+},
     "createdAt": "2023-10-18T00:00:00Z"
+  },
+  {
+    "Id": 253,
+    "title": "iPhone 15 Pro Max",
+    "price": 1199.99,
+    "originalPrice": 1299.99,
+    "discount": 8,
+    "images": [
+      "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500&h=500&fit=crop"
+    ],
+    "description": "Latest iPhone 15 Pro Max with titanium design, A17 Pro chip, and Pro camera system. Features 6.7-inch Super Retina XDR display and USB-C connectivity.",
+    "category": "Electronics",
+    "rating": 4.8,
+    "reviewCount": 342,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "display": "6.7-inch Super Retina XDR",
+      "chip": "A17 Pro",
+      "camera": "48MP Main, 12MP Ultra Wide",
+      "storage": "256GB"
+    },
+    "createdAt": "2024-01-26T00:00:00Z"
+  },
+  {
+    "Id": 254,
+    "title": "MacBook Pro 14-inch M3",
+    "price": 1899.99,
+    "originalPrice": 1999.99,
+    "discount": 5,
+    "images": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=500&h=500&fit=crop"
+    ],
+    "description": "Powerful MacBook Pro with M3 chip, 14-inch Liquid Retina XDR display, and up to 22-hour battery life. Perfect for professional workflows.",
+    "category": "Electronics",
+    "rating": 4.7,
+    "reviewCount": 289,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "processor": "Apple M3 chip",
+      "memory": "16GB unified memory",
+      "storage": "512GB SSD",
+      "display": "14.2-inch Liquid Retina XDR"
+    },
+    "createdAt": "2024-01-25T00:00:00Z"
+  },
+  {
+    "Id": 255,
+    "title": "Samsung Galaxy S24 Ultra",
+    "price": 1299.99,
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=500&h=500&fit=crop"
+    ],
+    "description": "Premium Android flagship with S Pen, 200MP camera, and AI-powered features. 6.8-inch Dynamic AMOLED display with 120Hz refresh rate.",
+    "category": "Electronics",
+    "rating": 4.6,
+    "reviewCount": 456,
+    "inStock": true,
+    "specifications": {
+      "display": "6.8-inch Dynamic AMOLED 2X",
+      "camera": "200MP main camera",
+      "storage": "256GB",
+      "sPen": "Built-in S Pen"
+    },
+    "createdAt": "2024-01-24T00:00:00Z"
+  },
+  {
+    "Id": 256,
+    "title": "AirPods Pro 2nd Generation",
+    "price": 249.99,
+    "originalPrice": 279.99,
+    "discount": 11,
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=500&h=500&fit=crop"
+    ],
+    "description": "Advanced AirPods Pro with H2 chip, adaptive transparency, and personalized spatial audio. Up to 6 hours of listening time with ANC.",
+    "category": "Electronics",
+    "rating": 4.5,
+    "reviewCount": 398,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "chip": "Apple H2",
+      "batteryLife": "6 hours + 24 with case",
+      "features": "Active Noise Cancellation",
+      "connectivity": "Bluetooth 5.3"
+    },
+    "createdAt": "2024-01-23T00:00:00Z"
+  },
+  {
+    "Id": 257,
+    "title": "Sony WH-1000XM5 Headphones",
+    "price": 349.99,
+    "originalPrice": 399.99,
+    "discount": 13,
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=500&h=500&fit=crop"
+    ],
+    "description": "Industry-leading noise canceling headphones with 30-hour battery life. Premium sound quality with LDAC codec support.",
+    "category": "Electronics",
+    "rating": 4.7,
+    "reviewCount": 567,
+    "inStock": true,
+    "specifications": {
+      "batteryLife": "30 hours",
+      "noiseCancellation": "Industry-leading ANC",
+      "codec": "LDAC, AAC, SBC",
+      "weight": "250g"
+    },
+    "createdAt": "2024-01-22T00:00:00Z"
+  },
+  {
+    "Id": 258,
+    "title": "iPad Pro 12.9-inch M2",
+    "price": 1099.99,
+    "originalPrice": 1199.99,
+    "discount": 8,
+    "images": [
+      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=500&h=500&fit=crop"
+    ],
+    "description": "Ultimate iPad experience with M2 chip, 12.9-inch Liquid Retina XDR display, and support for Apple Pencil 2nd generation.",
+    "category": "Electronics",
+    "rating": 4.6,
+    "reviewCount": 234,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "processor": "Apple M2 chip",
+      "display": "12.9-inch Liquid Retina XDR",
+      "storage": "256GB",
+      "connectivity": "Wi-Fi 6E + 5G"
+    },
+    "createdAt": "2024-01-21T00:00:00Z"
+  },
+  {
+    "Id": 259,
+    "title": "Nintendo Switch OLED",
+    "price": 349.99,
+    "images": [
+      "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=500&h=500&fit=crop"
+    ],
+    "description": "Enhanced Nintendo Switch with vibrant 7-inch OLED screen, improved audio, and enhanced kickstand for tabletop play.",
+    "category": "Electronics",
+    "rating": 4.5,
+    "reviewCount": 445,
+    "inStock": true,
+    "specifications": {
+      "display": "7-inch OLED touchscreen",
+      "storage": "64GB internal",
+      "batteryLife": "4.5-9 hours",
+      "connectivity": "Wi-Fi, Bluetooth"
+    },
+    "createdAt": "2024-01-20T00:00:00Z"
+  },
+  {
+    "Id": 260,
+    "title": "Dell XPS 13 Plus Laptop",
+    "price": 1299.99,
+    "originalPrice": 1399.99,
+    "discount": 7,
+    "images": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=500&h=500&fit=crop"
+    ],
+    "description": "Premium ultrabook with 13.4-inch InfinityEdge display, 12th Gen Intel Core processors, and sleek modern design.",
+    "category": "Electronics",
+    "rating": 4.4,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "processor": "Intel Core i7-1260P",
+      "memory": "16GB LPDDR5",
+      "storage": "512GB SSD",
+      "display": "13.4-inch FHD+"
+    },
+    "createdAt": "2024-01-19T00:00:00Z"
+  },
+  {
+    "Id": 261,
+    "title": "PlayStation 5 Console",
+    "price": 499.99,
+    "images": [
+      "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=500&h=500&fit=crop"
+    ],
+    "description": "Next-generation gaming console with custom SSD, ray tracing, and 4K gaming capabilities. Includes DualSense wireless controller.",
+    "category": "Electronics",
+    "rating": 4.8,
+    "reviewCount": 789,
+    "inStock": false,
+    "featured": true,
+    "specifications": {
+      "storage": "825GB custom SSD",
+      "graphics": "Custom RDNA 2 GPU",
+      "resolution": "Up to 4K",
+      "audio": "3D Audio with Tempest 3D"
+    },
+    "createdAt": "2024-01-18T00:00:00Z"
+  },
+  {
+    "Id": 262,
+    "title": "Apple Watch Series 9",
+    "price": 399.99,
+    "originalPrice": 429.99,
+    "discount": 7,
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=500&h=500&fit=crop"
+    ],
+    "description": "Most advanced Apple Watch with S9 chip, Double Tap gesture, and brightest Always-On Retina display. Perfect health and fitness companion.",
+    "category": "Electronics",
+    "rating": 4.6,
+    "reviewCount": 356,
+    "inStock": true,
+    "specifications": {
+      "chip": "S9 SiP",
+      "display": "45mm Always-On Retina",
+      "batteryLife": "18 hours",
+      "features": "Double Tap, Blood Oxygen"
+    },
+    "createdAt": "2024-01-17T00:00:00Z"
+  },
+  {
+    "Id": 263,
+    "title": "Samsung 65-inch QLED TV",
+    "price": 1299.99,
+    "originalPrice": 1499.99,
+    "discount": 13,
+    "images": [
+      "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1567690187548-f07b1d7bf5a9?w=500&h=500&fit=crop"
+    ],
+    "description": "Premium 65-inch QLED 4K TV with Quantum HDR, smart TV features, and Object Tracking Sound for immersive entertainment.",
+    "category": "Electronics",
+    "rating": 4.5,
+    "reviewCount": 278,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "screenSize": "65 inches",
+      "resolution": "4K QLED",
+      "hdr": "Quantum HDR",
+      "smartTV": "Tizen OS"
+    },
+    "createdAt": "2024-01-16T00:00:00Z"
+  },
+  {
+    "Id": 264,
+    "title": "Canon EOS R5 Camera",
+    "price": 3899.99,
+    "images": [
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1503206292007-d8bf73c6e0a7?w=500&h=500&fit=crop"
+    ],
+    "description": "Professional mirrorless camera with 45MP sensor, 8K video recording, and advanced image stabilization. Perfect for professional photography.",
+    "category": "Electronics",
+    "rating": 4.7,
+    "reviewCount": 145,
+    "inStock": true,
+    "specifications": {
+      "sensor": "45MP Full-frame CMOS",
+      "video": "8K RAW recording",
+      "stabilization": "In-body IS",
+      "autofocus": "1053 AF points"
+    },
+    "createdAt": "2024-01-15T00:00:00Z"
+  },
+  {
+    "Id": 265,
+    "title": "Tesla Model Y Wireless Charger",
+    "price": 89.99,
+    "images": [
+      "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=500&h=500&fit=crop"
+    ],
+    "description": "Premium wireless charging pad designed specifically for Tesla Model Y. Fast charging with sleek design that matches interior.",
+    "category": "Electronics",
+    "rating": 4.3,
+    "reviewCount": 167,
+    "inStock": true,
+    "specifications": {
+      "power": "15W fast charging",
+      "compatibility": "Tesla Model Y",
+      "design": "Custom fit",
+      "features": "Foreign object detection"
+    },
+    "createdAt": "2024-01-14T00:00:00Z"
+  },
+  {
+    "Id": 266,
+    "title": "Bose QuietComfort Earbuds",
+    "price": 279.99,
+    "originalPrice": 329.99,
+    "discount": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=500&h=500&fit=crop"
+    ],
+    "description": "Premium wireless earbuds with world-class noise cancellation and high-fidelity audio. Comfortable secure fit for all-day wear.",
+    "category": "Electronics",
+    "rating": 4.4,
+    "reviewCount": 234,
+    "inStock": true,
+    "specifications": {
+      "noiseCancellation": "11 levels",
+      "batteryLife": "6 hours + 12 with case",
+      "weatherResistance": "IPX4",
+      "controls": "Touch controls"
+    },
+    "createdAt": "2024-01-13T00:00:00Z"
+  },
+  {
+    "Id": 267,
+    "title": "Microsoft Surface Pro 9",
+    "price": 999.99,
+    "originalPrice": 1099.99,
+    "discount": 9,
+    "images": [
+      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=500&h=500&fit=crop"
+    ],
+    "description": "Versatile 2-in-1 laptop with 13-inch PixelSense touchscreen, Intel 12th Gen processors, and all-day battery life.",
+    "category": "Electronics",
+    "rating": 4.3,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "processor": "Intel Core i5-1235U",
+      "memory": "8GB LPDDR5",
+      "storage": "256GB SSD",
+      "display": "13-inch PixelSense"
+    },
+    "createdAt": "2024-01-12T00:00:00Z"
+  },
+  {
+    "Id": 268,
+    "title": "Garmin Fenix 7 Smartwatch",
+    "price": 649.99,
+    "originalPrice": 699.99,
+    "discount": 7,
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=500&h=500&fit=crop"
+    ],
+    "description": "Rugged multisport GPS smartwatch with solar charging, comprehensive health monitoring, and mapping features for outdoor adventures.",
+    "category": "Electronics",
+    "rating": 4.6,
+    "reviewCount": 278,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "batteryLife": "18 days + solar",
+      "gps": "Multi-GNSS",
+      "waterRating": "10 ATM",
+      "maps": "TopoActive maps"
+    },
+    "createdAt": "2024-01-11T00:00:00Z"
+  },
+  {
+    "Id": 269,
+    "title": "Xbox Series X Console",
+    "price": 499.99,
+    "images": [
+      "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=500&h=500&fit=crop"
+    ],
+    "description": "Most powerful Xbox ever with 4K gaming, ray tracing, and 1TB custom SSD. Backward compatible with thousands of games.",
+    "category": "Electronics",
+    "rating": 4.7,
+    "reviewCount": 567,
+    "inStock": true,
+    "specifications": {
+      "storage": "1TB custom SSD",
+      "graphics": "12 TFLOPS RDNA 2",
+      "resolution": "4K at 60fps",
+      "backwards": "Four generations"
+    },
+    "createdAt": "2024-01-10T00:00:00Z"
+  },
+  {
+    "Id": 270,
+    "title": "Google Pixel 8 Pro",
+    "price": 999.99,
+    "originalPrice": 1099.99,
+    "discount": 9,
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=500&h=500&fit=crop"
+    ],
+    "description": "Google's flagship smartphone with Tensor G3 chip, advanced AI photography features, and pure Android experience.",
+    "category": "Electronics",
+    "rating": 4.5,
+    "reviewCount": 298,
+    "inStock": true,
+    "specifications": {
+      "processor": "Google Tensor G3",
+      "camera": "50MP triple camera",
+      "display": "6.7-inch LTPO OLED",
+      "updates": "7 years of updates"
+    },
+    "createdAt": "2024-01-09T00:00:00Z"
+  },
+  {
+    "Id": 271,
+    "title": "Amazon Echo Studio",
+    "price": 199.99,
+    "originalPrice": 229.99,
+    "discount": 13,
+    "images": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1518639192441-8fce0c43e80b?w=500&h=500&fit=crop"
+    ],
+    "description": "High-fidelity smart speaker with 3D audio, Dolby Atmos, and Alexa built-in. Perfect for audiophiles and smart home enthusiasts.",
+    "category": "Electronics",
+    "rating": 4.4,
+    "reviewCount": 345,
+    "inStock": true,
+    "specifications": {
+      "audio": "3D Audio with Dolby Atmos",
+      "drivers": "5 directional speakers",
+      "assistant": "Alexa built-in",
+      "connectivity": "Wi-Fi, Bluetooth"
+    },
+    "createdAt": "2024-01-08T00:00:00Z"
+  },
+  {
+    "Id": 272,
+    "title": "LG OLED 55-inch TV",
+    "price": 1499.99,
+    "originalPrice": 1799.99,
+    "discount": 17,
+    "images": [
+      "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1567690187548-f07b1d7bf5a9?w=500&h=500&fit=crop"
+    ],
+    "description": "Premium OLED TV with perfect blacks, infinite contrast, and cinema-quality picture. Supports Dolby Vision and Atmos.",
+    "category": "Electronics",
+    "rating": 4.8,
+    "reviewCount": 234,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "screenSize": "55 inches",
+      "technology": "OLED evo",
+      "processor": "α9 Gen5 AI",
+      "gaming": "4 HDMI 2.1 ports"
+    },
+    "createdAt": "2024-01-07T00:00:00Z"
+  },
+  {
+    "Id": 273,
+    "title": "Dyson V15 Detect Vacuum",
+    "price": 749.99,
+    "originalPrice": 849.99,
+    "discount": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=500&h=500&fit=crop"
+    ],
+    "description": "Advanced cordless vacuum with laser dust detection, intelligent suction adjustment, and scientific proof of deep clean.",
+    "category": "Electronics",
+    "rating": 4.6,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "batteryLife": "Up to 60 minutes",
+      "dustDetection": "Laser reveal",
+      "filtration": "Advanced 5-stage",
+      "weight": "3.1 kg"
+    },
+    "createdAt": "2024-01-06T00:00:00Z"
+  },
+  {
+    "Id": 274,
+    "title": "Nest Learning Thermostat",
+    "price": 249.99,
+    "images": [
+      "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=500&h=500&fit=crop"
+    ],
+    "description": "Smart thermostat that learns your schedule and programs itself. Helps save energy while keeping you comfortable.",
+    "category": "Electronics",
+    "rating": 4.3,
+    "reviewCount": 456,
+    "inStock": true,
+    "specifications": {
+      "learning": "Auto-schedule",
+      "compatibility": "95% of systems",
+      "remote": "App control",
+      "efficiency": "Energy saving"
+    },
+    "createdAt": "2024-01-05T00:00:00Z"
+  },
+  {
+    "Id": 275,
+    "title": "Samsung Galaxy Tab S9",
+    "price": 799.99,
+    "originalPrice": 899.99,
+    "discount": 11,
+    "images": [
+      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=500&h=500&fit=crop"
+    ],
+    "description": "Premium Android tablet with 11-inch Dynamic AMOLED display, S Pen included, and desktop-class productivity features.",
+    "category": "Electronics",
+    "rating": 4.5,
+    "reviewCount": 234,
+    "inStock": true,
+    "specifications": {
+      "display": "11-inch Dynamic AMOLED 2X",
+      "processor": "Snapdragon 8 Gen 2",
+      "sPen": "Included",
+      "storage": "128GB + microSD"
+    },
+    "createdAt": "2024-01-04T00:00:00Z"
+  },
+  {
+    "Id": 276,
+    "title": "JBL Charge 5 Speaker",
+    "price": 179.99,
+    "originalPrice": 199.99,
+    "discount": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1518639192441-8fce0c43e80b?w=500&h=500&fit=crop"
+    ],
+    "description": "Portable waterproof speaker with powerful JBL Pro Sound, 20-hour playtime, and power bank functionality.",
+    "category": "Electronics",
+    "rating": 4.4,
+    "reviewCount": 378,
+    "inStock": true,
+    "specifications": {
+      "batteryLife": "20 hours",
+      "waterproof": "IP67",
+      "powerBank": "USB charge out",
+      "connectivity": "Bluetooth 5.1"
+    },
+    "createdAt": "2024-01-03T00:00:00Z"
+  },
+  {
+    "Id": 277,
+    "title": "Fitbit Charge 6",
+    "price": 199.99,
+    "originalPrice": 229.99,
+    "discount": 13,
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=500&h=500&fit=crop"
+    ],
+    "description": "Advanced fitness tracker with built-in GPS, heart rate monitoring, and 7+ day battery life. Perfect for health and wellness tracking.",
+    "category": "Electronics",
+    "rating": 4.2,
+    "reviewCount": 289,
+    "inStock": true,
+    "specifications": {
+      "batteryLife": "7+ days",
+      "gps": "Built-in GPS",
+      "waterResistance": "50m",
+      "healthFeatures": "24/7 heart rate, stress"
+    },
+    "createdAt": "2024-01-02T00:00:00Z"
+  },
+  {
+    "Id": 278,
+    "title": "GoPro HERO12 Black",
+    "price": 399.99,
+    "originalPrice": 449.99,
+    "discount": 11,
+    "images": [
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1503206292007-d8bf73c6e0a7?w=500&h=500&fit=crop"
+    ],
+    "description": "Ultimate action camera with 5.3K video, enhanced HyperSmooth stabilization, and waterproof design for extreme adventures.",
+    "category": "Electronics",
+    "rating": 4.6,
+    "reviewCount": 456,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "video": "5.3K60 + 4K120",
+      "stabilization": "HyperSmooth 6.0",
+      "waterproof": "33ft without housing",
+      "connectivity": "Wi-Fi 6 + Bluetooth"
+    },
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": 279,
+    "title": "Roku Ultra 4K Streaming",
+    "price": 99.99,
+    "originalPrice": 119.99,
+    "discount": 17,
+    "images": [
+      "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1567690187548-f07b1d7bf5a9?w=500&h=500&fit=crop"
+    ],
+    "description": "Premium 4K HDR streaming device with voice remote, private listening, and access to thousands of streaming channels.",
+    "category": "Electronics",
+    "rating": 4.3,
+    "reviewCount": 234,
+    "inStock": true,
+    "specifications": {
+      "resolution": "4K HDR10+",
+      "remote": "Voice remote with headphones",
+      "ethernet": "Wired + wireless",
+      "channels": "500,000+ movies & shows"
+    },
+    "createdAt": "2023-12-31T00:00:00Z"
+  },
+  {
+    "Id": 280,
+    "title": "Tesla Powerbank 20000mAh",
+    "price": 45.99,
+    "images": [
+      "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=500&h=500&fit=crop"
+    ],
+    "description": "High-capacity portable power bank with USB-C PD fast charging, wireless charging pad, and sleek Tesla design.",
+    "category": "Electronics",
+    "rating": 4.1,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "capacity": "20000mAh",
+      "wireless": "10W wireless charging",
+      "ports": "USB-C PD + USB-A",
+      "passthrough": "Charge while charging"
+    },
+    "createdAt": "2023-12-30T00:00:00Z"
+  },
+  {
+    "Id": 281,
+    "title": "Anker PowerCore 10K",
+    "price": 29.99,
+    "originalPrice": 39.99,
+    "discount": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=500&h=500&fit=crop"
+    ],
+    "description": "Compact 10000mAh portable charger with PowerIQ technology and high-speed charging for phones and tablets.",
+    "category": "Electronics",
+    "rating": 4.4,
+    "reviewCount": 567,
+    "inStock": true,
+    "specifications": {
+      "capacity": "10000mAh",
+      "technology": "PowerIQ 2.0",
+      "ports": "2 USB-A",
+      "weight": "180g"
+    },
+    "createdAt": "2023-12-29T00:00:00Z"
+  },
+  {
+    "Id": 282,
+    "title": "Ring Video Doorbell Pro 2",
+    "price": 249.99,
+    "originalPrice": 279.99,
+    "discount": 11,
+    "images": [
+      "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=500&h=500&fit=crop"
+    ],
+    "description": "Advanced video doorbell with 1536p HD video, 3D motion detection, and built-in Alexa greetings for smart home security.",
+    "category": "Electronics",
+    "rating": 4.3,
+    "reviewCount": 289,
+    "inStock": true,
+    "specifications": {
+      "resolution": "1536p HD",
+      "fieldOfView": "Head-to-toe view",
+      "power": "Hardwired",
+      "features": "3D motion detection"
+    },
+    "createdAt": "2023-12-28T00:00:00Z"
+  },
+  {
+    "Id": 283,
+    "title": "Logitech MX Master 3S",
+    "price": 99.99,
+    "originalPrice": 119.99,
+    "discount": 17,
+    "images": [
+      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1615750185084-c8dfe4a9db6e?w=500&h=500&fit=crop"
+    ],
+    "description": "Advanced wireless mouse with MagSpeed scrolling, customizable buttons, and multi-device connectivity for productivity.",
+    "category": "Electronics",
+    "rating": 4.6,
+    "reviewCount": 234,
+    "inStock": true,
+    "specifications": {
+      "connectivity": "Bluetooth + USB receiver",
+      "battery": "70 days",
+      "sensors": "8K DPI Darkfield",
+      "compatibility": "Mac, PC, iPad"
+    },
+    "createdAt": "2023-12-27T00:00:00Z"
+  },
+  {
+    "Id": 284,
+    "title": "Keychron K8 Mechanical Keyboard",
+    "price": 89.99,
+    "originalPrice": 109.99,
+    "discount": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=500&h=500&fit=crop"
+    ],
+    "description": "Wireless mechanical keyboard with hot-swappable switches, RGB backlighting, and Mac/Windows compatibility.",
+    "category": "Electronics",
+    "rating": 4.5,
+    "reviewCount": 178,
+    "inStock": true,
+    "specifications": {
+      "switches": "Gateron mechanical",
+      "connectivity": "Bluetooth + USB-C",
+      "battery": "4000mAh",
+      "layout": "TKL 87-key"
+    },
+    "createdAt": "2023-12-26T00:00:00Z"
+  },
+  {
+    "Id": 285,
+    "title": "Razer DeathAdder V3 Gaming Mouse",
+    "price": 89.99,
+    "images": [
+      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1615750185084-c8dfe4a9db6e?w=500&h=500&fit=crop"
+    ],
+    "description": "Ergonomic gaming mouse with Focus Pro 30K sensor, 90-hour battery life, and customizable Chroma RGB lighting.",
+    "category": "Electronics",
+    "rating": 4.4,
+    "reviewCount": 345,
+    "inStock": true,
+    "specifications": {
+      "sensor": "Focus Pro 30K",
+      "battery": "90 hours",
+      "switches": "90M click lifecycle",
+      "dpi": "Up to 30,000"
+    },
+    "createdAt": "2023-12-25T00:00:00Z"
+  },
+  {
+    "Id": 286,
+    "title": "ASUS ROG Strix Gaming Laptop",
+    "price": 1499.99,
+    "originalPrice": 1699.99,
+    "discount": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=500&h=500&fit=crop"
+    ],
+    "description": "High-performance gaming laptop with RTX 4060, AMD Ryzen 7, and 144Hz display for immersive gaming experiences.",
+    "category": "Electronics",
+    "rating": 4.5,
+    "reviewCount": 189,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "processor": "AMD Ryzen 7 7735HS",
+      "graphics": "RTX 4060 8GB",
+      "display": "15.6-inch 144Hz",
+      "memory": "16GB DDR5"
+    },
+    "createdAt": "2023-12-24T00:00:00Z"
+  },
+  {
+    "Id": 287,
+    "title": "SteelSeries Arctis 7P Wireless",
+    "price": 149.99,
+    "originalPrice": 179.99,
+    "discount": 17,
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=500&h=500&fit=crop"
+    ],
+    "description": "Premium wireless gaming headset with lossless 2.4GHz connection, DTS Headphone:X v2.0, and 24-hour battery life.",
+    "category": "Electronics",
+    "rating": 4.3,
+    "reviewCount": 234,
+    "inStock": true,
+    "specifications": {
+      "connectivity": "2.4GHz wireless",
+      "batteryLife": "24 hours",
+      "audio": "DTS Headphone:X v2.0",
+      "microphone": "ClearCast retractable"
+    },
+    "createdAt": "2023-12-23T00:00:00Z"
+  },
+  {
+    "Id": 288,
+    "title": "DJI Mini 4 Pro Drone",
+    "price": 759.99,
+    "originalPrice": 849.99,
+    "discount": 11,
+    "images": [
+      "https://images.unsplash.com/photo-1507808973436-a4ed7b5e87c9?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=500&h=500&fit=crop"
+    ],
+    "description": "Compact drone with 4K HDR video, omnidirectional obstacle sensing, and 34-minute flight time for aerial photography.",
+    "category": "Electronics",
+    "rating": 4.7,
+    "reviewCount": 156,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "camera": "4K/60fps HDR",
+      "flightTime": "34 minutes",
+      "obstacleAvoidance": "Omnidirectional",
+      "weight": "249g"
+    },
+    "createdAt": "2023-12-22T00:00:00Z"
+  },
+  {
+    "Id": 289,
+    "title": "Philips Hue Color Starter Kit",
+    "price": 199.99,
+    "originalPrice": 229.99,
+    "discount": 13,
+    "images": [
+      "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=500&h=500&fit=crop"
+    ],
+    "description": "Smart lighting starter kit with 3 color bulbs and bridge. Control with app, voice, or smart home systems.",
+    "category": "Electronics",
+    "rating": 4.4,
+    "reviewCount": 345,
+    "inStock": true,
+    "specifications": {
+      "bulbs": "3 A19 color bulbs",
+      "colors": "16 million colors",
+      "compatibility": "Alexa, Google, Apple",
+      "lifespan": "25,000 hours"
+    },
+    "createdAt": "2023-12-21T00:00:00Z"
+  },
+  {
+    "Id": 290,
+    "title": "Apple AirTag 4-Pack",
+    "price": 99.99,
+    "originalPrice": 119.99,
+    "discount": 17,
+    "images": [
+      "https://images.unsplash.com/photo-1621768216002-5ac171876625?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=500&h=500&fit=crop"
+    ],
+    "description": "Precision finding devices that help locate and keep track of everyday items using the Find My network.",
+    "category": "Electronics",
+    "rating": 4.5,
+    "reviewCount": 456,
+    "inStock": true,
+    "specifications": {
+      "connectivity": "Bluetooth for proximity",
+      "battery": "User-replaceable CR2032",
+      "waterResistance": "IP67",
+      "precision": "Ultra Wideband chip"
+    },
+    "createdAt": "2023-12-20T00:00:00Z"
+  },
+  {
+    "Id": 291,
+    "title": "Tile Mate Bluetooth Tracker",
+    "price": 59.99,
+    "originalPrice": 79.99,
+    "discount": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1621768216002-5ac171876625?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=500&h=500&fit=crop"
+    ],
+    "description": "Bluetooth tracker that helps find your things. Loud ring, 200 ft range, and replaceable battery with 1-year life.",
+    "category": "Electronics",
+    "rating": 4.2,
+    "reviewCount": 234,
+    "inStock": true,
+    "specifications": {
+      "range": "200 ft",
+      "volume": "Loud 60dB ring",
+      "battery": "CR1632 replaceable",
+      "waterRating": "IP55"
+    },
+    "createdAt": "2023-12-19T00:00:00Z"
+  },
+  {
+    "Id": 292,
+    "title": "Kindle Paperwhite Signature",
+    "price": 189.99,
+    "originalPrice": 209.99,
+    "discount": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop"
+    ],
+    "description": "Premium e-reader with 6.8-inch display, adjustable warm light, wireless charging, and 32GB storage.",
+    "category": "Electronics",
+    "rating": 4.6,
+    "reviewCount": 378,
+    "inStock": true,
+    "specifications": {
+      "display": "6.8-inch glare-free",
+      "storage": "32GB",
+      "battery": "Up to 10 weeks",
+      "charging": "Wireless + USB-C"
+    },
+    "createdAt": "2023-12-18T00:00:00Z"
+  },
+  {
+    "Id": 293,
+    "title": "Oculus Meta Quest 3",
+    "price": 499.99,
+    "images": [
+      "https://images.unsplash.com/photo-1617802690992-15d93263d3a9?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1626736985687-6f1b0b8b5a6b?w=500&h=500&fit=crop"
+    ],
+    "description": "Next-generation VR headset with mixed reality capabilities, improved graphics, and comfortable all-in-one design.",
+    "category": "Electronics",
+    "rating": 4.5,
+    "reviewCount": 189,
+    "inStock": false,
+    "featured": true,
+    "specifications": {
+      "display": "2064x2208 per eye",
+      "processor": "Snapdragon XR2 Gen 2",
+      "storage": "128GB",
+      "tracking": "Inside-out tracking"
+    },
+    "createdAt": "2023-12-17T00:00:00Z"
+  },
+  {
+    "Id": 294,
+    "title": "Epson EcoTank ET-2850 Printer",
+    "price": 249.99,
+    "originalPrice": 299.99,
+    "discount": 17,
+    "images": [
+      "https://images.unsplash.com/photo-1612198188060-c7c2a3b66eae?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1541692641319-981cc17ef2a4?w=500&h=500&fit=crop"
+    ],
+    "description": "All-in-one printer with refillable ink tanks, wireless printing, and low-cost per page for home and office use.",
+    "category": "Electronics",
+    "rating": 4.3,
+    "reviewCount": 234,
+    "inStock": true,
+    "specifications": {
+      "functions": "Print, scan, copy",
+      "connectivity": "Wi-Fi, USB",
+      "yields": "Up to 4,500 pages black",
+      "features": "Borderless printing"
+    },
+    "createdAt": "2023-12-16T00:00:00Z"
+  },
+  {
+    "Id": 295,
+    "title": "Webcam Logitech C920s HD Pro",
+    "price": 69.99,
+    "originalPrice": 89.99,
+    "discount": 22,
+    "images": [
+      "https://images.unsplash.com/photo-1612198188060-c7c2a3b66eae?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1541692641319-981cc17ef2a4?w=500&h=500&fit=crop"
+    ],
+    "description": "Full HD webcam with privacy shutter, auto-focus, and noise-reducing microphone for video calls and streaming.",
+    "category": "Electronics",
+    "rating": 4.4,
+    "reviewCount": 345,
+    "inStock": true,
+    "specifications": {
+      "resolution": "1080p at 30fps",
+      "autofocus": "Full HD autofocus",
+      "microphone": "Dual stereo",
+      "privacy": "Privacy shutter"
+    },
+    "createdAt": "2023-12-15T00:00:00Z"
+  },
+  {
+    "Id": 296,
+    "title": "Blue Yeti USB Microphone",
+    "price": 99.99,
+    "originalPrice": 129.99,
+    "discount": 23,
+    "images": [
+      "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=500&h=500&fit=crop"
+    ],
+    "description": "Professional USB microphone with four pickup patterns, real-time headphone monitoring, and plug-and-play setup.",
+    "category": "Electronics",
+    "rating": 4.5,
+    "reviewCount": 456,
+    "inStock": true,
+    "specifications": {
+      "patterns": "4 pickup patterns",
+      "connection": "USB plug & play",
+      "monitoring": "Zero-latency headphone",
+      "controls": "Mute button, gain control"
+    },
+    "createdAt": "2023-12-14T00:00:00Z"
+  },
+  {
+    "Id": 297,
+    "title": "Herman Miller Aeron Chair",
+    "price": 1395.99,
+    "originalPrice": 1595.99,
+    "discount": 13,
+    "images": [
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1541558869434-2840d308329a?w=500&h=500&fit=crop"
+    ],
+    "description": "Iconic ergonomic office chair with breathable mesh, advanced tilt mechanism, and 12-year warranty for all-day comfort.",
+    "category": "Electronics",
+    "rating": 4.7,
+    "reviewCount": 189,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "material": "8Z Pellicle mesh",
+      "adjustments": "12 zones of support",
+      "warranty": "12 years",
+      "mechanism": "Advanced tilt"
+    },
+    "createdAt": "2023-12-13T00:00:00Z"
+  },
+  {
+    "Id": 298,
+    "title": "Standing Desk Electric Adjustable",
+    "price": 399.99,
+    "originalPrice": 499.99,
+    "discount": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1541558869434-2840d308329a?w=500&h=500&fit=crop"
+    ],
+    "description": "Electric height-adjustable standing desk with memory presets, anti-collision technology, and sturdy steel frame.",
+    "category": "Electronics",
+    "rating": 4.4,
+    "reviewCount": 234,
+    "inStock": true,
+    "specifications": {
+      "heightRange": "28-47.6 inches",
+      "capacity": "176 lbs",
+      "presets": "4 memory positions",
+      "safety": "Anti-collision technology"
+    },
+    "createdAt": "2023-12-12T00:00:00Z"
+  },
+  {
+    "Id": 299,
+    "title": "Monitor LG 27-inch 4K UltraFine",
+    "price": 699.99,
+    "originalPrice": 799.99,
+    "discount": 13,
+    "images": [
+      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=500&h=500&fit=crop"
+    ],
+    "description": "Professional 27-inch 4K monitor with USB-C connectivity, P3 wide color gamut, and height-adjustable stand.",
+    "category": "Electronics",
+    "rating": 4.6,
+    "reviewCount": 178,
+    "inStock": true,
+    "specifications": {
+      "resolution": "4K UHD (3840x2160)",
+      "colorGamut": "P3 wide color",
+      "connectivity": "USB-C, HDMI, DisplayPort",
+      "adjustments": "Height, tilt, swivel"
+    },
+    "createdAt": "2023-12-11T00:00:00Z"
+  },
+  {
+    "Id": 300,
+    "title": "ASUS ProArt Display 32-inch",
+    "price": 899.99,
+    "originalPrice": 1099.99,
+    "discount": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=500&h=500&fit=crop"
+    ],
+    "description": "Professional 32-inch 4K monitor with 100% sRGB coverage, factory calibration, and ergonomic design for creative work.",
+    "category": "Electronics",
+    "rating": 4.5,
+    "reviewCount": 145,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "resolution": "4K UHD IPS",
+      "colorAccuracy": "100% sRGB, 95% DCI-P3",
+      "calibration": "Factory calibrated",
+      "ports": "USB-C 90W, HDMI, DP"
+    },
+    "createdAt": "2023-12-10T00:00:00Z"
+  },
+  {
+    "Id": 301,
+    "title": "Synology NAS DiskStation DS220+",
+    "price": 299.99,
+    "originalPrice": 349.99,
+    "discount": 14,
+    "images": [
+      "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=500&h=500&fit=crop"
+    ],
+    "description": "2-bay network attached storage with quad-core processor, 4K transcoding, and comprehensive backup solutions.",
+    "category": "Electronics",
+    "rating": 4.3,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "bays": "2-bay for 3.5/2.5 SATA",
+      "processor": "Intel Celeron J4025",
+      "memory": "2GB DDR4",
+      "transcoding": "4K H.265 10-bit"
+    },
+    "createdAt": "2023-12-09T00:00:00Z"
+  },
+  {
+    "Id": 302,
+    "title": "WD Black SN850X 2TB NVMe SSD",
+    "price": 199.99,
+    "originalPrice": 249.99,
+    "discount": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=500&h=500&fit=crop"
+    ],
+    "description": "High-performance 2TB NVMe SSD with up to 7,300 MB/s read speeds, optimized for gaming and creative workloads.",
+    "category": "Electronics",
+    "rating": 4.6,
+    "reviewCount": 234,
+    "inStock": true,
+    "specifications": {
+      "capacity": "2TB",
+      "interface": "PCIe Gen4 NVMe",
+      "readSpeed": "Up to 7,300 MB/s",
+      "warranty": "5 years"
+    },
+    "createdAt": "2023-12-08T00:00:00Z"
+  },
+  {
+    "Id": 303,
+    "title": "Corsair Vengeance DDR5 32GB Kit",
+    "price": 149.99,
+    "originalPrice": 179.99,
+    "discount": 17,
+    "images": [
+      "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=500&h=500&fit=crop"
+    ],
+    "description": "High-performance DDR5 memory kit with 32GB capacity, optimized for gaming and productivity with RGB lighting.",
+    "category": "Electronics",
+    "rating": 4.4,
+    "reviewCount": 156,
+    "inStock": true,
+    "specifications": {
+      "capacity": "32GB (2x16GB)",
+      "speed": "DDR5-5600",
+      "timing": "CL36",
+      "lighting": "RGB"
+    },
+    "createdAt": "2023-12-07T00:00:00Z"
+  },
+  {
+    "Id": 304,
+    "title": "NVIDIA GeForce RTX 4070",
+    "price": 599.99,
+    "originalPrice": 649.99,
+    "discount": 8,
+    "images": [
+      "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=500&h=500&fit=crop"
+    ],
+    "description": "Powerful graphics card with Ada Lovelace architecture, ray tracing, DLSS 3, and 12GB GDDR6X memory for 4K gaming.",
+    "category": "Electronics",
+    "rating": 4.7,
+    "reviewCount": 289,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "memory": "12GB GDDR6X",
+      "architecture": "Ada Lovelace",
+      "rtCores": "3rd gen RT cores",
+      "dlss": "DLSS 3"
+    },
+    "createdAt": "2023-12-06T00:00:00Z"
+  },
+  {
+    "Id": 305,
+    "title": "AMD Ryzen 9 7950X Processor",
+    "price": 549.99,
+    "originalPrice": 599.99,
+    "discount": 8,
+    "images": [
+      "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=500&h=500&fit=crop"
+    ],
+    "description": "High-performance 16-core processor with Zen 4 architecture, 5.7GHz boost clock, and AM5 socket compatibility.",
+    "category": "Electronics",
+    "rating": 4.6,
+    "reviewCount": 178,
+    "inStock": true,
+    "specifications": {
+      "cores": "16 cores, 32 threads",
+      "baseClock": "4.5GHz",
+      "boostClock": "5.7GHz",
+      "socket": "AM5"
+    },
+    "createdAt": "2023-12-05T00:00:00Z"
+  },
+  {
+    "Id": 306,
+    "title": "Intel Core i9-13900K Processor",
+    "price": 519.99,
+    "originalPrice": 579.99,
+    "discount": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=500&h=500&fit=crop"
+    ],
+    "description": "Flagship Intel processor with 24 cores, 5.8GHz boost clock, and hybrid architecture for gaming and productivity.",
+    "category": "Electronics",
+    "rating": 4.5,
+    "reviewCount": 234,
+    "inStock": true,
+    "specifications": {
+      "cores": "24 cores (8P+16E)",
+      "threads": "32 threads",
+      "boostClock": "5.8GHz",
+      "socket": "LGA1700"
+    },
+    "createdAt": "2023-12-04T00:00:00Z"
+  },
+  {
+    "Id": 307,
+    "title": "Corsair RM850x Power Supply",
+    "price": 129.99,
+    "originalPrice": 149.99,
+    "discount": 13,
+    "images": [
+      "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=500&h=500&fit=crop"
+    ],
+    "description": "80 PLUS Gold certified modular power supply with 850W capacity, quiet operation, and 10-year warranty.",
+    "category": "Electronics",
+    "rating": 4.5,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "wattage": "850W",
+      "efficiency": "80 PLUS Gold",
+      "modular": "Fully modular",
+      "warranty": "10 years"
+    },
+    "createdAt": "2023-12-03T00:00:00Z"
+  },
+  {
+    "Id": 308,
+    "title": "NZXT H7 Flow PC Case",
+    "price": 129.99,
+    "originalPrice": 159.99,
+    "discount": 19,
+    "images": [
+      "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=500&h=500&fit=crop"
+    ],
+    "description": "Mid-tower PC case with optimized airflow, tempered glass panel, and tool-free installation for easy building.",
+    "category": "Electronics",
+    "rating": 4.3,
+    "reviewCount": 145,
+    "inStock": true,
+    "specifications": {
+      "formFactor": "Mid-tower ATX",
+      "panel": "Tempered glass",
+      "fans": "3x 120mm included",
+      "clearance": "GPU up to 381mm"
+    },
+    "createdAt": "2023-12-02T00:00:00Z"
+  },
+  {
+    "Id": 309,
+    "title": "Noctua NH-D15 CPU Cooler",
+    "price": 99.99,
+    "originalPrice": 119.99,
+    "discount": 17,
+    "images": [
+      "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=500&h=500&fit=crop"
+    ],
+    "description": "Premium dual-tower CPU cooler with two NF-A15 fans, excellent cooling performance, and ultra-quiet operation.",
+    "category": "Electronics",
+    "rating": 4.8,
+    "reviewCount": 456,
+    "inStock": true,
+    "specifications": {
+      "type": "Dual-tower air cooler",
+      "fans": "2x NF-A15 140mm",
+      "compatibility": "Intel/AMD",
+      "height": "165mm"
+    },
+    "createdAt": "2023-12-01T00:00:00Z"
+  },
+  {
+    "Id": 310,
+    "title": "ASUS ROG Strix Z790-E Gaming",
+    "price": 449.99,
+    "originalPrice": 519.99,
+    "discount": 13,
+    "images": [
+      "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=500&h=500&fit=crop"
+    ],
+    "description": "Premium Z790 motherboard with PCIe 5.0, DDR5 support, Wi-Fi 6E, and comprehensive cooling solutions.",
+    "category": "Electronics",
+    "rating": 4.4,
+    "reviewCount": 178,
+    "inStock": true,
+    "specifications": {
+      "socket": "LGA1700",
+      "chipset": "Intel Z790",
+      "memory": "DDR5-7200+",
+      "wireless": "Wi-Fi 6E + Bluetooth 5.3"
+    },
+    "createdAt": "2023-11-30T00:00:00Z"
+  },
+  {
+    "Id": 311,
+    "title": "Seagate FireCuda 530 1TB SSD",
+    "price": 89.99,
+    "originalPrice": 119.99,
+    "discount": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=500&h=500&fit=crop"
+    ],
+    "description": "High-speed PCIe Gen4 NVMe SSD with 7,300 MB/s read speeds, perfect for gaming and content creation.",
+    "category": "Electronics",
+    "rating": 4.3,
+    "reviewCount": 234,
+    "inStock": true,
+    "specifications": {
+      "capacity": "1TB",
+      "interface": "PCIe Gen4 x4 NVMe",
+      "readSpeed": "7,300 MB/s",
+      "endurance": "1,275 TBW"
+    },
+    "createdAt": "2023-11-29T00:00:00Z"
+  },
+  {
+    "Id": 312,
+    "title": "Elgato Stream Deck MK.2",
+    "price": 149.99,
+    "originalPrice": 179.99,
+    "discount": 17,
+    "images": [
+      "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=500&h=500&fit=crop"
+    ],
+    "description": "Professional studio controller with 15 customizable LCD keys for streamers, content creators, and productivity.",
+    "category": "Electronics",
+    "rating": 4.6,
+    "reviewCount": 289,
+    "inStock": true,
+    "specifications": {
+      "keys": "15 customizable LCD keys",
+      "connectivity": "USB-C",
+      "software": "Stream Deck software",
+      "compatibility": "Windows, Mac"
+    },
+    "createdAt": "2023-11-28T00:00:00Z"
+  },
+  {
+    "Id": 313,
+    "title": "Sony Alpha a7 IV Camera",
+    "price": 2498.99,
+    "originalPrice": 2699.99,
+    "discount": 7,
+    "images": [
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1503206292007-d8bf73c6e0a7?w=500&h=500&fit=crop"
+    ],
+    "description": "Professional full-frame mirrorless camera with 33MP sensor, 4K video, and advanced autofocus system.",
+    "category": "Electronics",
+    "rating": 4.7,
+    "reviewCount": 167,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "sensor": "33MP full-frame CMOS",
+      "video": "4K 60p recording",
+      "autofocus": "759 phase-detection points",
+      "stabilization": "5-axis in-body"
+    },
+    "createdAt": "2023-11-27T00:00:00Z"
+  },
+  {
+    "Id": 314,
+    "title": "Fujifilm X-T5 Mirrorless",
+    "price": 1699.99,
+    "originalPrice": 1799.99,
+    "discount": 6,
+    "images": [
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1503206292007-d8bf73c6e0a7?w=500&h=500&fit=crop"
+    ],
+    "description": "Premium APS-C mirrorless camera with 40MP sensor, classic design, and exceptional image quality for photography enthusiasts.",
+    "category": "Electronics",
+    "rating": 4.5,
+    "reviewCount": 134,
+    "inStock": true,
+    "specifications": {
+      "sensor": "40MP APS-C X-Trans CMOS 5 HR",
+      "video": "6.2K internal recording",
+      "stabilization": "7-stop IBIS",
+      "battery": "740 shots per charge"
+    },
+    "createdAt": "2023-11-26T00:00:00Z"
+  },
+  {
+    "Id": 315,
+    "title": "DJI Pocket 2 Creator Combo",
+    "price": 569.99,
+    "originalPrice": 649.99,
+    "discount": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1507808973436-a4ed7b5e87c9?w=500&h=500&fit=crop"
+    ],
+    "description": "Ultra-compact handheld camera with 4K video, 3-axis gimbal, and creator accessories for professional content creation.",
+    "category": "Electronics",
+    "rating": 4.4,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "video": "4K/60fps video",
+      "stabilization": "3-axis mechanical gimbal",
+      "size": "Pocket-sized 117x51x33mm",
+      "accessories": "Creator combo included"
+    },
+    "createdAt": "2023-11-25T00:00:00Z"
+  },
+  {
+    "Id": 316,
+    "title": "Blackmagic ATEM Mini Pro",
+    "price": 395.99,
+    "originalPrice": 449.99,
+    "discount": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=500&h=500&fit=crop"
+    ],
+    "description": "Professional live production switcher with 4 HDMI inputs, streaming encoder, and recording capabilities.",
+    "category": "Electronics",
+    "rating": 4.6,
+    "reviewCount": 156,
+    "inStock": true,
+    "specifications": {
+      "inputs": "4 HDMI inputs",
+      "streaming": "Built-in encoder",
+      "recording": "USB-C recording",
+      "audio": "Fairlight audio mixer"
+    },
+    "createdAt": "2023-11-24T00:00:00Z"
+  },
+  {
+    "Id": 317,
+    "title": "Audio-Technica AT2020USB+",
+    "price": 149.99,
+    "originalPrice": 179.99,
+    "discount": 17,
+    "images": [
+      "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=500&h=500&fit=crop"
+    ],
+    "description": "Professional cardioid condenser microphone with USB output, perfect for podcasting, streaming, and home recording.",
+    "category": "Electronics",
+    "rating": 4.5,
+    "reviewCount": 234,
+    "inStock": true,
+    "specifications": {
+      "type": "Cardioid condenser",
+      "connection": "USB and XLR output",
+      "frequency": "20-20,000 Hz",
+      "monitoring": "Zero-latency headphone"
+    },
+    "createdAt": "2023-11-23T00:00:00Z"
+  },
+  {
+    "Id": 318,
+    "title": "Shure SM7B Microphone",
+    "price": 399.99,
+    "originalPrice": 459.99,
+    "discount": 13,
+    "images": [
+      "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=500&h=500&fit=crop"
+    ],
+    "description": "Legendary broadcast dynamic microphone with smooth, flat response for professional vocals and speech applications.",
+    "category": "Electronics",
+    "rating": 4.8,
+    "reviewCount": 345,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "type": "Dynamic microphone",
+      "pattern": "Cardioid",
+      "frequency": "50-20,000 Hz",
+      "applications": "Broadcast, podcasting"
+    },
+    "createdAt": "2023-11-22T00:00:00Z"
+  },
+  {
+    "Id": 319,
+    "title": "Focusrite Scarlett 2i2 Interface",
+    "price": 169.99,
+    "originalPrice": 199.99,
+    "discount": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=500&h=500&fit=crop"
+    ],
+    "description": "Professional 2-input, 2-output USB audio interface with high-quality preamps and 24-bit/192kHz conversion.",
+    "category": "Electronics",
+    "rating": 4.4,
+    "reviewCount": 456,
+    "inStock": true,
+    "specifications": {
+      "inputs": "2 combo inputs with preamps",
+      "outputs": "2 line outputs",
+      "resolution": "24-bit/192kHz",
+      "monitoring": "Direct monitoring"
+    },
+    "createdAt": "2023-11-21T00:00:00Z"
+  },
+  {
+    "Id": 320,
+    "title": "Yamaha HS8 Studio Monitor",
+    "price": 349.99,
+    "originalPrice": 399.99,
+    "discount": 13,
+    "images": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=500&h=500&fit=crop"
+    ],
+    "description": "Professional 8-inch active studio monitor with bi-amplified design and precise sound reproduction for mixing and mastering.",
+    "category": "Electronics",
+    "rating": 4.6,
+    "reviewCount": 178,
+    "inStock": true,
+    "specifications": {
+      "woofer": "8-inch cone woofer",
+      "tweeter": "1-inch dome tweeter",
+      "power": "120W total",
+      "frequency": "38Hz-30kHz"
+    },
+    "createdAt": "2023-11-20T00:00:00Z"
+  },
+  {
+    "Id": 321,
+    "title": "KRK Rokit 5 G4 Monitor Pair",
+    "price": 299.99,
+    "originalPrice": 349.99,
+    "discount": 14,
+    "images": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=500&h=500&fit=crop"
+    ],
+    "description": "Professional 5-inch active studio monitors with DSP-driven room tuning and mobile app control for optimal sound.",
+    "category": "Electronics",
+    "rating": 4.3,
+    "reviewCount": 234,
+    "inStock": true,
+    "specifications": {
+      "woofer": "5-inch Kevlar woofer",
+      "tweeter": "1-inch textile dome",
+      "dsp": "Built-in DSP",
+      "app": "KRK Audio Tools app"
+    },
+    "createdAt": "2023-11-19T00:00:00Z"
+  },
+  {
+    "Id": 322,
+    "title": "Pioneer DDJ-FLX4 DJ Controller",
+    "price": 249.99,
+    "originalPrice": 299.99,
+    "discount": 17,
+    "images": [
+      "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=500&h=500&fit=crop"
+    ],
+    "description": "Entry-level DJ controller with professional features, Smart CFX, and compatibility with multiple DJ software.",
+    "category": "Electronics",
+    "rating": 4.2,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "channels": "4-channel mixer",
+      "jogs": "Touch-sensitive jog wheels",
+      "effects": "Smart CFX effects",
+      "software": "rekordbox dj, Serato DJ Lite"
+    },
+    "createdAt": "2023-11-18T00:00:00Z"
+  },
+  {
+    "Id": 323,
+    "title": "Native Instruments Komplete Audio 6",
+    "price": 199.99,
+    "originalPrice": 229.99,
+    "discount": 13,
+    "images": [
+      "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=500&h=500&fit=crop"
+    ],
+    "description": "Professional 6-channel audio interface with premium converters, solid build quality, and included software bundle.",
+    "category": "Electronics",
+    "rating": 4.4,
+    "reviewCount": 145,
+    "inStock": true,
+    "specifications": {
+      "channels": "4 inputs, 6 outputs",
+      "resolution": "24-bit/192kHz",
+      "preamps": "2 microphone preamps",
+      "software": "Komplete Start included"
+    },
+    "createdAt": "2023-11-17T00:00:00Z"
+  },
+  {
+    "Id": 324,
+    "title": "MIDI Keyboard Arturia KeyLab 61",
+    "price": 399.99,
+    "originalPrice": 459.99,
+    "discount": 13,
+    "images": [
+      "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=500&h=500&fit=crop"
+    ],
+    "description": "Professional 61-key MIDI controller with aftertouch, comprehensive controls, and premium software bundle.",
+    "category": "Electronics",
+    "rating": 4.5,
+    "reviewCount": 167,
+    "inStock": true,
+    "specifications": {
+      "keys": "61 semi-weighted keys",
+      "aftertouch": "Channel aftertouch",
+      "controls": "16 RGB pads, 9 faders",
+      "software": "Analog Lab V included"
+    },
+    "createdAt": "2023-11-16T00:00:00Z"
+  },
+  {
+    "Id": 325,
+    "title": "Roland TD-07DMK Electronic Drums",
+    "price": 899.99,
+    "originalPrice": 1099.99,
+    "discount": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=500&h=500&fit=crop"
+    ],
+    "description": "Complete electronic drum kit with mesh head snare, natural feel, and Roland's acclaimed sounds and coaching features.",
+    "category": "Electronics",
+    "rating": 4.6,
+    "reviewCount": 123,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "snare": "10-inch mesh head",
+      "sounds": "25 preset kits",
+      "coaching": "Built-in coaching functions",
+      "connectivity": "USB, audio outputs"
+    },
+    "createdAt": "2023-11-15T00:00:00Z"
+  },
+  {
+    "Id": 326,
+    "title": "Fender Player Stratocaster Electric",
+    "price": 849.99,
+    "originalPrice": 949.99,
+    "discount": 11,
+    "images": [
+      "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=500&h=500&fit=crop"
+    ],
+    "description": "Classic electric guitar with alder body, maple neck, and Player Series Alnico 5 Strat pickups for authentic Fender tone.",
+    "category": "Electronics",
+    "rating": 4.7,
+    "reviewCount": 234,
+    "inStock": false,
+    "specifications": {
+      "body": "Alder",
+      "neck": "Maple with C-shape",
+      "pickups": "3 Player Series Alnico 5",
+      "bridge": "Synchronized tremolo"
+    },
+    "createdAt": "2023-11-14T00:00:00Z"
+  },
+  {
+    "Id": 327,
+    "title": "Gibson Les Paul Standard Electric",
+    "price": 2499.99,
+    "originalPrice": 2799.99,
+    "discount": 11,
+    "images": [
+      "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=500&h=500&fit=crop"
+    ],
+    "description": "Iconic electric guitar with mahogany body, figured maple cap, and BurstBucker Pro pickups for legendary Gibson tone.",
+    "category": "Electronics",
+    "rating": 4.8,
+    "reviewCount": 156,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "body": "Mahogany with maple cap",
+      "neck": "Mahogany set-neck",
+      "pickups": "BurstBucker Pro humbuckers",
+      "finish": "Nitrocellulose lacquer"
+    },
+    "createdAt": "2023-11-13T00:00:00Z"
+  },
+  {
+    "Id": 328,
+    "title": "Marshall Acton III Bluetooth Speaker",
+    "price": 279.99,
+    "originalPrice": 319.99,
+    "discount": 13,
+    "images": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1518639192441-8fce0c43e80b?w=500&h=500&fit=crop"
+    ],
+    "description": "Iconic Marshall design meets modern technology with wireless streaming, classic styling, and room-filling sound.",
+    "category": "Electronics",
+    "rating": 4.4,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "power": "30W total power",
+      "connectivity": "Bluetooth 5.0",
+      "design": "Classic Marshall styling",
+      "controls": "Analog control knobs"
+    },
+    "createdAt": "2023-11-12T00:00:00Z"
+  },
+  {
+    "Id": 329,
+    "title": "Vox AC30 Guitar Amplifier",
+    "price": 1299.99,
+    "originalPrice": 1499.99,
+    "discount": 13,
+    "images": [
+      "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=500&h=500&fit=crop"
+    ],
+    "description": "Legendary tube guitar amplifier with classic British tone, 30 watts of power, and the iconic Vox chime sound.",
+    "category": "Electronics",
+    "rating": 4.7,
+    "reviewCount": 145,
+    "inStock": true,
+    "specifications": {
+      "power": "30W tube amplifier",
+      "speakers": "2x12 Celestion Alnico Blue",
+      "tubes": "4 x EL84, 3 x 12AX7",
+      "channels": "2 channels"
+    },
+    "createdAt": "2023-11-11T00:00:00Z"
+  },
+  {
+    "Id": 330,
+    "title": "Boss Katana-50 MkII Amplifier",
+    "price": 229.99,
+    "originalPrice": 269.99,
+    "discount": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=500&h=500&fit=crop"
+    ],
+    "description": "Versatile 50-watt guitar amplifier with five amp characters, effects, and Boss Tone Studio for deep editing.",
+    "category": "Electronics",
+    "rating": 4.5,
+    "reviewCount": 234,
+    "inStock": true,
+    "specifications": {
+      "power": "50W solid state",
+      "speaker": "12-inch custom speaker",
+      "amps": "5 amp characters",
+      "effects": "60+ BOSS effects"
+    },
+    "createdAt": "2023-11-10T00:00:00Z"
+  },
+  {
+    "Id": 331,
+    "title": "Teenage Engineering OP-1 Synthesizer",
+    "price": 1299.99,
+    "originalPrice": 1399.99,
+    "discount": 7,
+    "images": [
+      "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=500&h=500&fit=crop"
+    ],
+    "description": "Portable synthesizer, sampler, and sequencer with unique interface, built-in effects, and creative workflow.",
+    "category": "Electronics",
+    "rating": 4.3,
+    "reviewCount": 89,
+    "inStock": true,
+    "specifications": {
+      "synthesis": "Multiple synthesis engines",
+      "sampler": "Built-in sampler",
+      "sequencer": "4-track tape recorder",
+      "battery": "16 hours operation"
+    },
+    "createdAt": "2023-11-09T00:00:00Z"
+  },
+  {
+    "Id": 332,
+    "title": "Moog Subsequent 25 Synthesizer",
+    "price": 899.99,
+    "originalPrice": 1099.99,
+    "discount": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=500&h=500&fit=crop"
+    ],
+    "description": "Analog synthesizer with classic Moog sound, 25-key Fatar keybed, and comprehensive modulation capabilities.",
+    "category": "Electronics",
+    "rating": 4.6,
+    "reviewCount": 134,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "keys": "25 semi-weighted keys",
+      "oscillators": "2 VCOs + noise",
+      "filter": "4-pole Moog ladder filter",
+      "sequencer": "32-step sequencer"
+    },
+    "createdAt": "2023-11-08T00:00:00Z"
+  },
+  {
+    "Id": 333,
+    "title": "Elektron Digitakt Drum Machine",
+    "price": 749.99,
+    "originalPrice": 849.99,
+    "discount": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=500&h=500&fit=crop"
+    ],
+    "description": "8-voice digital drum machine and sampler with parameter locks, song mode, and Elektron's legendary sequencer.",
+    "category": "Electronics",
+    "rating": 4.5,
+    "reviewCount": 167,
+    "inStock": true,
+    "specifications": {
+      "voices": "8 sample-based voices",
+      "sequencer": "64-step sequencer",
+      "sampling": "Stereo sampling",
+      "storage": "1GB + project storage"
+    },
+    "createdAt": "2023-11-07T00:00:00Z"
+  },
+  {
+    "Id": 334,
+    "title": "Ableton Push 3 Controller",
+    "price": 799.99,
+    "originalPrice": 899.99,
+    "discount": 11,
+    "images": [
+      "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=500&h=500&fit=crop"
+    ],
+    "description": "Advanced MIDI controller with MPE support, high-resolution display, and deep integration with Ableton Live.",
+    "category": "Electronics",
+    "rating": 4.4,
+    "reviewCount": 145,
+    "inStock": true,
+    "specifications": {
+      "pads": "64 velocity-sensitive pads",
+      "display": "High-resolution color display",
+      "mpe": "MPE support",
+      "integration": "Ableton Live integration"
+    },
+    "createdAt": "2023-11-06T00:00:00Z"
+  },
+  {
+    "Id": 335,
+    "title": "Novation Launchpad Pro MK3",
+    "price": 349.99,
+    "originalPrice": 399.99,
+    "discount": 13,
+    "images": [
+      "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=500&h=500&fit=crop"
+    ],
+    "description": "Grid controller with velocity-sensitive pads, standalone sequencer, and comprehensive DAW integration.",
+    "category": "Electronics",
+    "rating": 4.3,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "pads": "64 velocity-sensitive RGB pads",
+      "sequencer": "4-track polyphonic sequencer",
+      "standalone": "Standalone operation",
+      "daw": "Multiple DAW support"
+    },
+    "createdAt": "2023-11-05T00:00:00Z"
+  },
+  {
+    "Id": 336,
+    "title": "Universal Audio Apollo Twin X",
+    "price": 899.99,
+    "originalPrice": 1099.99,
+    "discount": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=500&h=500&fit=crop"
+    ],
+    "description": "Professional desktop audio interface with UA preamps, real-time UAD processing, and premium AD/DA conversion.",
+    "category": "Electronics",
+    "rating": 4.7,
+    "reviewCount": 156,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "inputs": "2 Unison-enabled preamps",
+      "conversion": "24-bit/192kHz",
+      "dsp": "Realtime UAD processing",
+      "software": "Luna Recording System"
+    },
+    "createdAt": "2023-11-04T00:00:00Z"
+  },
+  {
+    "Id": 337,
+    "title": "RME Babyface Pro FS Interface",
+    "price": 749.99,
+    "originalPrice": 849.99,
+    "discount": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=500&h=500&fit=crop"
+    ],
+    "description": "Professional portable audio interface with exceptional sound quality, comprehensive I/O, and rock-solid drivers.",
+    "category": "Electronics",
+    "rating": 4.6,
+    "reviewCount": 134,
+    "inStock": true,
+    "specifications": {
+      "inputs": "4 analog inputs",
+      "outputs": "4 analog outputs",
+      "conversion": "24-bit/192kHz",
+      "latency": "Ultra-low latency"
+    },
+    "createdAt": "2023-11-03T00:00:00Z"
+  },
+  {
+    "Id": 338,
+    "title": "Zoom H6 Handy Recorder",
+    "price": 349.99,
+    "originalPrice": 399.99,
+    "discount": 13,
+    "images": [
+      "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=500&h=500&fit=crop"
+    ],
+    "description": "6-track portable recorder with interchangeable microphone capsules, perfect for field recording and podcasting.",
+    "category": "Electronics",
+    "rating": 4.4,
+    "reviewCount": 234,
+    "inStock": true,
+    "specifications": {
+      "tracks": "6-track simultaneous recording",
+      "capsules": "Interchangeable mic capsules",
+      "inputs": "4 XLR/TRS combo inputs",
+      "recording": "Up to 24-bit/96kHz"
+    },
+    "createdAt": "2023-11-02T00:00:00Z"
+  },
+  {
+    "Id": 339,
+    "title": "Rode PodMic USB Microphone",
+    "price": 199.99,
+    "originalPrice": 229.99,
+    "discount": 13,
+    "images": [
+      "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=500&h=500&fit=crop"
+    ],
+    "description": "Professional USB microphone designed specifically for podcasting with rich, warm sound and plug-and-play operation.",
+    "category": "Electronics",
+    "rating": 4.5,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "type": "Dynamic USB microphone",
+      "connection": "USB-C to USB-A",
+      "monitoring": "Zero-latency headphone",
+      "application": "Podcasting optimized"
+    },
+    "createdAt": "2023-11-01T00:00:00Z"
+  },
+  {
+    "Id": 340,
+    "title": "Neumann TLM 103 Microphone",
+    "price": 1299.99,
+    "originalPrice": 1499.99,
+    "discount": 13,
+    "images": [
+      "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=500&h=500&fit=crop"
+    ],
+    "description": "Professional large-diaphragm condenser microphone with transformerless circuit and exceptional vocal reproduction.",
+    "category": "Electronics",
+    "rating": 4.8,
+    "reviewCount": 123,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "type": "Large-diaphragm condenser",
+      "frequency": "20Hz-20kHz",
+      "pattern": "Cardioid",
+      "application": "Studio vocals, instruments"
+    },
+    "createdAt": "2023-10-31T00:00:00Z"
+  },
+  {
+    "Id": 341,
+    "title": "AKG C414 XLII Microphone",
+    "price": 999.99,
+    "originalPrice": 1199.99,
+    "discount": 17,
+    "images": [
+      "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=500&h=500&fit=crop"
+    ],
+    "description": "Legendary studio condenser microphone with multiple polar patterns and switchable attenuation and filters.",
+    "category": "Electronics",
+    "rating": 4.6,
+    "reviewCount": 167,
+    "inStock": true,
+    "specifications": {
+      "patterns": "9 selectable polar patterns",
+      "capsule": "1-inch gold-sputtered",
+      "attenuation": "-6/-12/-18dB pad",
+      "filter": "12dB/octave high-pass"
+    },
+    "createdAt": "2023-10-30T00:00:00Z"
+  },
+  {
+    "Id": 342,
+    "title": "Sennheiser HD 800 S Headphones",
+    "price": 1699.99,
+    "originalPrice": 1899.99,
+    "discount": 11,
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=500&h=500&fit=crop"
+    ],
+    "description": "Reference-class open-back headphones with 56mm drivers and exceptional soundstage for critical listening.",
+    "category": "Electronics",
+    "rating": 4.7,
+    "reviewCount": 145,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "drivers": "56mm ring radiator",
+      "impedance": "300 ohms",
+      "frequency": "4Hz-51kHz",
+      "type": "Open-back reference"
+    },
+    "createdAt": "2023-10-29T00:00:00Z"
+  },
+  {
+    "Id": 343,
+    "title": "Beyerdynamic DT 770 Pro Headphones",
+    "price": 179.99,
+    "originalPrice": 199.99,
+    "discount": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=500&h=500&fit=crop"
+    ],
+    "description": "Professional closed-back studio headphones with excellent isolation and detailed sound reproduction for mixing.",
+    "category": "Electronics",
+    "rating": 4.5,
+    "reviewCount": 234,
+    "inStock": true,
+    "specifications": {
+      "impedance": "80 ohms",
+      "frequency": "5Hz-35kHz",
+      "type": "Closed-back dynamic",
+      "application": "Studio monitoring"
+    },
+    "createdAt": "2023-10-28T00:00:00Z"
+  },
+  {
+    "Id": 344,
+    "title": "Audio-Technica ATH-M50x Headphones",
+    "price": 149.99,
+    "originalPrice": 169.99,
+    "discount": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=500&h=500&fit=crop"
+    ],
+    "description": "Professional monitor headphones with 45mm large-aperture drivers and superior sound isolation.",
+    "category": "Electronics",
+    "rating": 4.4,
+    "reviewCount": 456,
+    "inStock": true,
+    "specifications": {
+      "drivers": "45mm large-aperture",
+      "frequency": "15Hz-28kHz",
+      "cables": "3 detachable cables",
+      "design": "Collapsible"
+    },
+    "createdAt": "2023-10-27T00:00:00Z"
+  },
+  {
+    "Id": 345,
+    "title": "Grado SR325x Headphones",
+    "price": 295.99,
+    "originalPrice": 339.99,
+    "discount": 13,
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=500&h=500&fit=crop"
+    ],
+    "description": "Hand-assembled open-back headphones with metal housing and Grado's signature detailed, dynamic sound.",
+    "category": "Electronics",
+    "rating": 4.3,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "drivers": "44mm dynamic",
+      "housing": "Metal housing",
+      "assembly": "Hand-assembled in Brooklyn",
+      "cable": "8-foot cable"
+    },
+    "createdAt": "2023-10-26T00:00:00Z"
+  },
+  {
+    "Id": 346,
+    "title": "Focal Utopia Headphones",
+    "price": 3999.99,
+    "originalPrice": 4399.99,
+    "discount": 9,
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=500&h=500&fit=crop"
+    ],
+    "description": "Flagship open-back headphones with beryllium drivers, hand-crafted in France for ultimate audiophile experience.",
+    "category": "Electronics",
+    "rating": 4.8,
+    "reviewCount": 89,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "drivers": "40mm beryllium dome",
+      "frequency": "5Hz-50kHz",
+      "impedance": "80 ohms",
+      "origin": "Hand-crafted in France"
+    },
+    "createdAt": "2023-10-25T00:00:00Z"
+  },
+  {
+    "Id": 347,
+    "title": "Chord Mojo 2 DAC/Amplifier",
+    "price": 569.99,
+    "originalPrice": 649.99,
+    "discount": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=500&h=500&fit=crop"
+    ],
+    "description": "Portable DAC and headphone amplifier with FPGA technology and exceptional sound quality for mobile audio.",
+    "category": "Electronics",
+    "rating": 4.5,
+    "reviewCount": 134,
+    "inStock": true,
+    "specifications": {
+      "dac": "Chord's custom FPGA",
+      "inputs": "USB, optical, coaxial",
+      "battery": "8 hours playback",
+      "resolution": "Up to 32-bit/768kHz"
+    },
+    "createdAt": "2023-10-24T00:00:00Z"
+  },
+  {
+    "Id": 348,
+    "title": "Schiit Modi 3E DAC",
+    "price": 129.99,
+    "originalPrice": 149.99,
+    "discount": 13,
+    "images": [
+      "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=500&h=500&fit=crop"
+    ],
+    "description": "Affordable high-performance DAC with AK4490 chip and multiple digital inputs for desktop audio systems.",
+    "category": "Electronics",
+    "rating": 4.3,
+    "reviewCount": 189,
+    "inStock": true,
+    "specifications": {
+      "chip": "AK4490 DAC chip",
+      "inputs": "USB, optical, coaxial",
+      "resolution": "24-bit/192kHz",
+      "outputs": "RCA analog"
+    },
+    "createdAt": "2023-10-23T00:00:00Z"
+  },
+  {
+    "Id": 349,
+    "title": "iFi Audio ZEN DAC V2",
+    "price": 159.99,
+    "originalPrice": 179.99,
+    "discount": 11,
+    "images": [
+      "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=500&h=500&fit=crop"
+    ],
+    "description": "Desktop DAC and headphone amplifier with MQA support, TrueBass, and comprehensive connectivity options.",
+    "category": "Electronics",
+    "rating": 4.4,
+    "reviewCount": 156,
+    "inStock": true,
+    "specifications": {
+      "mqa": "MQA decoder",
+      "truebass": "Analog bass boost",
+      "inputs": "USB, S/PDIF",
+      "outputs": "4.4mm balanced, 6.3mm SE"
+    },
+    "createdAt": "2023-10-22T00:00:00Z"
+  },
+  {
+    "Id": 350,
+    "title": "Topping DX7 Pro DAC/Amp",
+    "price": 499.99,
+    "originalPrice": 579.99,
+    "discount": 14,
+    "images": [
+      "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=500&h=500&fit=crop"
+    ],
+    "description": "High-performance DAC and headphone amplifier with ES9038Pro chip, remote control, and balanced outputs.",
+    "category": "Electronics",
+    "rating": 4.5,
+    "reviewCount": 145,
+    "inStock": true,
+    "specifications": {
+      "chip": "ES9038Pro DAC",
+      "thd": "0.00006%",
+      "outputs": "Balanced XLR, single-ended",
+      "remote": "Full function remote"
+    },
+    "createdAt": "2023-10-21T00:00:00Z"
+  },
+  {
+    "Id": 351,
+    "title": "FiiO K7 DAC/Amplifier",
+    "price": 199.99,
+    "originalPrice": 229.99,
+    "discount": 13,
+    "images": [
+      "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=500&h=500&fit=crop"
+    ],
+    "description": "Desktop DAC and headphone amplifier with AK4493S chip, balanced outputs, and RGB lighting customization.",
+    "category": "Electronics",
+    "rating": 4.2,
+    "reviewCount": 178,
+    "inStock": true,
+    "specifications": {
+      "chip": "AK4493S DAC",
+      "power": "2000mW @ 32Ω balanced",
+      "rgb": "Customizable RGB lighting",
+      "inputs": "USB, optical, coaxial"
+    },
+    "createdAt": "2023-10-20T00:00:00Z"
+  },
+  {
+    "Id": 352,
+    "title": "Astell&Kern A&norma SR35",
+    "price": 899.99,
+    "originalPrice": 1099.99,
+    "discount": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=500&h=500&fit=crop"
+    ],
+    "description": "Premium portable music player with native DSD support, Hi-Fi streaming, and exceptional build quality.",
+    "category": "Electronics",
+    "rating": 4.6,
+    "reviewCount": 123,
+    "inStock": true,
+    "featured": true,
+    "specifications": {
+      "dac": "CS43198 dual DAC",
+      "dsd": "Native DSD512 support",
+      "storage": "64GB + microSD",
+      "streaming": "Wi-Fi streaming"
+    },
+    "createdAt": "2023-10-19T00:00:00Z"
   }
 ]
